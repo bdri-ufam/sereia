@@ -1,0 +1,5 @@
+{
+    "queryset_name": "dblp",
+    "queryset_filepath": "./querysets/dblp.json",
+    "dataset_config_filepath": "datasets_config/dblp.json"
+}

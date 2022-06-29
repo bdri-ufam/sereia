@@ -1,0 +1,3 @@
+- [] Gerar a função de execução run_queryset e testar o output
+- [] Gerar o diretório de resultados automaticamente
+- [] Ilustrar o resultado dos experimentos de forma legível

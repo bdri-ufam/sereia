@@ -1,0 +1,8 @@
+{
+    "database": "imdb",
+    "attributes_filepath": "./indexable_dataset_columns/imdb_filtered_attributes.json",
+    "dataset_directory": "./tmp/indexed_datasets/imdb/",
+    "schema_index_filepath": "imdb_schema_index_file.shelve",
+    "value_index_filepath": "imdb_value_index_file.shelve",
+    "schema_graph_filepath": "imdb_schema_graph_file.pickle"
+}

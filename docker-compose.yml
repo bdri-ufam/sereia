@@ -1,0 +1,26 @@
+version: '3.1'
+
+services:
+  mongo:
+    image: mongo:4.2
+    container_name: sereia_mongodb
+    restart: always
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=sereia
+      - MONGO_INITDB_ROOT_PASSWORD=sereia@mongo
+    command: --wiredTigerCacheSizeGB 2
+    ports:
+      - 27017:27017
+    volumes:
+      - ./mongo_data:/data/db
+      - ./databases/:/databases/
+      - ./generate_databases.sh:/generate_databases.sh
+
+  sereia:
+    build: .
+    container_name: sereia
+    env_file: .env-sereia
+    volumes:
+      - ./:/app/
+    # depends_on:
+    #   - mongo

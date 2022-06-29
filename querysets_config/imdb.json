@@ -1,0 +1,5 @@
+{
+    "queryset_name": "imdb",
+    "queryset_filepath": "./querysets/imdb.json",
+    "dataset_config_filepath": "datasets_config/imdb.json"
+}

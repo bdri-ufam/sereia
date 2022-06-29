@@ -1,0 +1,504 @@
+[
+  {
+    "keyword_query": "location brazil",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [
+            {
+              "attribute": "user.location",
+              "keywords": [
+                "location"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "user.location",
+              "keywords": [
+                "brazil"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [
+              {
+                "attribute": "user.location",
+                "keywords": [
+                  "location"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "user.location",
+                "keywords": [
+                  "brazil"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "star + wars",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                [
+                  "wars",
+                  "star"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  [
+                    "wars",
+                    "star"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "philippines 2011",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "user.location",
+              "keywords": [
+                "philippines"
+              ]
+            },
+            {
+              "attribute": "created_at",
+              "keywords": [
+                "2011"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "user.location",
+                "keywords": [
+                  "philippines"
+                ]
+              },
+              {
+                "attribute": "created_at",
+                "keywords": [
+                  "2011"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "apple + event",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                [
+                  "apple",
+                  "event"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  [
+                    "apple",
+                    "event"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "world + cup",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                [
+                  "world",
+                  "cup"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  [
+                    "world",
+                    "cup"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "percy + jackson",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                [
+                  "jackson",
+                  "percy"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  [
+                    "jackson",
+                    "percy"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "olympics",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                "olympics"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  "olympics"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "disney",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                "disney"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  "disney"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "hunger + games",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                [
+                  "hunger",
+                  "games"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  [
+                    "hunger",
+                    "games"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "zelda",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                "zelda"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  "zelda"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "climate + change",
+    "query_matches": [
+      [
+        {
+          "table": "twitter",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "text",
+              "keywords": [
+                [
+                  "change",
+                  "climate"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "twitter",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "text",
+                "keywords": [
+                  [
+                    "change",
+                    "climate"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  }
+]

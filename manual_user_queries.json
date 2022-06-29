@@ -1,0 +1,249 @@
+[
+  {
+    "query_number": 1,
+    "query": [
+    {
+        "$match": {
+            "name": "Bricola"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "review",
+            "let": { "user_id": "$user_id"},
+            "pipeline": [
+                {
+                    "$match": {
+                        "$expr": {
+                            "$and": [
+                                { "$eq": ["$stars", 5]},
+                                { "$eq": ["$$user_id", "$user_id"]}
+                            ]
+                        }
+                    }
+                }
+            ],
+            "as": "user_reviews"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "business",
+            "localField": "user_reviews.business_id",
+            "foreignField": "business_id",
+            "as": "user_business"
+        }
+    },
+    {
+        "$unwind": "$user_business"
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "user_business": 1
+        }
+    }
+  ]},
+  {
+    "query_number": 2,
+    "query": [
+    {
+        "$match": {
+            "name": "Analucia"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "review",
+            "let": { "user_id": "$user_id"},
+            "pipeline": [
+                {
+                    "$match": {
+                        "$expr": {
+                            "$and": [
+                                { "$eq": ["$$user_id", "$user_id"]}
+                            ]
+                        }
+                    }
+                }
+            ],
+            "as": "user_reviews"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "business",
+            "localField": "user_reviews.business_id",
+            "foreignField": "business_id",
+            "as": "user_business"
+        }
+    },
+    {
+        "$unwind": "$user_business"
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "user_business": 1
+        }
+    }
+  ]},
+  {
+    "query_number": 3,
+    "query": [
+    {
+        "$match": {
+            "name": "Michelle"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "review",
+            "let": { "user_id": "$user_id"},
+            "pipeline": [
+                {
+                    "$match": {
+                        "$expr": {
+                            "$and": [
+                                { "$eq": ["$$user_id", "$user_id"]}
+                            ]
+                        }
+                    }
+                }
+            ],
+            "as": "user_reviews"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "business",
+            "localField": "user_reviews.business_id",
+            "foreignField": "business_id",
+            "as": "user_business"
+        }
+    },
+    {
+        "$match": {
+            "$expr": {
+                "$regexMatch": {
+                    "input": "user_business.categories",
+                    "regex": "/.*(I|i)talian.*/"
+                }
+            }
+        }
+    },
+    {
+        "$unwind": "$user_business"
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "user_business": 1
+        }
+    }
+  ]},
+  {
+    "query_number": 6,
+    "query": [
+    {
+        "$match": {
+            "name": "Michelle"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "review",
+            "let": { "user_id": "$user_id"},
+            "pipeline": [
+                {
+                    "$match": {
+                        "$expr": {
+                            "$and": [
+                                { "$eq": ["$$user_id", "$user_id"]}
+                            ]
+                        }
+                    }
+                }
+            ],
+            "as": "user_reviews"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "business",
+            "localField": "user_reviews.business_id",
+            "foreignField": "business_id",
+            "as": "user_business"
+        }
+    },
+    {
+        "$unwind": "$user_business"
+    },
+    {
+        "$match": {
+            "user_business.city": "Lynn",
+            "user_business.categories": {"$regex": "/.*(R|r)estaurant.*/"}
+        }
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "user_business": 1
+        }
+    }
+  ]},
+  {
+    "query_number": 8,
+    "query": [
+    {
+        "$match": {
+            "city": "Portland"
+        }
+    },
+    {
+        "$lookup": {
+            "from": "tip",
+            "localField": "business_id",
+            "foreignField": "business_id",
+            "as": "portland_tips"
+        }
+    },
+    {
+        "$unwind": "$portland_tips"
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "portland_tips": 1
+        }
+    }
+  ]},
+  {
+    "query_number": 9,
+    "query": [
+    {
+        "$match": {
+            "state": "TX",
+            "name": "Subway"
+
+        }
+    },
+    {
+        "$lookup": {
+            "from": "tip",
+            "localField": "business_id",
+            "foreignField": "business_id",
+            "as": "texas_subway_tips"
+        }
+    },
+    {
+        "$unwind": "$texas_subway_tips"
+    },
+    {
+        "$project": {
+            "_id": 0,
+            "texas_subway_tips": 1
+        }
+    }
+  ]}
+]

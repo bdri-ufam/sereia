@@ -1,0 +1,22 @@
+{
+  "connection": {
+    "host": "127.0.0.1",
+    "user": "sereia",
+    "password": "sereia@ariserver",
+    "database": "yelp_expanded"
+  },
+  "logging_mode": "ERROR",
+  "create_index": true,
+  "results_directory": "./results/",
+  "plots_directory": "./plots/",
+  "dataset": "yelp_expanded",
+  "queryset": "yelp_expanded",
+  "querysets_directory": "./querysets/",
+  "dataset_config": {
+    "attributes_filepath": "./indexable_dataset_attributes/{}_attributes.json",
+    "dataset_directory": "./tmp/indexed_datasets/{}/",
+    "schema_index_filepath": "{}_schema_index_file.shelve",
+    "value_index_filepath": "{}_value_index_file.shelve",
+    "schema_graph_filepath": "{}_schema_graph_file.pickle"
+  }
+}
