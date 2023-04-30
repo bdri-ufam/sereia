@@ -1,0 +1,8 @@
+# Dumps from databases
+databases/
+
+# MongoDB data
+mongo_data/
+
+# Python cache data
+*/__pycache__/*

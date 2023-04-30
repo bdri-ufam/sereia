@@ -1,0 +1,5 @@
+{
+    "queryset_name": "twitter",
+    "queryset_filepath": "../querysets/twitter.json",
+    "dataset_config_filepath": "dataset_configs/twitter.json"
+}

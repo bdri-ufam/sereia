@@ -1,8 +1,8 @@
-# SEREIA
+# DOX
 
-Paper: **SEREIA - Document Store Exploration through Keywords** 
+Paper: **DOX - Document Store Exploration through Keywords** 
 
-SEREIA is a framework for keyword exploration over Document Stores.
+DOX (**D**ocument st**O**re e**X**ploration) is a framework for keyword exploration over Document Stores.
 
 ## Source code
 
@@ -11,7 +11,7 @@ SEREIA is a framework for keyword exploration over Document Stores.
 
 ## Demo
 
-- Online demo of the framework can be found [here](https://colab.research.google.com/drive/1AEvc66EhOnV24NEcl_oBRSqDp0kiVIul).
+- An online demo of the framework is ready to run in [Google Colaboratory](https://colab.research.google.com/drive/1AEvc66EhOnV24NEcl_oBRSqDp0kiVIul). This demo uses an instance of a MongoDB database hosted at [MongoDB Atlas](https://www.mongodb.com/atlas/database).
 
 ## Datasets
 

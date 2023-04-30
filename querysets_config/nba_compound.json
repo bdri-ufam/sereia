@@ -1,0 +1,5 @@
+{
+    "queryset_name": "nba_compound",
+    "queryset_filepath": "../querysets/nba_compound.json",
+    "dataset_config_filepath": "dataset_configs/nba.json"
+}

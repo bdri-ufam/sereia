@@ -1,0 +1,25 @@
+{
+  "yelp": {
+      "user": ["user_id"],
+      "business": ["business_id"],
+      "review": ["review_id"]
+  },
+  "yelp_expanded": {
+      "user": ["user_id"],
+      "business": ["business_id"],
+      "review": ["review_id"]
+  },
+  "dblp": {
+      "dblp": ["key"]
+  },
+  "twitter": {
+      "twitter": ["id"]
+  },
+  "imdb": {
+      "credits": ["id"],
+      "movies": ["id"]
+  },
+  "nba": {
+      "nba": ["_id"]
+  }
+}

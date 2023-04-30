@@ -1,0 +1,68 @@
+{
+  "constraint_user_1": [
+    "-",
+    "user",
+    "user",
+    [
+      [
+        "user_id",
+        "user_id"
+      ]
+    ]
+  ],
+  "constraint_business_2": [
+    "-",
+    "business",
+    "business",
+    [
+      [
+        "business_id",
+        "business_id"
+      ]
+    ]
+  ],
+  "constraint_review_3": [
+    "-",
+    "review",
+    "user",
+    [
+      [
+        "user_id",
+        "user_id"
+      ]
+    ]
+  ],
+  "constraint_review_4": [
+    "-",
+    "review",
+    "business",
+    [
+      [
+        "business_id",
+        "business_id"
+      ]
+    ]
+  ],
+  "constraint_tip_5": [
+    "-",
+    "tip",
+    "user",
+    [
+      [
+        "user_id",
+        "user_id"
+      ]
+    ]
+  ],
+  "constraint_tip_6": [
+    "-",
+    "tip",
+    "business",
+    [
+      [
+        "business_id",
+        "business_id"
+      ]
+    ]
+  ]
+}

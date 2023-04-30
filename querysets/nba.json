@@ -1,0 +1,558 @@
+[
+  {
+    "keyword_query": "jon + koncak",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [],
+              "value_filter": [
+                  {
+                      "attribute": "teams.players.player",
+                      "keywords": [
+                          [
+                            "jon",
+                            "koncak"
+                          ]
+                      ]
+                  }
+              ]
+          }
+      ]
+  ],
+  "candidate_networks": [
+    [
+        {
+            "keyword_match": {
+                "table": "nba",
+                "schema_filter": [],
+                "value_filter": [
+                    {
+                        "attribute": "teams.players.player",
+                        "keywords": [
+                            [
+                                "jon",
+                                "koncak"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "alias": "t1",
+            "outgoing_neighbors": [],
+            "incoming_neighbors": []
+        }
+    ]
+  ]
+  },
+  {
+    "keyword_query": "chicago + bulls score",
+    "query_matches": [
+      [
+        {
+            "table": "nba",
+            "schema_filter": [
+                {
+                    "attribute": "teams.score",
+                    "keywords": [
+                        "score"
+                    ]
+                }
+            ],
+            "value_filter": [
+                {
+                    "attribute": "teams.name",
+                    "keywords": [
+                        [
+                            "chicago",
+                            "bulls"
+                        ]
+                    ]
+                }
+            ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+            "keyword_match": {
+                "table": "nba",
+                "schema_filter": [
+                    {
+                        "attribute": "teams.score",
+                        "keywords": [
+                            "score"
+                        ]
+                    }
+                ],
+                "value_filter": [
+                    {
+                        "attribute": "teams.name",
+                        "keywords": [
+                            [
+                                "chicago",
+                                "bulls"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "alias": "t1",
+            "outgoing_neighbors": [],
+            "incoming_neighbors": []
+        }
+    ]
+    ]
+  },
+  {
+    "keyword_query": "stephen + curry lebron + james",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [],
+              "value_filter": [
+                  {
+                      "attribute": "teams.players.player",
+                      "keywords": [
+                        [
+                            "stephen",
+                            "curry"
+                        ],
+                        [
+                            "lebron",
+                            "james"
+                        ]
+                      ]
+                  }
+              ]
+          }
+      ]
+    ],
+    "candidate_networks": [
+      [
+          {
+              "keyword_match": {
+                  "table": "nba",
+                  "schema_filter": [],
+                  "value_filter": [
+                    {
+                        "attribute": "teams.players.player",
+                        "keywords": [
+                            [
+                                "stephen",
+                                "curry"
+                            ],
+                            [
+                                "lebron",
+                                "james"
+                            ]
+                        ]
+                    }
+                ]
+              },
+              "alias": "t1",
+              "outgoing_neighbors": [],
+              "incoming_neighbors": []
+          }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "hornets wizards",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [],
+              "value_filter": [
+                  {
+                      "attribute": "teams.name",
+                      "keywords": [
+                          "wizards",
+                          "hornets"
+                      ]
+                  }
+              ]
+          }
+      ]
+    ],
+    "candidate_networks": [
+      [
+          {
+              "keyword_match": {
+                  "table": "nba",
+                  "schema_filter": [],
+                  "value_filter": [
+                      {
+                          "attribute": "teams.name",
+                          "keywords": [
+                              "wizards",
+                              "hornets"
+                          ]
+                      }
+                  ]
+              },
+              "alias": "t1",
+              "outgoing_neighbors": [],
+              "incoming_neighbors": []
+          }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "lac lal score",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [
+                  {
+                      "attribute": "teams.score",
+                      "keywords": [
+                          "score"
+                      ]
+                  }
+              ],
+              "value_filter": [
+                  {
+                      "attribute": "teams.abbreviation",
+                      "keywords": [
+                          "lal",
+                          "lac"
+                      ]
+                  }
+              ]
+          }
+      ]
+    ],
+    "candidate_networks": [
+      [
+          {
+              "keyword_match": {
+                  "table": "nba",
+                  "schema_filter": [
+                      {
+                          "attribute": "teams.score",
+                          "keywords": [
+                              "score"
+                          ]
+                      }
+                  ],
+                  "value_filter": [
+                      {
+                          "attribute": "teams.abbreviation",
+                          "keywords": [
+                              "lal",
+                              "lac"
+                          ]
+                      }
+                  ]
+              },
+              "alias": "t1",
+              "outgoing_neighbors": [],
+              "incoming_neighbors": []
+          }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "lac hornets",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [],
+              "value_filter": [
+                  {
+                      "attribute": "teams.abbreviation",
+                      "keywords": [
+                          "lac"
+                      ]
+                  },
+                  {
+                      "attribute": "teams.name",
+                      "keywords": [
+                          "hornets"
+                      ]
+                  }
+              ]
+          }
+      ]
+    ],
+    "candidate_networks": [
+      [
+          {
+              "keyword_match": {
+                  "table": "nba",
+                  "schema_filter": [],
+                  "value_filter": [
+                      {
+                          "attribute": "teams.abbreviation",
+                          "keywords": [
+                              "lac"
+                          ]
+                      },
+                      {
+                          "attribute": "teams.name",
+                          "keywords": [
+                              "hornets"
+                          ]
+                      }
+                  ]
+              },
+              "alias": "t1",
+              "outgoing_neighbors": [],
+              "incoming_neighbors": []
+          }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "carmelo + anthony lebron + james",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [],
+              "value_filter": [
+                {
+                    "attribute": "teams.players.player",
+                    "keywords": [
+                        [
+                            "carmelo",
+                            "anthony"
+                        ],
+                        [
+                            "lebron",
+                            "james"
+                        ]
+                    ]
+                }
+            ]
+          }
+      ]
+    ],
+    "candidate_networks": [
+      [
+          {
+              "keyword_match": {
+                  "table": "nba",
+                  "schema_filter": [],
+                  "value_filter": [
+                      {
+                        "attribute": "teams.players.player",
+                        "keywords": [
+                            [
+                                "carmelo",
+                                "anthony"
+                            ],
+                            [
+                                "lebron",
+                                "james"
+                            ]
+                        ]
+                    }
+                  ]
+              },
+              "alias": "t1",
+              "outgoing_neighbors": [],
+              "incoming_neighbors": []
+          }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "deandre + jordan",
+    "query_matches": [
+      [
+          {
+              "table": "nba",
+              "schema_filter": [],
+              "value_filter": [
+                  {
+                      "attribute": "teams.players.player",
+                      "keywords": [
+                          [
+                            "deandre",
+                            "jordan"
+                          ]
+                      ]
+                  }
+              ]
+          }
+      ]
+    ],
+    "candidate_networks": [
+      [
+          {
+              "keyword_match": {
+                  "table": "nba",
+                  "schema_filter": [],
+                  "value_filter": [
+                      {
+                          "attribute": "teams.players.player",
+                          "keywords": [
+                            [
+                                "deandre",
+                                "jordan"
+                            ]
+                          ]
+                      }
+                  ]
+              },
+              "alias": "t1",
+              "outgoing_neighbors": [],
+              "incoming_neighbors": []
+          }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "lakers warriors results",
+    "query_matches": [
+      [
+        {
+            "table": "nba",
+            "schema_filter": [
+                {
+                    "attribute": "teams.results",
+                    "keywords": [
+                        "results"
+                    ]
+                }
+            ],
+            "value_filter": [
+                {
+                    "attribute": "teams.name",
+                    "keywords": [
+                        "lakers",
+                        "warriors"
+                    ]
+                }
+            ]
+        }
+    ]
+    ],
+    "candidate_networks": [
+      [
+        {
+            "keyword_match": {
+                "table": "nba",
+                "schema_filter": [
+                    {
+                        "attribute": "teams.results",
+                        "keywords": [
+                            "results"
+                        ]
+                    }
+                ],
+                "value_filter": [
+                    {
+                        "attribute": "teams.name",
+                        "keywords": [
+                            "lakers",
+                            "warriors"
+                        ]
+                    }
+                ]
+            },
+            "alias": "t1",
+            "outgoing_neighbors": [],
+            "incoming_neighbors": []
+        }
+    ]
+    ]
+  },
+  {
+    "keyword_query": "los + angeles city teams",
+    "query_matches": [
+      [
+        {
+            "table": "nba",
+            "schema_filter": [
+                {
+                    "attribute": "teams",
+                    "keywords": [
+                        "teams"
+                    ]
+                },
+                {
+                    "attribute": "teams.city",
+                    "keywords": [
+                        "city"
+                    ]
+                }
+            ],
+            "value_filter": [
+                {
+                    "attribute": "teams.city",
+                    "keywords": [
+                        [
+                            "los",
+                            "angeles"
+                        ]
+                    ]
+                },
+                {
+                    "attribute": "teams.name",
+                    "keywords": [
+                        [
+                            "los",
+                            "angeles"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+    ],
+    "candidate_networks": [
+      [
+        {
+            "keyword_match": {
+                "table": "nba",
+                "schema_filter": [
+                    {
+                        "attribute": "teams",
+                        "keywords": [
+                            "teams"
+                        ]
+                    },
+                    {
+                        "attribute": "teams.city",
+                        "keywords": [
+                            "city"
+                        ]
+                    }
+                ],
+                "value_filter": [
+                    {
+                        "attribute": "teams.city",
+                        "keywords": [
+                            [
+                                "los",
+                                "angeles"
+                            ]
+                        ]
+                    },
+                    {
+                        "attribute": "teams.name",
+                        "keywords": [
+                            [
+                                "los",
+                                "angeles"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "alias": "t1",
+            "outgoing_neighbors": [],
+            "incoming_neighbors": []
+        }
+    ]
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+{
+  "constraint_movies_1": ["-", "movies", "credits", ["id", "id"]],
+  "constraint_credits_2": ["-", "credits", "movies", ["id", "id"]]
+}

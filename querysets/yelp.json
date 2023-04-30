@@ -1,0 +1,3012 @@
+[
+  {
+    "keyword_query": "businesses bricola stars 5.0",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "bricola",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "review",
+          "foreignField": "user_id",
+          "localField": "user_id",
+          "as": "review"
+        }
+      },
+      {
+        "$unwind": "$review"
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$eq": [
+              "$review.stars",
+              5.0
+            ]
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "business",
+          "foreignField": "business_id",
+          "localField": "review.business_id",
+          "as": "business"
+        }
+      },
+      {
+        "$unwind": "$business"
+      },
+      {
+        "$project": {
+          "user_id": 1,
+          "review.review_id": 1,
+          "business.business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "businesses"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "bricola"
+              ]
+            }
+          ]
+        },
+        {
+          "table": "review",
+          "schema_filter": [
+            {
+              "attribute": "stars",
+              "keywords": [
+                "stars"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "stars",
+              "keywords": [
+                "5.0"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "businesses"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        },
+        {
+          "keyword_match": {
+            "table": "review",
+            "schema_filter": [
+              {
+                "attribute": "stars",
+                "keywords": [
+                  "stars"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "stars",
+                "keywords": [
+                  "5.0"
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [
+            "t1",
+            "t3"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "bricola"
+                ]
+              }
+            ]
+          },
+          "alias": "t3",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "businesses review analucia",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "analucia",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "review",
+          "foreignField": "user_id",
+          "localField": "user_id",
+          "as": "review"
+        }
+      },
+      {
+        "$unwind": "$review"
+      },
+      {
+        "$lookup": {
+          "from": "business",
+          "foreignField": "business_id",
+          "localField": "review.business_id",
+          "as": "business"
+        }
+      },
+      {
+        "$unwind": "$business"
+      },
+      {
+        "$project": {
+          "user_id": 1,
+          "review.review_id": 1,
+          "business.business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "businesses"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "review",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "review"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "analucia"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "businesses"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        },
+        {
+          "keyword_match": {
+            "table": "review",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "review"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [
+            "t1",
+            "t3"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "analucia"
+                ]
+              }
+            ]
+          },
+          "alias": "t3",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "moroccan restaurants Texas",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$state",
+              "regex": "TX",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "moroccan",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants",
+                "moroccan"
+              ]
+            },
+            {
+              "attribute": "state",
+              "keywords": [
+                "texas"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants",
+                  "moroccan"
+                ]
+              },
+              {
+                "attribute": "state",
+                "keywords": [
+                  "texas"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "italian restaurants boston",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "boston",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "italian",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "italian",
+                "restaurants"
+              ]
+            },
+            {
+              "attribute": "city",
+              "keywords": [
+                "boston"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "italian",
+                  "restaurants"
+                ]
+              },
+              {
+                "attribute": "city",
+                "keywords": [
+                  "boston"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "cities subway",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "subway",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ]
+  },
+  {
+    "keyword_query": "reviews analucia",
+    "base_collection": "user",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "analucia",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "review",
+          "foreignField": "user_id",
+          "localField": "user_id",
+          "as": "review"
+        }
+      },
+      {
+        "$unwind": "$review"
+      },
+      {
+        "$project": {
+          "user_id": 1,
+          "review.review_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "review",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "reviews"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "analucia"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "review",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "reviews"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "analucia"
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "reviews michelle italian restaurants",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "italian",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "review",
+          "foreignField": "business_id",
+          "localField": "business_id",
+          "as": "review"
+        }
+      },
+      {
+        "$unwind": "$review"
+      },
+      {
+        "$lookup": {
+          "from": "user",
+          "foreignField": "user_id",
+          "localField": "review.user_id",
+          "as": "user"
+        }
+      },
+      {
+        "$unwind": "$user"
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$user.name",
+              "regex": "michelle",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1,
+          "review.review_id": 1,
+          "user.user_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "review",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "reviews"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "michelle"
+              ]
+            }
+          ]
+        },
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "italian",
+                "restaurants"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "review",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "reviews"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t3",
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "michelle"
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        },
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "italian",
+                  "restaurants"
+                ]
+              }
+            ]
+          },
+          "alias": "t3",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "5.0 star italian restaurants",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "italian",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$eq": [
+              "$stars",
+              5.0
+            ]
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "stars",
+              "keywords": [
+                "star"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "italian",
+                "restaurants"
+              ]
+            },
+            {
+              "attribute": "stars",
+              "keywords": [
+                "5.0"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "stars",
+                "keywords": [
+                  "star"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "italian",
+                  "restaurants"
+                ]
+              },
+              {
+                "attribute": "stars",
+                "keywords": [
+                  "5.0"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "businesses stars 3.5",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$eq": [
+              "$stars",
+              3.5
+            ]
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "businesses"
+              ]
+            },
+            {
+              "attribute": "stars",
+              "keywords": [
+                "stars"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "stars",
+              "keywords": [
+                "3.5"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "businesses"
+                ]
+              },
+              {
+                "attribute": "stars",
+                "keywords": [
+                  "stars"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "stars",
+                "keywords": [
+                  "3.5"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "restaurants Texas",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$state",
+              "regex": "TX",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants"
+              ]
+            },
+            {
+              "attribute": "state",
+              "keywords": [
+                "texas"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants"
+                ]
+              },
+              {
+                "attribute": "state",
+                "keywords": [
+                  "texas"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "gyms Austin",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "gyms",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "austin",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "austin"
+              ]
+            },
+            {
+              "attribute": "categories",
+              "keywords": [
+                "gyms"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "austin"
+                ]
+              },
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "gyms"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "bars Portland",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "portland",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "bars",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "portland"
+              ]
+            },
+            {
+              "attribute": "categories",
+              "keywords": [
+                "bars"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "portland"
+                ]
+              },
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "bars"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "dance schools Austin",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "austin",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "dance",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "schools",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "dance",
+                "schools"
+              ]
+            },
+            {
+              "attribute": "city",
+              "keywords": [
+                "austin"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "dance",
+                  "schools"
+                ]
+              },
+              {
+                "attribute": "city",
+                "keywords": [
+                  "austin"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "bars reviewed rafael",
+    "base_collection": "user",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "rafael",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "review",
+          "foreignField": "user_id",
+          "localField": "user_id",
+          "as": "review"
+        }
+      },
+      {
+        "$unwind": "$review"
+      },
+      {
+        "$lookup": {
+          "from": "business",
+          "foreignField": "business_id",
+          "localField": "review.business_id",
+          "as": "business"
+        }
+      },
+      {
+        "$unwind": "$business"
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$business.categories",
+              "regex": "bars",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "user_id": 1,
+          "review.review_id": 1,
+          "business.business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "bars"
+              ]
+            }
+          ]
+        },
+        {
+          "table": "review",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "reviewed"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "rafael"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "bars"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        },
+        {
+          "keyword_match": {
+            "table": "review",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "reviewed"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [
+            "t1",
+            "t3"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "rafael"
+                ]
+              }
+            ]
+          },
+          "alias": "t3",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "restaurants Portland reviewed michelle",
+    "base_collection": "user",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "michelle",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "review",
+          "foreignField": "user_id",
+          "localField": "user_id",
+          "as": "review"
+        }
+      },
+      {
+        "$unwind": "$review"
+      },
+      {
+        "$lookup": {
+          "from": "business",
+          "foreignField": "business_id",
+          "localField": "review.business_id",
+          "as": "business"
+        }
+      },
+      {
+        "$unwind": "$business"
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$business.city",
+              "regex": "portland",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$business.categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "user_id": 1,
+          "review.review_id": 1,
+          "business.business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants"
+              ]
+            },
+            {
+              "attribute": "city",
+              "keywords": [
+                "portland"
+              ]
+            }
+          ]
+        },
+        {
+          "table": "review",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "reviewed"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "michelle"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants"
+                ]
+              },
+              {
+                "attribute": "city",
+                "keywords": [
+                  "portland"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        },
+        {
+          "keyword_match": {
+            "table": "review",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "reviewed"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [
+            "t1",
+            "t3"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "michelle"
+                ]
+              }
+            ]
+          },
+          "alias": "t3",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "restaurants seafood Orlando",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "seafood",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "orlando",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants",
+                "seafood"
+              ]
+            },
+            {
+              "attribute": "city",
+              "keywords": [
+                "orlando"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants",
+                  "seafood"
+                ]
+              },
+              {
+                "attribute": "city",
+                "keywords": [
+                  "orlando"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "bistros Vancouver",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "vancouver",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "bistros",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "vancouver"
+              ]
+            },
+            {
+              "attribute": "categories",
+              "keywords": [
+                "bistros"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "vancouver"
+                ]
+              },
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "bistros"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "bakeries Vancouver",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "vancouver",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "bakeries",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "vancouver"
+              ]
+            },
+            {
+              "attribute": "categories",
+              "keywords": [
+                "bakeries"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "vancouver"
+                ]
+              },
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "bakeries"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "apple store cities",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "store",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "apple",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "cities"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "store",
+                "apple"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "cities"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "store",
+                  "apple"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "breweries portland",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "breweries",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "portland",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "breweries"
+              ]
+            },
+            {
+              "attribute": "city",
+              "keywords": [
+                "portland"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "breweries"
+                ]
+              },
+              {
+                "attribute": "city",
+                "keywords": [
+                  "portland"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "users tips business Portland",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$city",
+              "regex": "portland",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "tip",
+          "foreignField": "business_id",
+          "localField": "business_id",
+          "as": "tip"
+        }
+      },
+      {
+        "$unwind": "$tip"
+      },
+      {
+        "$lookup": {
+          "from": "user",
+          "foreignField": "user_id",
+          "localField": "tip.user_id",
+          "as": "user"
+        }
+      },
+      {
+        "$unwind": "$user"
+      },
+      {
+        "$project": {
+          "business_id": 1,
+          "user.user_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "tip",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "tips"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "user",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "users"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "business"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "portland"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "user",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "users"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        },
+        {
+          "keyword_match": {
+            "table": "tip",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "tips"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [
+            "t3",
+            "t1"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "business"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "portland"
+                ]
+              }
+            ]
+          },
+          "alias": "t3",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t2"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "states Whataburger",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "whataburger",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "state",
+              "keywords": [
+                "states"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "whataburger"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "state",
+                "keywords": [
+                  "states"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "whataburger"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "cities restaurants burger king",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "burger",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "king",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "cities"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "burger",
+                "king"
+              ]
+            },
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "cities"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "burger",
+                  "king"
+                ]
+              },
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "cities texas restaurants subway",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "subway",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$state",
+              "regex": "TX",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "cities"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants"
+              ]
+            },
+            {
+              "attribute": "name",
+              "keywords": [
+                "subway"
+              ]
+            },
+            {
+              "attribute": "state",
+              "keywords": [
+                "texas"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "cities"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants"
+                ]
+              },
+              {
+                "attribute": "name",
+                "keywords": [
+                  "subway"
+                ]
+              },
+              {
+                "attribute": "state",
+                "keywords": [
+                  "texas"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "users tips pet groomers",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "groomers",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "pet",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "tip",
+          "foreignField": "business_id",
+          "localField": "business_id",
+          "as": "tip"
+        }
+      },
+      {
+        "$unwind": "$tip"
+      },
+      {
+        "$lookup": {
+          "from": "user",
+          "foreignField": "user_id",
+          "localField": "tip.user_id",
+          "as": "user"
+        }
+      },
+      {
+        "$unwind": "$user"
+      },
+      {
+        "$project": {
+          "business_id": 1,
+          "user.user_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "tip",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "tips"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "groomers",
+                "pet"
+              ]
+            }
+          ]
+        },
+        {
+          "table": "user",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "users"
+              ]
+            }
+          ],
+          "value_filter": []
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "tip",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "tips"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "subway"
+                ]
+              },
+              {
+                "attribute": "state",
+                "keywords": [
+                  "texas"
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "tips subway texas",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "subway",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$state",
+              "regex": "TX",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$lookup": {
+          "from": "tip",
+          "foreignField": "business_id",
+          "localField": "business_id",
+          "as": "tip"
+        }
+      },
+      {
+        "$unwind": "$tip"
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "tip",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "tips"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "business",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "subway"
+              ]
+            },
+            {
+              "attribute": "state",
+              "keywords": [
+                "texas"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "tip",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "tips"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "subway"
+                ]
+              },
+              {
+                "attribute": "state",
+                "keywords": [
+                  "texas"
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "cities taj mahal",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "taj",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$name",
+              "regex": "mahal",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "city",
+              "keywords": [
+                "cities"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "name",
+              "keywords": [
+                "mahal",
+                "taj"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "city",
+                "keywords": [
+                  "cities"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "name",
+                "keywords": [
+                  "mahal",
+                  "taj"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "businesses restaurants Georgia",
+    "base_collection": "business",
+    "mongo_query": [
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$state",
+              "regex": "ga",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$match": {
+          "$expr": {
+            "$regexMatch": {
+              "input": "$categories",
+              "regex": "restaurants",
+              "options": "i"
+            }
+          }
+        }
+      },
+      {
+        "$project": {
+          "business_id": 1
+        }
+      }
+    ],
+    "query_matches": [
+      [
+        {
+          "table": "business",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "businesses"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "categories",
+              "keywords": [
+                "restaurants"
+              ]
+            },
+            {
+              "attribute": "state",
+              "keywords": [
+                "georgia"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "business",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "businesses"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "categories",
+                "keywords": [
+                  "restaurants"
+                ]
+              },
+              {
+                "attribute": "state",
+                "keywords": [
+                  "georgia"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  }
+]
