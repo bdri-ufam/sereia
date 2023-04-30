@@ -1,0 +1,500 @@
+[
+  {
+    "keyword_query": "nikos clique",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "clique"
+              ]
+            },
+            {
+              "attribute": "author",
+              "keywords": [
+                "nikos"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "clique"
+                ]
+              },
+              {
+                "attribute": "author",
+                "keywords": [
+                  "nikos"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "nikos dimitris",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "author",
+              "keywords": [
+                "nikos",
+                "dimitris"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "author",
+                "keywords": [
+                  "nikos",
+                  "dimitris"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "nikos constraint",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "constraint"
+              ]
+            },
+            {
+              "attribute": "author",
+              "keywords": [
+                "nikos"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "constraint"
+                ]
+              },
+              {
+                "attribute": "author",
+                "keywords": [
+                  "nikos"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "nikos intersection",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "intersection"
+              ]
+            },
+            {
+              "attribute": "author",
+              "keywords": [
+                "nikos"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "intersection"
+                ]
+              },
+              {
+                "attribute": "author",
+                "keywords": [
+                  "nikos"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "patel spatial",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "author",
+              "keywords": [
+                "patel"
+              ]
+            },
+            {
+              "attribute": "title",
+              "keywords": [
+                "spatial"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "author",
+                "keywords": [
+                  "patel"
+                ]
+              },
+              {
+                "attribute": "title",
+                "keywords": [
+                  "spatial"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "fagin middleware",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "middleware"
+              ]
+            },
+            {
+              "attribute": "author",
+              "keywords": [
+                "fagin"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "middleware"
+                ]
+              },
+              {
+                "attribute": "author",
+                "keywords": [
+                  "fagin"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "partition spatial-merge join",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "join",
+                "partition",
+                "spatial-merge"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "join",
+                  "partition",
+                  "spatial-merge"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "keyword search",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "search",
+                "keyword"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "search",
+                  "keyword"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "similarity search SIGMOD",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "similarity",
+                "search"
+              ]
+            },
+            {
+              "attribute": "booktitle",
+              "keywords": [
+                "sigmod"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "similarity",
+                  "search"
+                ]
+              },
+              {
+                "attribute": "booktitle",
+                "keywords": [
+                  "sigmod"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "arvind parametric query optimization",
+    "query_matches": [
+      [
+        {
+          "table": "dblp",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "author",
+              "keywords": [
+                "arvind"
+              ]
+            },
+            {
+              "attribute": "title",
+              "keywords": [
+                "parametric",
+                "query",
+                "optimization"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "dblp",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "author",
+                "keywords": [
+                  "arvind"
+                ]
+              },
+              {
+                "attribute": "title",
+                "keywords": [
+                  "parametric",
+                  "query",
+                  "optimization"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  }
+]

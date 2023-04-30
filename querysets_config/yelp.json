@@ -1,0 +1,5 @@
+{
+    "queryset_name": "yelp",
+    "queryset_filepath": "../querysets/yelp.json",
+    "dataset_config_filepath": "dataset_configs/yelp.json"
+}

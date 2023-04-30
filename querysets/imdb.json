@@ -1,0 +1,1504 @@
+[
+  {
+    "keyword_query": "denzel + washington",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "denzel",
+                  "washington"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "denzel",
+                    "washington"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "clint + eastwood",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "clint",
+                  "eastwood"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "clint",
+                    "eastwood"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "will + smith",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "will",
+                  "smith"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "will",
+                    "smith"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "harrison + ford",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "ford",
+                  "harrison"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "ford",
+                    "harrison"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "tom + hanks",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "tom",
+                  "hanks"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "tom",
+                    "hanks"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "johnny + depp",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "johnny",
+                  "depp"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "johnny",
+                    "depp"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "angelina + jolie",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "angelina",
+                  "jolie"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "angelina",
+                    "jolie"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "morgan + freeman",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "morgan",
+                  "freeman"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "morgan",
+                    "freeman"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "gone with the wind",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "wind",
+                "gone"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "wind",
+                  "gone"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "star + wars",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                [
+                  "star",
+                  "wars"
+                ]
+              ]
+            },
+            {
+              "attribute": "original_title",
+              "keywords": [
+                [
+                  "star",
+                  "wars"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  [
+                    "star",
+                    "wars"
+                  ]
+                ]
+              },
+              {
+                "attribute": "original_title",
+                "keywords": [
+                  [
+                    "star",
+                    "wars"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "casablanca movie",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [
+            {
+              "attribute": "*",
+              "keywords": [
+                "movie"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "casablanca"
+              ]
+            },
+            {
+              "attribute": "original_title",
+              "keywords": [
+                "casablanca"
+              ]
+            },
+            {
+              "attribute": "overview",
+              "keywords": [
+                "casablanca"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [
+              {
+                "attribute": "*",
+                "keywords": [
+                  "movie"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "casablanca"
+                ]
+              },
+              {
+                "attribute": "original_title",
+                "keywords": [
+                  "casablanca"
+                ]
+              },
+              {
+                "attribute": "overview",
+                "keywords": [
+                  "casablanca"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "lord of the rings",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "lord",
+                "rings"
+              ]
+            },
+            {
+              "attribute": "original_title",
+              "keywords": [
+                "lord",
+                "rings"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "lord",
+                  "rings"
+                ]
+              },
+              {
+                "attribute": "original_title",
+                "keywords": [
+                  "lord",
+                  "rings"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "wizard of oz",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "wizard",
+                "oz"
+              ]
+            },
+            {
+              "attribute": "original_title",
+              "keywords": [
+                "wizard",
+                "oz"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "wizard",
+                  "oz"
+                ]
+              },
+              {
+                "attribute": "original_title",
+                "keywords": [
+                  "wizard",
+                  "oz"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "the notebook",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "notebook"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "notebook"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "forrest + gump",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "forrest",
+                  "gump"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "forrest",
+                    "gump"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "the princess bride",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "original_title",
+              "keywords": [
+                "bride",
+                "princess"
+              ]
+            },
+            {
+              "attribute": "overview",
+              "keywords": [
+                "princess"
+              ]
+            },
+            {
+              "attribute": "title",
+              "keywords": [
+                "bride",
+                "princess"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "original_title",
+                "keywords": [
+                  "bride",
+                  "princess"
+                ]
+              },
+              {
+                "attribute": "overview",
+                "keywords": [
+                  "princess"
+                ]
+              },
+              {
+                "attribute": "title",
+                "keywords": [
+                  "bride",
+                  "princess"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "the godfather",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "godfather"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "godfather"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "title indiana + jones",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "title"
+              ]
+            }
+          ],
+          "value_filter": []
+        },
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "indiana",
+                  "jones"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "title"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "indiana",
+                    "jones"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "title james + bond",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "james",
+                  "bond"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "table": "movies",
+          "schema_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "title"
+              ]
+            }
+          ],
+          "value_filter": []
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "title"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "james",
+                    "bond"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "title hannibal + lecter",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "hannibal",
+                  "lecter"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "table": "movies",
+          "schema_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "title"
+              ]
+            }
+          ],
+          "value_filter": []
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "title"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "hannibal",
+                    "lecter"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "title norman + bates",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "norman",
+                  "bates"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "table": "movies",
+          "schema_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "title"
+              ]
+            }
+          ],
+          "value_filter": []
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "title"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "norman",
+                    "bates"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "title darth + vader",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "darth",
+                  "vader"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "table": "movies",
+          "schema_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "title"
+              ]
+            }
+          ],
+          "value_filter": []
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "title"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "darth",
+                    "vader"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "name jack + ryan",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                "name"
+              ]
+            }
+          ],
+          "value_filter": [
+            {
+              "attribute": "cast.character",
+              "keywords": [
+                [
+                  "jack",
+                  "ryan"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  "name"
+                ]
+              }
+            ],
+            "value_filter": [
+              {
+                "attribute": "cast.character",
+                "keywords": [
+                  [
+                    "jack",
+                    "ryan"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "name terminator",
+    "query_matches": [
+      [
+        {
+          "table": "movies",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "title",
+              "keywords": [
+                "terminator"
+              ]
+            }
+          ]
+        },
+        {
+          "table": "credits",
+          "schema_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                "name"
+              ]
+            }
+          ],
+          "value_filter": []
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  "name"
+                ]
+              }
+            ],
+            "value_filter": []
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [
+            "t2"
+          ],
+          "incoming_neighbors": []
+        },
+        {
+          "keyword_match": {
+            "table": "movies",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "title",
+                "keywords": [
+                  "terminator"
+                ]
+              }
+            ]
+          },
+          "alias": "t2",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": [
+            "t1"
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "harrison + ford george + lucas",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "harrison",
+                  "ford"
+                ]
+              ]
+            },
+            {
+              "attribute": "crew.name",
+              "keywords": [
+                [
+                  "george",
+                  "lucas"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "harrison",
+                    "ford"
+                  ]
+                ]
+              },
+              {
+                "attribute": "crew.name",
+                "keywords": [
+                  [
+                    "george",
+                    "lucas"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  },
+  {
+    "keyword_query": "reeves wachowski",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                "reeves"
+              ]
+            },
+            {
+              "attribute": "crew.name",
+              "keywords": [
+                "wachowski"
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  "reeves"
+                ]
+              },
+              {
+                "attribute": "crew.name",
+                "keywords": [
+                  "wachowski"
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+# Data folders, provided separately
+databases/
+
+# App Temporary Files
+app/tmp/
+
+# MongoDB data directory
+mongo_data/
+
+# Python cache directories
+__pycache__
