@@ -1,0 +1,289 @@
+{
+  "keyword_query": "tom + hanks",
+  "expected_documents": [
+    {
+      "id": 20763,
+      "mongo_id": "61f0b2e55e086bdc5aeb3f50"
+    },
+    {
+      "id": 857,
+      "mongo_id": "61f0b2e35e086bdc5aeb2c07"
+    },
+    {
+      "id": 32562,
+      "mongo_id": "61f0b2e25e086bdc5aeb26af"
+    },
+    {
+      "id": 863,
+      "mongo_id": "61f0b2e45e086bdc5aeb303a"
+    },
+    {
+      "id": 9800,
+      "mongo_id": "61f0b2e25e086bdc5aeb266d"
+    },
+    {
+      "id": 10905,
+      "mongo_id": "61f0b2e65e086bdc5aeb4459"
+    },
+    {
+      "id": 11287,
+      "mongo_id": "61f0b2e45e086bdc5aeb30b3"
+    },
+    {
+      "id": 6538,
+      "mongo_id": "61f0b2e75e086bdc5aeb546c"
+    },
+    {
+      "id": 13508,
+      "mongo_id": "61f0b2e75e086bdc5aeb4f79"
+    },
+    {
+      "id": 56235,
+      "mongo_id": "61f0b2e45e086bdc5aeb2f6b"
+    },
+    {
+      "id": 5707,
+      "mongo_id": "61f0b2e85e086bdc5aeb5db9"
+    },
+    {
+      "id": 59861,
+      "mongo_id": "61f0b2e95e086bdc5aeb67ff"
+    },
+    {
+      "id": 594,
+      "mongo_id": "61f0b2e65e086bdc5aeb4320"
+    },
+    {
+      "id": 256835,
+      "mongo_id": "61f0b2eb5e086bdc5aeb8936"
+    },
+    {
+      "id": 13,
+      "mongo_id": "61f0b2e25e086bdc5aeb2608"
+    },
+    {
+      "id": 339988,
+      "mongo_id": "61f0b2ee5e086bdc5aeba6f6"
+    },
+    {
+      "id": 82424,
+      "mongo_id": "61f0b2eb5e086bdc5aeb8438"
+    },
+    {
+      "id": 2565,
+      "mongo_id": "61f0b2e55e086bdc5aeb389f"
+    },
+    {
+      "id": 296098,
+      "mongo_id": "61f0b2ee5e086bdc5aeba707"
+    },
+    {
+      "id": 9586,
+      "mongo_id": "61f0b2e45e086bdc5aeb3039"
+    },
+    {
+      "id": 83542,
+      "mongo_id": "61f0b2ea5e086bdc5aeb715f"
+    },
+    {
+      "id": 213121,
+      "mongo_id": "61f0b2ea5e086bdc5aeb7a16"
+    },
+    {
+      "id": 862,
+      "mongo_id": "61f0b2e25e086bdc5aeb247d"
+    },
+    {
+      "id": 5255,
+      "mongo_id": "61f0b2e65e086bdc5aeb44b6"
+    },
+    {
+      "id": 12309,
+      "mongo_id": "61f0b2e45e086bdc5aeb31ba"
+    },
+    {
+      "id": 858,
+      "mongo_id": "61f0b2e25e086bdc5aeb268f"
+    },
+    {
+      "id": 10193,
+      "mongo_id": "61f0b2e85e086bdc5aeb606e"
+    },
+    {
+      "id": 2280,
+      "mongo_id": "61f0b2e45e086bdc5aeb2eeb"
+    },
+    {
+      "id": 30983,
+      "mongo_id": "61f0b2e65e086bdc5aeb480b"
+    },
+    {
+      "id": 40820,
+      "mongo_id": "61f0b2e45e086bdc5aeb33a1"
+    },
+    {
+      "id": 37641,
+      "mongo_id": "61f0b2eb5e086bdc5aeb86ab"
+    },
+    {
+      "id": 363676,
+      "mongo_id": "61f0b2f05e086bdc5aebbed2"
+    },
+    {
+      "id": 32694,
+      "mongo_id": "61f0b2ea5e086bdc5aeb71a7"
+    },
+    {
+      "id": 19259,
+      "mongo_id": "61f0b2e45e086bdc5aeb312b"
+    },
+    {
+      "id": 356325,
+      "mongo_id": "61f0b2ef5e086bdc5aebb839"
+    },
+    {
+      "id": 4147,
+      "mongo_id": "61f0b2e55e086bdc5aeb394f"
+    },
+    {
+      "id": 270010,
+      "mongo_id": "61f0b2ef5e086bdc5aebbb0c"
+    },
+    {
+      "id": 130925,
+      "mongo_id": "61f0b2eb5e086bdc5aeb8940"
+    },
+    {
+      "id": 207932,
+      "mongo_id": "61f0b2f05e086bdc5aebc483"
+    },
+    {
+      "id": 5516,
+      "mongo_id": "61f0b2e65e086bdc5aeb409e"
+    },
+    {
+      "id": 9489,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d77"
+    },
+    {
+      "id": 140823,
+      "mongo_id": "61f0b2ea5e086bdc5aeb7b35"
+    },
+    {
+      "id": 208988,
+      "mongo_id": "61f0b2ea5e086bdc5aeb6f47"
+    },
+    {
+      "id": 140465,
+      "mongo_id": "61f0b2f15e086bdc5aebcc00"
+    },
+    {
+      "id": 16279,
+      "mongo_id": "61f0b2e85e086bdc5aeb59c4"
+    },
+    {
+      "id": 170039,
+      "mongo_id": "61f0b2ea5e086bdc5aeb7b83"
+    },
+    {
+      "id": 13448,
+      "mongo_id": "61f0b2e85e086bdc5aeb59ed"
+    },
+    {
+      "id": 8358,
+      "mongo_id": "61f0b2e45e086bdc5aeb33a3"
+    },
+    {
+      "id": 9591,
+      "mongo_id": "61f0b2e35e086bdc5aeb2863"
+    },
+    {
+      "id": 65262,
+      "mongo_id": "61f0b2e55e086bdc5aeb382a"
+    },
+    {
+      "id": 15302,
+      "mongo_id": "61f0b2e95e086bdc5aeb647e"
+    },
+    {
+      "id": 64685,
+      "mongo_id": "61f0b2e95e086bdc5aeb6b8d"
+    },
+    {
+      "id": 331214,
+      "mongo_id": "61f0b2f15e086bdc5aebcd3b"
+    },
+    {
+      "id": 29968,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d78"
+    },
+    {
+      "id": 35,
+      "mongo_id": "61f0b2e75e086bdc5aeb532b"
+    },
+    {
+      "id": 10466,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d47"
+    },
+    {
+      "id": 568,
+      "mongo_id": "61f0b2e25e086bdc5aeb2520"
+    },
+    {
+      "id": 357125,
+      "mongo_id": "61f0b2ef5e086bdc5aebb990"
+    },
+    {
+      "id": 77887,
+      "mongo_id": "61f0b2eb5e086bdc5aeb843c"
+    },
+    {
+      "id": 6951,
+      "mongo_id": "61f0b2e45e086bdc5aeb3634"
+    },
+    {
+      "id": 497,
+      "mongo_id": "61f0b2e45e086bdc5aeb3048"
+    },
+    {
+      "id": 87061,
+      "mongo_id": "61f0b2ef5e086bdc5aebbc69"
+    },
+    {
+      "id": 305642,
+      "mongo_id": "61f0b2f15e086bdc5aebcd26"
+    },
+    {
+      "id": 11974,
+      "mongo_id": "61f0b2e35e086bdc5aeb2c1a"
+    },
+    {
+      "id": 10023,
+      "mongo_id": "61f0b2e55e086bdc5aeb3f95"
+    },
+    {
+      "id": 640,
+      "mongo_id": "61f0b2e55e086bdc5aeb3b79"
+    },
+    {
+      "id": 591,
+      "mongo_id": "61f0b2e75e086bdc5aeb4f54"
+    },
+    {
+      "id": 2619,
+      "mongo_id": "61f0b2e35e086bdc5aeb2c35"
+    },
+    {
+      "id": 920,
+      "mongo_id": "61f0b2e75e086bdc5aeb4f66"
+    },
+    {
+      "id": 109424,
+      "mongo_id": "61f0b2ea5e086bdc5aeb79b2"
+    },
+    {
+      "id": 253639,
+      "mongo_id": "61f0b2ed5e086bdc5aeb96fc"
+    }
+  ]
+}

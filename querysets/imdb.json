@@ -1,6 +1,6 @@
 [
   {
-    "keyword_query": "denzel + washington",
+    "keyword_query": "denzel washington",
     "query_matches": [
       [
         {
@@ -46,7 +46,7 @@
     ]
   },
   {
-    "keyword_query": "clint + eastwood",
+    "keyword_query": "clint eastwood",
     "query_matches": [
       [
         {
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "keyword_query": "will + smith",
+    "keyword_query": "will smith",
     "query_matches": [
       [
         {
@@ -138,7 +138,7 @@
     ]
   },
   {
-    "keyword_query": "harrison + ford",
+    "keyword_query": "harrison ford",
     "query_matches": [
       [
         {
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "keyword_query": "tom + hanks",
+    "keyword_query": "tom hanks",
     "query_matches": [
       [
         {
@@ -230,7 +230,7 @@
     ]
   },
   {
-    "keyword_query": "johnny + depp",
+    "keyword_query": "johnny depp",
     "query_matches": [
       [
         {
@@ -276,7 +276,7 @@
     ]
   },
   {
-    "keyword_query": "angelina + jolie",
+    "keyword_query": "angelina jolie",
     "query_matches": [
       [
         {
@@ -322,7 +322,7 @@
     ]
   },
   {
-    "keyword_query": "morgan + freeman",
+    "keyword_query": "morgan freeman",
     "query_matches": [
       [
         {
@@ -410,7 +410,7 @@
     ]
   },
   {
-    "keyword_query": "star + wars",
+    "keyword_query": "star wars",
     "query_matches": [
       [
         {
@@ -704,7 +704,7 @@
     ]
   },
   {
-    "keyword_query": "forrest + gump",
+    "keyword_query": "forrest gump",
     "query_matches": [
       [
         {
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "keyword_query": "title indiana + jones",
+    "keyword_query": "title indiana jones",
     "query_matches": [
       [
         {
@@ -937,7 +937,7 @@
     ]
   },
   {
-    "keyword_query": "title james + bond",
+    "keyword_query": "title james bond",
     "query_matches": [
       [
         {
@@ -1016,7 +1016,7 @@
     ]
   },
   {
-    "keyword_query": "title hannibal + lecter",
+    "keyword_query": "title hannibal lecter",
     "query_matches": [
       [
         {
@@ -1095,7 +1095,7 @@
     ]
   },
   {
-    "keyword_query": "title norman + bates",
+    "keyword_query": "title norman bates",
     "query_matches": [
       [
         {
@@ -1174,7 +1174,7 @@
     ]
   },
   {
-    "keyword_query": "title darth + vader",
+    "keyword_query": "title darth vader",
     "query_matches": [
       [
         {
@@ -1253,7 +1253,7 @@
     ]
   },
   {
-    "keyword_query": "name jack + ryan",
+    "keyword_query": "name jack ryan",
     "query_matches": [
       [
         {
@@ -1386,7 +1386,7 @@
     ]
   },
   {
-    "keyword_query": "harrison + ford george + lucas",
+    "keyword_query": "harrison ford george lucas",
     "query_matches": [
       [
         {

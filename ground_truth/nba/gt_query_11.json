@@ -1,0 +1,248 @@
+{
+  "keyword_query": "lakers score 2004",
+  "expected_documents": [
+    {
+      "mongo_id": "52f2d66e62753da412536cf4"
+    },
+    {
+      "mongo_id": "52f2d6c162753da412536dae"
+    },
+    {
+      "mongo_id": "52f586a0b42a75c4264020fb"
+    },
+    {
+      "mongo_id": "52f5867cb42a75c4264020ca"
+    },
+    {
+      "mongo_id": "52f586d7b42a75c426402144"
+    },
+    {
+      "mongo_id": "52f2d6f262753da412536e1a"
+    },
+    {
+      "mongo_id": "52f587a6b42a75c42640225d"
+    },
+    {
+      "mongo_id": "52f2d6d162753da412536dd3"
+    },
+    {
+      "mongo_id": "52f58727b42a75c4264021b2"
+    },
+    {
+      "mongo_id": "52f5874db42a75c4264021e4"
+    },
+    {
+      "mongo_id": "52f2d69b62753da412536d5a"
+    },
+    {
+      "mongo_id": "52f2d6dc62753da412536dec"
+    },
+    {
+      "mongo_id": "52f2d65d62753da412536cd2"
+    },
+    {
+      "mongo_id": "52f2d67b62753da412536d12"
+    },
+    {
+      "mongo_id": "52f2d67462753da412536d03"
+    },
+    {
+      "mongo_id": "52f587e5b42a75c4264022b4"
+    },
+    {
+      "mongo_id": "52f587cdb42a75c426402294"
+    },
+    {
+      "mongo_id": "52f585deb42a75c426401ff7"
+    },
+    {
+      "mongo_id": "52f58608b42a75c42640202f"
+    },
+    {
+      "mongo_id": "52f587aeb42a75c426402269"
+    },
+    {
+      "mongo_id": "52f58630b42a75c426402064"
+    },
+    {
+      "mongo_id": "52f2d68c62753da412536d38"
+    },
+    {
+      "mongo_id": "52f58714b42a75c426402197"
+    },
+    {
+      "mongo_id": "52f58708b42a75c426402188"
+    },
+    {
+      "mongo_id": "52f2d6b362753da412536d90"
+    },
+    {
+      "mongo_id": "52f5863db42a75c426402075"
+    },
+    {
+      "mongo_id": "52f2d66162753da412536cda"
+    },
+    {
+      "mongo_id": "52f58650b42a75c42640208e"
+    },
+    {
+      "mongo_id": "52f586fdb42a75c426402178"
+    },
+    {
+      "mongo_id": "52f5879cb42a75c42640224f"
+    },
+    {
+      "mongo_id": "52f2d6be62753da412536da9"
+    },
+    {
+      "mongo_id": "52f586c8b42a75c426402131"
+    },
+    {
+      "mongo_id": "52f586b8b42a75c42640211b"
+    },
+    {
+      "mongo_id": "52f2d6c862753da412536dc0"
+    },
+    {
+      "mongo_id": "52f586e5b42a75c426402157"
+    },
+    {
+      "mongo_id": "52f2d65662753da412536cc4"
+    },
+    {
+      "mongo_id": "52f58622b42a75c426402051"
+    },
+    {
+      "mongo_id": "52f587dab42a75c4264022a6"
+    },
+    {
+      "mongo_id": "52f58784b42a75c42640222f"
+    },
+    {
+      "mongo_id": "52f58687b42a75c4264020d9"
+    },
+    {
+      "mongo_id": "52f586aeb42a75c42640210e"
+    },
+    {
+      "mongo_id": "52f2d65362753da412536cbd"
+    },
+    {
+      "mongo_id": "52f2d68162753da412536d20"
+    },
+    {
+      "mongo_id": "52f2d64262753da412536c96"
+    },
+    {
+      "mongo_id": "52f58663b42a75c4264020a8"
+    },
+    {
+      "mongo_id": "52f2d6e862753da412536e04"
+    },
+    {
+      "mongo_id": "52f587eeb42a75c4264022c1"
+    },
+    {
+      "mongo_id": "52f2d69962753da412536d55"
+    },
+    {
+      "mongo_id": "52f585d6b42a75c426401feb"
+    },
+    {
+      "mongo_id": "52f58730b42a75c4264021bc"
+    },
+    {
+      "mongo_id": "52f58703b42a75c426402181"
+    },
+    {
+      "mongo_id": "52f2d6cf62753da412536dce"
+    },
+    {
+      "mongo_id": "52f587bfb42a75c426402280"
+    },
+    {
+      "mongo_id": "52f58614b42a75c426402040"
+    },
+    {
+      "mongo_id": "52f586a6b42a75c426402104"
+    },
+    {
+      "mongo_id": "52f58625b42a75c426402055"
+    },
+    {
+      "mongo_id": "52f586ebb42a75c426402160"
+    },
+    {
+      "mongo_id": "52f58679b42a75c4264020c6"
+    },
+    {
+      "mongo_id": "52f5866bb42a75c4264020b3"
+    },
+    {
+      "mongo_id": "52f585f9b42a75c42640201a"
+    },
+    {
+      "mongo_id": "52f585eab42a75c426402006"
+    },
+    {
+      "mongo_id": "52f58740b42a75c4264021d3"
+    },
+    {
+      "mongo_id": "52f587b6b42a75c426402273"
+    },
+    {
+      "mongo_id": "52f58757b42a75c4264021f1"
+    },
+    {
+      "mongo_id": "52f5876bb42a75c42640220c"
+    },
+    {
+      "mongo_id": "52f2d6a262753da412536d69"
+    },
+    {
+      "mongo_id": "52f5877cb42a75c426402223"
+    },
+    {
+      "mongo_id": "52f586bfb42a75c426402124"
+    },
+    {
+      "mongo_id": "52f2d69362753da412536d47"
+    },
+    {
+      "mongo_id": "52f5868db42a75c4264020e1"
+    },
+    {
+      "mongo_id": "52f585eeb42a75c42640200c"
+    },
+    {
+      "mongo_id": "52f2d64d62753da412536cb0"
+    },
+    {
+      "mongo_id": "52f58791b42a75c426402241"
+    },
+    {
+      "mongo_id": "52f5875fb42a75c4264021fd"
+    },
+    {
+      "mongo_id": "52f58720b42a75c4264021a9"
+    },
+    {
+      "mongo_id": "52f2d63c62753da412536c89"
+    },
+    {
+      "mongo_id": "52f5873cb42a75c4264021cd"
+    },
+    {
+      "mongo_id": "52f58642b42a75c42640207b"
+    },
+    {
+      "mongo_id": "52f586f9b42a75c426402173"
+    },
+    {
+      "mongo_id": "52f2d6e262753da412536dfa"
+    },
+    {
+      "mongo_id": "52f2d64562753da412536c9d"
+    }
+  ]
+}

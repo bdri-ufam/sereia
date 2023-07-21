@@ -16,11 +16,11 @@ services:
       - ./databases/:/databases/
       - ./generate_databases.sh:/generate_databases.sh
 
-  sereia:
-    build: .
-    container_name: sereia
-    env_file: .env-sereia
-    volumes:
-      - ./:/app/
+  # sereia:
+  #   build: .
+  #   container_name: sereia
+    # env_file: .env-sereia
+    # volumes:
+    #   - ./:/app/
     # depends_on:
     #   - mongo

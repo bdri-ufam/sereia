@@ -1,0 +1,21 @@
+{
+  "keyword_query": "title hannibal + lecter",
+  "expected_documents": [
+    {
+      "id": 274,
+      "mongo_id": "61f0b2e25e086bdc5aeb26db"
+    },
+    {
+      "id": 1248,
+      "mongo_id": "61f0b2e75e086bdc5aeb5198"
+    },
+    {
+      "id": 9533,
+      "mongo_id": "61f0b2e55e086bdc5aeb39e4"
+    },
+    {
+      "id": 9740,
+      "mongo_id": "61f0b2e45e086bdc5aeb3430"
+    }
+  ]
+}

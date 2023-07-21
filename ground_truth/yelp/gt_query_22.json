@@ -1,0 +1,97 @@
+{
+  "keyword_query": "states Whataburger",
+  "expected_documents": [
+    {
+      "business_id": "pVDbMGrsnM6dImqEPFiZOQ",
+      "mongo_id": "6177ed4296f41b60a76daab1"
+    },
+    {
+      "business_id": "MaMIoE2rkh0deDmI7XMfIQ",
+      "mongo_id": "6177ed4296f41b60a76daea6"
+    },
+    {
+      "business_id": "1tvjKl6MfSt28bnxnq01YA",
+      "mongo_id": "6177ed4396f41b60a76dec89"
+    },
+    {
+      "business_id": "s8vtFvDwIWbxLTjPofz5Dw",
+      "mongo_id": "6177ed4396f41b60a76e07e9"
+    },
+    {
+      "business_id": "N8dWNu9eZRkK3xHRI1bViQ",
+      "mongo_id": "6177ed4396f41b60a76e0e42"
+    },
+    {
+      "business_id": "fE1N2msUDUuyix76P8hDDQ",
+      "mongo_id": "6177ed4396f41b60a76e3ddb"
+    },
+    {
+      "business_id": "S4yA76fg6Ky0q8Zx0LFI1g",
+      "mongo_id": "6177ed4396f41b60a76e4011"
+    },
+    {
+      "business_id": "vaD6G0Y02PlxljwQM8YaPg",
+      "mongo_id": "6177ed4396f41b60a76e69bc"
+    },
+    {
+      "business_id": "p-oqZf0gpZxuXHTalgGoyA",
+      "mongo_id": "6177ed4396f41b60a76e86f7"
+    },
+    {
+      "business_id": "g2WbM_iDwbPkdxEWQ65xaQ",
+      "mongo_id": "6177ed4396f41b60a76e9148"
+    },
+    {
+      "business_id": "6ESU4WqmScR1Vpjr1nDDig",
+      "mongo_id": "6177ed4496f41b60a76ec0cd"
+    },
+    {
+      "business_id": "aOGMsboJELr1j1ueeM2P1g",
+      "mongo_id": "6177ed4496f41b60a76ec29a"
+    },
+    {
+      "business_id": "xCjZtBbVEXYM_3uCkMO-PA",
+      "mongo_id": "6177ed4496f41b60a76eec8e"
+    },
+    {
+      "business_id": "qz7OUYYru9a5TqO-FB-yrQ",
+      "mongo_id": "6177ed4496f41b60a76ef1c1"
+    },
+    {
+      "business_id": "_cUDh-zTx_OOqtgNxLr-Ug",
+      "mongo_id": "6177ed4496f41b60a76f1433"
+    },
+    {
+      "business_id": "MpZ9c7u893T75WHlIE2P8g",
+      "mongo_id": "6177ed4496f41b60a76f1704"
+    },
+    {
+      "business_id": "7Ti8-0F-KTDy3xfO2hhKrg",
+      "mongo_id": "6177ed4496f41b60a76f2a68"
+    },
+    {
+      "business_id": "V-HlDZoVZU-wHorfhf8oGg",
+      "mongo_id": "6177ed4596f41b60a76f62bc"
+    },
+    {
+      "business_id": "T3595eP9oGRF_GCOSVwUxQ",
+      "mongo_id": "6177ed4596f41b60a76f678c"
+    },
+    {
+      "business_id": "AsStiyLklPORaBZSeQHhLQ",
+      "mongo_id": "6177ed4596f41b60a76f71fc"
+    },
+    {
+      "business_id": "szAH4pr3G6e8G__Rb0iwMA",
+      "mongo_id": "6177ed4596f41b60a76f7a29"
+    },
+    {
+      "business_id": "TAAYd8MB2awbDz-iDF7vVw",
+      "mongo_id": "6177ed4596f41b60a76f919f"
+    },
+    {
+      "business_id": "GetXnCR7dKZwxd_eQwY9_g",
+      "mongo_id": "6177ed4596f41b60a76fa75c"
+    }
+  ]
+}

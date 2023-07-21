@@ -1,0 +1,7 @@
+{
+    "database": "twitter",
+    "attributes_filepath": "../datasets/twitter/twitter_filtered_attributes.json",
+    "schema_index_filepath": "../datasets/twitter/twitter_schema_index_file.shelve",
+    "value_index_filepath": "../datasets/twitter/twitter_value_index_file.shelve",
+    "schema_graph_filepath": "../datasets/twitter/twitter_schema_graph_file.pickle"
+}

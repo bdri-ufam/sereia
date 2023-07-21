@@ -1,0 +1,61 @@
+{
+  "keyword_query": "apple store cities",
+  "expected_documents": [
+    {
+      "business_id": "HDETZyK82mB99xXQl2hsWw",
+      "mongo_id": "627c56dd9d0aba0daf1214a9"
+    },
+    {
+      "business_id": "D5phEkgLctza5dGqB1vcmw",
+      "mongo_id": "627c56dd9d0aba0daf121706"
+    },
+    {
+      "business_id": "WAHdtQsuwNolScTxxHE-xw",
+      "mongo_id": "627c56dd9d0aba0daf122b62"
+    },
+    {
+      "business_id": "wOHIfgMIjigryZGniY9Bgg",
+      "mongo_id": "627c56de9d0aba0daf123d17"
+    },
+    {
+      "business_id": "ROCLgrqUx9yVpin-8lZDfg",
+      "mongo_id": "627c56de9d0aba0daf1254d8"
+    },
+    {
+      "business_id": "OHHH7xudzL-sgTsYRgrBnA",
+      "mongo_id": "627c56de9d0aba0daf126b99"
+    },
+    {
+      "business_id": "5pSuO9S31dIDYCFji4L5ZQ",
+      "mongo_id": "627c56de9d0aba0daf126bf4"
+    },
+    {
+      "business_id": "MNi_Kmtz4riyjQoKDJmTUA",
+      "mongo_id": "627c56de9d0aba0daf129710"
+    },
+    {
+      "business_id": "4sPpSJveOmwmtMqkHLddTA",
+      "mongo_id": "627c56de9d0aba0daf129b17"
+    },
+    {
+      "business_id": "UBYVtH8kOMmCovsbs3-mig",
+      "mongo_id": "627c56df9d0aba0daf12de6d"
+    },
+    {
+      "business_id": "jX269_3a_3V59tsbhJ-BgQ",
+      "mongo_id": "627c56df9d0aba0daf12f73b"
+    },
+    {
+      "business_id": "9ZtulM-yQf5fb2JUT0aJbg",
+      "mongo_id": "627c56df9d0aba0daf13279d"
+    },
+    {
+      "business_id": "pPucBuZjM892pPJpNPcg5Q",
+      "mongo_id": "627c56df9d0aba0daf134b88"
+    },
+    {
+      "business_id": "lZqcDJ2n2p208pzy-E0cxQ",
+      "mongo_id": "627c56e09d0aba0daf137509"
+    }
+  ]
+}

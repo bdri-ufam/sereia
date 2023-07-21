@@ -1,0 +1,9 @@
+{
+  "keyword_query": "gone with the wind",
+  "expected_documents": [
+    {
+      "id": 770,
+      "mongo_id": "61f0b3165402facb5220036c"
+    }
+  ]
+}

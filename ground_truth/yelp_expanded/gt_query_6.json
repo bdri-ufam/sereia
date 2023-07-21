@@ -1,0 +1,10 @@
+{
+  "keyword_query": "reviews analucia",
+  "expected_documents": [
+    {
+      "user_id": "6kgCU1GLjZYXAR-QDm-E7A",
+      "review.review_id": "uJMMzPe9_aVdQ1bghOc_og",
+      "mongo_id": "627c570e9d0aba0daf30f950"
+    }
+  ]
+}

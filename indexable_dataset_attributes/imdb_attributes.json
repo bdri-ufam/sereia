@@ -1,0 +1,20 @@
+[
+  {
+    "table": "movies",
+    "attributes": [
+      "id",
+      "original_title",
+      "overview",
+      "tagline",
+      "title"
+    ]
+  },
+  {
+    "table": "credits",
+    "attributes": [
+      "cast",
+      "crew",
+      "id"
+    ]
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "keyword_query": "angelina + jolie",
+  "expected_documents": [
+    {
+      "id": 37710,
+      "mongo_id": "61f0b2e95e086bdc5aeb63ee"
+    },
+    {
+      "id": 14533,
+      "mongo_id": "61f0b2e65e086bdc5aeb4819"
+    },
+    {
+      "id": 47878,
+      "mongo_id": "61f0b2ea5e086bdc5aeb717f"
+    },
+    {
+      "id": 8909,
+      "mongo_id": "61f0b2e75e086bdc5aeb5619"
+    },
+    {
+      "id": 10555,
+      "mongo_id": "61f0b2e65e086bdc5aeb446d"
+    },
+    {
+      "id": 140300,
+      "mongo_id": "61f0b2ef5e086bdc5aebaec4"
+    },
+    {
+      "id": 37900,
+      "mongo_id": "61f0b2e65e086bdc5aeb4042"
+    },
+    {
+      "id": 18555,
+      "mongo_id": "61f0b2e25e086bdc5aeb2797"
+    },
+    {
+      "id": 102651,
+      "mongo_id": "61f0b2eb5e086bdc5aeb800d"
+    },
+    {
+      "id": 825,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d8f"
+    },
+    {
+      "id": 1988,
+      "mongo_id": "61f0b2e75e086bdc5aeb52fd"
+    },
+    {
+      "id": 3558,
+      "mongo_id": "61f0b2e45e086bdc5aeb3070"
+    },
+    {
+      "id": 1247,
+      "mongo_id": "61f0b2e75e086bdc5aeb513b"
+    },
+    {
+      "id": 27576,
+      "mongo_id": "61f0b2e85e086bdc5aeb6112"
+    },
+    {
+      "id": 1995,
+      "mongo_id": "61f0b2e45e086bdc5aeb34ff"
+    },
+    {
+      "id": 16437,
+      "mongo_id": "61f0b2e65e086bdc5aeb47b9"
+    },
+    {
+      "id": 314385,
+      "mongo_id": "61f0b2ee5e086bdc5aeba6ba"
+    },
+    {
+      "id": 49444,
+      "mongo_id": "61f0b2e95e086bdc5aeb67c3"
+    },
+    {
+      "id": 11081,
+      "mongo_id": "61f0b2e65e086bdc5aeb40aa"
+    },
+    {
+      "id": 3580,
+      "mongo_id": "61f0b2e85e086bdc5aeb5779"
+    },
+    {
+      "id": 787,
+      "mongo_id": "61f0b2e75e086bdc5aeb4be5"
+    },
+    {
+      "id": 82686,
+      "mongo_id": "61f0b2f05e086bdc5aebc099"
+    },
+    {
+      "id": 12628,
+      "mongo_id": "61f0b2e35e086bdc5aeb2a91"
+    },
+    {
+      "id": 9502,
+      "mongo_id": "61f0b2e75e086bdc5aeb55ed"
+    },
+    {
+      "id": 9679,
+      "mongo_id": "61f0b2e45e086bdc5aeb327f"
+    },
+    {
+      "id": 1996,
+      "mongo_id": "61f0b2e55e086bdc5aeb3d7a"
+    },
+    {
+      "id": 1966,
+      "mongo_id": "61f0b2e65e086bdc5aeb44d4"
+    },
+    {
+      "id": 5137,
+      "mongo_id": "61f0b2e65e086bdc5aeb4442"
+    },
+    {
+      "id": 10428,
+      "mongo_id": "61f0b2e25e086bdc5aeb251c"
+    },
+    {
+      "id": 77197,
+      "mongo_id": "61f0b2ee5e086bdc5aeba5f2"
+    },
+    {
+      "id": 23476,
+      "mongo_id": "61f0b2f15e086bdc5aebcdca"
+    },
+    {
+      "id": 9481,
+      "mongo_id": "61f0b2e45e086bdc5aeb2fd1"
+    },
+    {
+      "id": 2310,
+      "mongo_id": "61f0b2e75e086bdc5aeb541a"
+    },
+    {
+      "id": 81003,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9d55"
+    },
+    {
+      "id": 2057,
+      "mongo_id": "61f0b2e45e086bdc5aeb3649"
+    },
+    {
+      "id": 16643,
+      "mongo_id": "61f0b2e55e086bdc5aeb38b5"
+    },
+    {
+      "id": 55058,
+      "mongo_id": "61f0b2e35e086bdc5aeb2862"
+    },
+    {
+      "id": 9839,
+      "mongo_id": "61f0b2e55e086bdc5aeb3ece"
+    },
+    {
+      "id": 12596,
+      "mongo_id": "61f0b2e45e086bdc5aeb2e22"
+    },
+    {
+      "id": 50393,
+      "mongo_id": "61f0b2e95e086bdc5aeb6c08"
+    }
+  ]
+}

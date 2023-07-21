@@ -1,0 +1,69 @@
+{
+  "keyword_query": "title darth + vader",
+  "expected_documents": [
+    {
+      "id": 11,
+      "mongo_id": "61f0b2e25e086bdc5aeb2588"
+    },
+    {
+      "id": 11,
+      "mongo_id": "61f0b2e25e086bdc5aeb2588"
+    },
+    {
+      "id": 1891,
+      "mongo_id": "61f0b2e35e086bdc5aeb28ff"
+    },
+    {
+      "id": 1891,
+      "mongo_id": "61f0b2e35e086bdc5aeb28ff"
+    },
+    {
+      "id": 1892,
+      "mongo_id": "61f0b2e35e086bdc5aeb290b"
+    },
+    {
+      "id": 1892,
+      "mongo_id": "61f0b2e35e086bdc5aeb290b"
+    },
+    {
+      "id": 1895,
+      "mongo_id": "61f0b2e75e086bdc5aeb4bd1"
+    },
+    {
+      "id": 1895,
+      "mongo_id": "61f0b2e75e086bdc5aeb4bd1"
+    },
+    {
+      "id": 18360,
+      "mongo_id": "61f0b2e85e086bdc5aeb59fc"
+    },
+    {
+      "id": 74849,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9b5a"
+    },
+    {
+      "id": 74849,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9b5a"
+    },
+    {
+      "id": 42979,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9d34"
+    },
+    {
+      "id": 278604,
+      "mongo_id": "61f0b2ee5e086bdc5aeba29d"
+    },
+    {
+      "id": 330459,
+      "mongo_id": "61f0b2f05e086bdc5aebc6ba"
+    },
+    {
+      "id": 330459,
+      "mongo_id": "61f0b2f05e086bdc5aebc6ba"
+    },
+    {
+      "id": 330459,
+      "mongo_id": "61f0b2f05e086bdc5aebc6ba"
+    }
+  ]
+}

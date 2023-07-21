@@ -1,0 +1,13 @@
+{
+  "keyword_query": "the notebook",
+  "expected_documents": [
+    {
+      "id": 11036,
+      "mongo_id": "61f0b3185402facb52201e83"
+    },
+    {
+      "id": 199615,
+      "mongo_id": "61f0b31a5402facb5220548e"
+    }
+  ]
+}

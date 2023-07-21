@@ -1,0 +1,14 @@
+[
+  {
+    "table": "dblp",
+    "attributes": [
+      "author",
+      "booktitle",
+      "title",
+      "year",
+      "type",
+      "publisher",
+      "editor"
+    ]
+  }
+]

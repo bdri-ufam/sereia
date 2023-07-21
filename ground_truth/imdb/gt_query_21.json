@@ -1,0 +1,25 @@
+{
+  "keyword_query": "title norman + bates",
+  "expected_documents": [
+    {
+      "id": 539,
+      "mongo_id": "61f0b2e35e086bdc5aeb2906"
+    },
+    {
+      "id": 359749,
+      "mongo_id": "61f0b2f25e086bdc5aebd44b"
+    },
+    {
+      "id": 11252,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d53"
+    },
+    {
+      "id": 12662,
+      "mongo_id": "61f0b2e45e086bdc5aeb2f52"
+    },
+    {
+      "id": 10576,
+      "mongo_id": "61f0b2e45e086bdc5aeb2f51"
+    }
+  ]
+}

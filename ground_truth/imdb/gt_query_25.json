@@ -1,0 +1,45 @@
+{
+  "keyword_query": "harrison + ford george + lucas",
+  "expected_documents": [
+    {
+      "id": 217,
+      "mongo_id": "61f0b2e75e086bdc5aeb55c2"
+    },
+    {
+      "id": 838,
+      "mongo_id": "61f0b2e45e086bdc5aeb311f"
+    },
+    {
+      "id": 33258,
+      "mongo_id": "61f0b2e55e086bdc5aeb3e85"
+    },
+    {
+      "id": 140607,
+      "mongo_id": "61f0b2ec5e086bdc5aeb8c3c"
+    },
+    {
+      "id": 11,
+      "mongo_id": "61f0b2e25e086bdc5aeb2588"
+    },
+    {
+      "id": 1891,
+      "mongo_id": "61f0b2e35e086bdc5aeb28ff"
+    },
+    {
+      "id": 87,
+      "mongo_id": "61f0b2e45e086bdc5aeb2c57"
+    },
+    {
+      "id": 85,
+      "mongo_id": "61f0b2e35e086bdc5aeb28fe"
+    },
+    {
+      "id": 1892,
+      "mongo_id": "61f0b2e35e086bdc5aeb290b"
+    },
+    {
+      "id": 89,
+      "mongo_id": "61f0b2e35e086bdc5aeb2951"
+    }
+  ]
+}

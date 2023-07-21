@@ -1,0 +1,30 @@
+[
+  {
+    "table": "business",
+    "attributes": [
+      "name",
+      "address",
+      "city",
+      "state",
+      "stars",
+      "categories"
+    ]
+  },
+  {
+    "table": "review",
+    "attributes": [
+      "stars"
+    ]
+  },
+  {
+    "table": "user",
+    "attributes": [
+      "name",
+      "average_stars"
+    ]
+  },
+  {
+    "table": "tip",
+    "attributes": []
+  }
+]

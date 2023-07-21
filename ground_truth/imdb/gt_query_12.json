@@ -1,0 +1,21 @@
+{
+  "keyword_query": "lord of the rings",
+  "expected_documents": [
+    {
+      "id": 123,
+      "mongo_id": "61f0b3175402facb522007bf"
+    },
+    {
+      "id": 120,
+      "mongo_id": "61f0b3175402facb522012e4"
+    },
+    {
+      "id": 121,
+      "mongo_id": "61f0b3175402facb5220169b"
+    },
+    {
+      "id": 122,
+      "mongo_id": "61f0b3185402facb52201b3b"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "keyword_query": "similarity search SIGMOD",
+  "expected_documents": [
+    {
+      "key": "conf::sigmod::ChenOO05",
+      "mongo_id": "595c2c41a7986c0872f5ab3f"
+    },
+    {
+      "key": "conf::sigmod::LiHDL15",
+      "mongo_id": "595c2c41a7986c0872f59e60"
+    },
+    {
+      "key": "conf::sigmod::WangLF12",
+      "mongo_id": "595c2c41a7986c0872f5adcf"
+    },
+    {
+      "key": "conf::sigmod::BerchtoldBBKK97",
+      "mongo_id": "595c2c41a7986c0872f59ec9"
+    },
+    {
+      "key": "conf::sigmod::HuangSLZ11",
+      "mongo_id": "595c2c41a7986c0872f5a31f"
+    },
+    {
+      "key": "conf::sigmod::LiLYYW11",
+      "mongo_id": "595c2c41a7986c0872f5acd9"
+    }
+  ]
+}

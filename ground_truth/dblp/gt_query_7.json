@@ -1,0 +1,9 @@
+{
+  "keyword_query": "partition spatial-merge join",
+  "expected_documents": [
+    {
+      "key": "conf::sigmod::PatelD96",
+      "mongo_id": "595c2c41a7986c0872f5a3c2"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "keyword_query": "title indiana + jones",
+  "expected_documents": [
+    {
+      "id": 89,
+      "mongo_id": "61f0b2e35e086bdc5aeb2951"
+    },
+    {
+      "id": 87,
+      "mongo_id": "61f0b2e45e086bdc5aeb2c57"
+    },
+    {
+      "id": 217,
+      "mongo_id": "61f0b2e75e086bdc5aeb55c2"
+    },
+    {
+      "id": 13805,
+      "mongo_id": "61f0b2e75e086bdc5aeb56d4"
+    },
+    {
+      "id": 62128,
+      "mongo_id": "61f0b2e85e086bdc5aeb5a74"
+    }
+  ]
+}

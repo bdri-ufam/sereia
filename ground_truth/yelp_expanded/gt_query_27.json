@@ -1,0 +1,33 @@
+{
+  "keyword_query": "cities taj mahal",
+  "expected_documents": [
+    {
+      "business_id": "MASEgGo5kk8AKnMP4s5MRg",
+      "mongo_id": "627c56dd9d0aba0daf11e886"
+    },
+    {
+      "business_id": "_x1l8xYo1ELhm6thtyvWGw",
+      "mongo_id": "627c56dd9d0aba0daf122472"
+    },
+    {
+      "business_id": "yBIhazo9PXXilJXRF7c12w",
+      "mongo_id": "627c56de9d0aba0daf123a13"
+    },
+    {
+      "business_id": "bAuYOa-VuqTOnKzWN4cu8Q",
+      "mongo_id": "627c56df9d0aba0daf130ff3"
+    },
+    {
+      "business_id": "_I8b8VTSNeIuADRnSrIFXA",
+      "mongo_id": "627c56e09d0aba0daf138e76"
+    },
+    {
+      "business_id": "-9s9AxE4SazLHMebFEfthw",
+      "mongo_id": "627c56e09d0aba0daf13d05b"
+    },
+    {
+      "business_id": "HONsErAtIRzPuc0ekGGyRQ",
+      "mongo_id": "627c56e19d0aba0daf14188e"
+    }
+  ]
+}

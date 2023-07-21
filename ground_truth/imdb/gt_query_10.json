@@ -1,0 +1,49 @@
+{
+  "keyword_query": "star + wars",
+  "expected_documents": [
+    {
+      "id": 11,
+      "mongo_id": "61f0b3165402facb522000ec"
+    },
+    {
+      "id": 1893,
+      "mongo_id": "61f0b3175402facb522009c2"
+    },
+    {
+      "id": 1894,
+      "mongo_id": "61f0b3175402facb52201469"
+    },
+    {
+      "id": 1895,
+      "mongo_id": "61f0b3185402facb52202742"
+    },
+    {
+      "id": 12180,
+      "mongo_id": "61f0b3185402facb52203252"
+    },
+    {
+      "id": 76180,
+      "mongo_id": "61f0b3195402facb52203c41"
+    },
+    {
+      "id": 140607,
+      "mongo_id": "61f0b31a5402facb522067a8"
+    },
+    {
+      "id": 74849,
+      "mongo_id": "61f0b31b5402facb522076c9"
+    },
+    {
+      "id": 42979,
+      "mongo_id": "61f0b31b5402facb522078ab"
+    },
+    {
+      "id": 253150,
+      "mongo_id": "61f0b31b5402facb52208bed"
+    },
+    {
+      "id": 330459,
+      "mongo_id": "61f0b31c5402facb5220a249"
+    }
+  ]
+}

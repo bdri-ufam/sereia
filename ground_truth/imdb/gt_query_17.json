@@ -1,0 +1,21 @@
+{
+  "keyword_query": "the godfather",
+  "expected_documents": [
+    {
+      "id": 238,
+      "mongo_id": "61f0b3165402facb52200331"
+    },
+    {
+      "id": 240,
+      "mongo_id": "61f0b3175402facb5220049c"
+    },
+    {
+      "id": 242,
+      "mongo_id": "61f0b3175402facb52200761"
+    },
+    {
+      "id": 364150,
+      "mongo_id": "61f0b31c5402facb5220abe2"
+    }
+  ]
+}

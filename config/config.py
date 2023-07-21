@@ -15,5 +15,5 @@ class DefaultConfiguration:
     INDEX_FOLDER = environ.get('INDEX_FOLDER', './tmp/datasets/{}/')
     QUERYSETS_FOLDER = environ.get('QUERYSETS_FOLDER', './querysets_config/')
     TEMP_FILES_PATH = environ.get('TEMP_FILES_PATH', 'tmp/')
-    HOST_MAX_RAM_LIMIT = environ.get('HOST_MAX_RAM_LIMIT', 8)
+    HOST_MAX_RAM_LIMIT = environ.get('HOST_MAX_RAM_LIMIT', 12)
     # RESULTS_DIRECTORY = environ.get('RESULTS_DIRECTORY', '../results/')

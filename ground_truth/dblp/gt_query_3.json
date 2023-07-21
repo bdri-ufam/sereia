@@ -1,0 +1,85 @@
+{
+  "keyword_query": "nikos constraint",
+  "expected_documents": [
+    {
+      "key": "conf::ictai::PapadakisP02",
+      "mongo_id": "595c2c4ba7986c0872fa0e03"
+    },
+    {
+      "key": "journals::tsp::JiangS04",
+      "mongo_id": "595c2c05a7986c0872dc6ee8"
+    },
+    {
+      "key": "conf::edbt::YiuKM08",
+      "mongo_id": "595c2c56a7986c0872fec9a3"
+    },
+    {
+      "key": "journals::ar::KatevasT97",
+      "mongo_id": "595c2c04a7986c0872dc13ab"
+    },
+    {
+      "key": "journals::kais::GeUMC15",
+      "mongo_id": "595c2c20a7986c0872e84e28"
+    },
+    {
+      "key": "conf::wscg::AzariadisA00",
+      "mongo_id": "595c2c42a7986c0872f63a67"
+    },
+    {
+      "key": "journals::algorithmica::PapadiasMT01",
+      "mongo_id": "595c2bf9a7986c0872d7633b"
+    },
+    {
+      "key": "journals::jiis::PapadakisPPM12",
+      "mongo_id": "595c2bffa7986c0872da10ff"
+    },
+    {
+      "key": "journals::tods::UMYM10",
+      "mongo_id": "595c2c02a7986c0872db3a83"
+    },
+    {
+      "key": "journals::ijris::PapadakisCSP11",
+      "mongo_id": "595c2c1ca7986c0872e67ef4"
+    },
+    {
+      "key": "conf::eccv::Canterakis00",
+      "mongo_id": "595c2c69a7986c087206b48c"
+    },
+    {
+      "key": "conf::gis::KaracapilidisPE95",
+      "mongo_id": "595c2c54a7986c0872fdf2e3"
+    },
+    {
+      "key": "journals::jair::StergiouS05",
+      "mongo_id": "595c2c14a7986c0872e31dfa"
+    },
+    {
+      "key": "conf::cp::MamoulisS04",
+      "mongo_id": "595c2c4ea7986c0872fb91c2"
+    },
+    {
+      "key": "conf::ssd::KellarisPT09",
+      "mongo_id": "595c2c49a7986c0872f91f3e"
+    },
+    {
+      "key": "conf::icra::DimeasMPA16",
+      "mongo_id": "595c2c38a7986c0872f2f819"
+    },
+    {
+      "key": "journals::informaticaLT::StyliadisPZ03",
+      "mongo_id": "595c2c20a7986c0872e81dbf"
+    },
+    {
+      "key": "conf::cdb::AfratiAK97",
+      "mongo_id": "595c2c43a7986c0872f6a365"
+    },
+    {
+      "key": "conf::gis::MamoulisP98",
+      "mongo_id": "595c2c54a7986c0872fdf605"
+    },
+    {
+      "key": "conf::cikm::PapadiasMM98",
+      "mongo_id": "595c2c71a7986c08720a47f8"
+    }
+  ]
+}

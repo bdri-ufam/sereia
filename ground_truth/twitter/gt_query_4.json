@@ -1,0 +1,4 @@
+{
+  "keyword_query": "apple + event",
+  "expected_documents": []
+}

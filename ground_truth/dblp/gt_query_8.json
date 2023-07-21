@@ -1,0 +1,1601 @@
+{
+  "keyword_query": "keyword search",
+  "expected_documents": [
+    {
+      "key": "conf::infocom::WangSLH15",
+      "mongo_id": "595c2c45a7986c0872f78843"
+    },
+    {
+      "key": "journals::corr::BottcherHR13",
+      "mongo_id": "595c2c17a7986c0872e4484e"
+    },
+    {
+      "key": "conf::icassp::PhamXCSLCL14",
+      "mongo_id": "595c2c75a7986c08720be6ef"
+    },
+    {
+      "key": "conf::asru::ChenYTPK13",
+      "mongo_id": "595c2c3da7986c0872f430e1"
+    },
+    {
+      "key": "conf::mm::GaoLF06",
+      "mongo_id": "595c2c70a7986c087209c2d3"
+    },
+    {
+      "key": "conf::fskd::TakamaKM05",
+      "mongo_id": "595c2c5ba7986c0872011550"
+    },
+    {
+      "key": "journals::tvcg::RiehmannGPTSF12",
+      "mongo_id": "595c2c2ca7986c0872edbcc2"
+    },
+    {
+      "key": "journals::tvcg::0001ISCM17",
+      "mongo_id": "595c2c2ca7986c0872edbdc9"
+    },
+    {
+      "key": "conf::dasfaa::XuLWS06",
+      "mongo_id": "595c2c36a7986c0872f251f4"
+    },
+    {
+      "key": "conf::wise::PradhanT05",
+      "mongo_id": "595c2c51a7986c0872fc9dcb"
+    },
+    {
+      "key": "journals::scientometrics::ChenXHZ15",
+      "mongo_id": "595c2c2da7986c0872ee4c3c"
+    },
+    {
+      "key": "conf::sdm::HristidisVVY07",
+      "mongo_id": "595c2c69a7986c0872069e80"
+    },
+    {
+      "key": "journals::tifs::YangM16",
+      "mongo_id": "595c2bf8a7986c0872d7491c"
+    },
+    {
+      "key": "conf::icisc::ZhaoNS11",
+      "mongo_id": "595c2c6ea7986c0872090f18"
+    },
+    {
+      "key": "conf::apweb::TianLL11",
+      "mongo_id": "595c2c4aa7986c0872f98448"
+    },
+    {
+      "key": "journals::mktsci::RutzTB11",
+      "mongo_id": "595c2c0da7986c0872e02944"
+    },
+    {
+      "key": "journals::ijguc::SzekeresBDC11",
+      "mongo_id": "595c2bfea7986c0872d9b676"
+    },
+    {
+      "key": "conf::dexa::ZengBLL13",
+      "mongo_id": "595c2c62a7986c08720362ec"
+    },
+    {
+      "key": "conf::sigecom::RusmevichientongW06",
+      "mongo_id": "595c2c7ba7986c08720e930f"
+    },
+    {
+      "key": "conf::er::LeWLLL13",
+      "mongo_id": "595c2c36a7986c0872f1ea68"
+    },
+    {
+      "key": "conf::kes::BobedEM12",
+      "mongo_id": "595c2c79a7986c08720d78d9"
+    },
+    {
+      "key": "conf::airs::KongTYWG06",
+      "mongo_id": "595c2c78a7986c08720d191e"
+    },
+    {
+      "key": "conf::cis::GuoLLX13",
+      "mongo_id": "595c2c5aa7986c0872009992"
+    },
+    {
+      "key": "conf::vldb::WangPZQWYD06",
+      "mongo_id": "595c2c4aa7986c0872f9883b"
+    },
+    {
+      "key": "conf::pakdd::YangZ10",
+      "mongo_id": "595c2c6fa7986c0872099786"
+    },
+    {
+      "key": "conf::iih-msp::FuXWS14a",
+      "mongo_id": "595c2c60a7986c087202b5d5"
+    },
+    {
+      "key": "conf::dasfaa::ZhangOH10",
+      "mongo_id": "595c2c36a7986c0872f256c5"
+    },
+    {
+      "key": "conf::sigmod::KargarACGSY14",
+      "mongo_id": "595c2c41a7986c0872f5ac39"
+    },
+    {
+      "key": "journals::taslp::HeBFHJOFP16",
+      "mongo_id": "595c2c1ca7986c0872e6b2ea"
+    },
+    {
+      "key": "conf::sigmod::DingWJHW12",
+      "mongo_id": "595c2c41a7986c0872f5aae0"
+    },
+    {
+      "key": "conf::iptps::OztunaliRS07",
+      "mongo_id": "595c2c4ba7986c0872fa28e6"
+    },
+    {
+      "key": "conf::cloudcom::WangFX13",
+      "mongo_id": "595c2c40a7986c0872f4f514"
+    },
+    {
+      "key": "journals::cj::Chen15a",
+      "mongo_id": "595c2c1fa7986c0872e7ae14"
+    },
+    {
+      "key": "journals::concurrency::ChenLHWZ16",
+      "mongo_id": "595c2c11a7986c0872e1d512"
+    },
+    {
+      "key": "conf::csse::Zhong08",
+      "mongo_id": "595c2c73a7986c08720aecf5"
+    },
+    {
+      "key": "journals::dss::AyansoK15",
+      "mongo_id": "595c2bfca7986c0872d8f334"
+    },
+    {
+      "key": "journals::ac::ElmehdwiJH14",
+      "mongo_id": "595c2c0aa7986c0872dea34a"
+    },
+    {
+      "key": "journals::isci::TabibianAN16",
+      "mongo_id": "595c2c14a7986c0872e35b61"
+    },
+    {
+      "key": "conf::icde::ChenWL11",
+      "mongo_id": "595c2c32a7986c0872f08a53"
+    },
+    {
+      "key": "journals::aei::MontecchiRL13",
+      "mongo_id": "595c2c27a7986c0872eb51e4"
+    },
+    {
+      "key": "journals::jdcta::FangWGR10",
+      "mongo_id": "595c2c0ca7986c0872dfd74d"
+    },
+    {
+      "key": "journals::www::LiL0014",
+      "mongo_id": "595c2c10a7986c0872e16e0d"
+    },
+    {
+      "key": "journals::jwe::GaoDJY12",
+      "mongo_id": "595c2c0ca7986c0872dfc773"
+    },
+    {
+      "key": "journals::jdwm::LiPTPL12",
+      "mongo_id": "595c2c04a7986c0872dc1213"
+    },
+    {
+      "key": "conf::cikm::BjorklundGGG11",
+      "mongo_id": "595c2c71a7986c08720a4f2b"
+    },
+    {
+      "key": "conf::icassp::KintzleyJH14",
+      "mongo_id": "595c2c74a7986c08720b8a90"
+    },
+    {
+      "key": "conf::bigdata::ZhouY0Y14",
+      "mongo_id": "595c2c47a7986c0872f8265c"
+    },
+    {
+      "key": "conf::sigmod::AgrawalCD02",
+      "mongo_id": "595c2c41a7986c0872f5abfe"
+    },
+    {
+      "key": "conf::waim::LinXL16",
+      "mongo_id": "595c2c67a7986c087205bd81"
+    },
+    {
+      "key": "conf::cikm::LadwigT11",
+      "mongo_id": "595c2c71a7986c08720a449a"
+    },
+    {
+      "key": "conf::sac::KongGL09",
+      "mongo_id": "595c2c57a7986c0872ff421a"
+    },
+    {
+      "key": "conf::icassp::NiLWLRLCML16",
+      "mongo_id": "595c2c74a7986c08720ba36b"
+    },
+    {
+      "key": "journals::ijksr::PN16",
+      "mongo_id": "595c2c26a7986c0872eb0b9b"
+    },
+    {
+      "key": "conf::icsoft::WatanabeKY10",
+      "mongo_id": "595c2c62a7986c087203bb5d"
+    },
+    {
+      "key": "phd::basesearch::Gopalakrishnan06",
+      "mongo_id": "595c2ca5a7986c08722d2a3e"
+    },
+    {
+      "key": "conf::waim::Du12",
+      "mongo_id": "595c2c67a7986c087205bfe0"
+    },
+    {
+      "key": "journals::jisis::GrittiSP16",
+      "mongo_id": "595c2c1fa7986c0872e7dcf9"
+    },
+    {
+      "key": "journals::kes::BobedEM13",
+      "mongo_id": "595c2c2ca7986c0872ed9675"
+    },
+    {
+      "key": "conf::fskd::ZhaoWY15",
+      "mongo_id": "595c2c5ba7986c0872010bf2"
+    },
+    {
+      "key": "conf::interspeech::SariGS15",
+      "mongo_id": "595c2c4aa7986c0872f9a0d4"
+    },
+    {
+      "key": "conf::iri::Virgilio11",
+      "mongo_id": "595c2c4ca7986c0872fa8cb2"
+    },
+    {
+      "key": "journals::tods::HristidisHP08",
+      "mongo_id": "595c2c02a7986c0872db3b33"
+    },
+    {
+      "key": "conf::wisa::ParkKL04",
+      "mongo_id": "595c2c7ba7986c08720ea9ee"
+    },
+    {
+      "key": "journals::jcp::Li11a",
+      "mongo_id": "595c2c2ea7986c0872ee5513"
+    },
+    {
+      "key": "conf::www::AzimiAZ15",
+      "mongo_id": "595c2c52a7986c0872fd3757"
+    },
+    {
+      "key": "journals::oir::ZuzeW13",
+      "mongo_id": "595c2c1ba7986c0872e634b2"
+    },
+    {
+      "key": "conf::icebe::IbrahimJYZ12",
+      "mongo_id": "595c2c61a7986c087202ff32"
+    },
+    {
+      "key": "conf::icmcs::Yanai01",
+      "mongo_id": "595c2c6fa7986c0872097c64"
+    },
+    {
+      "key": "conf::dexa::LeZL14",
+      "mongo_id": "595c2c62a7986c0872035f7a"
+    },
+    {
+      "key": "conf::dexa::DemidovaZON10",
+      "mongo_id": "595c2c62a7986c08720366a3"
+    },
+    {
+      "key": "conf::eurocrypt::BonehCOP04",
+      "mongo_id": "595c2c6da7986c0872086b84"
+    },
+    {
+      "key": "journals::corr::GolenbergS16",
+      "mongo_id": "595c2c1aa7986c0872e5b8e5"
+    },
+    {
+      "key": "journals::soco::XhafaWCLLK14",
+      "mongo_id": "595c2c23a7986c0872e9976f"
+    },
+    {
+      "key": "conf::icc::ZhuZR11",
+      "mongo_id": "595c2c57a7986c0872ff7017"
+    },
+    {
+      "key": "conf::webdb::BalminC10",
+      "mongo_id": "595c2c50a7986c0872fc30d8"
+    },
+    {
+      "key": "books::sp::securecloud14::SunLHL14",
+      "mongo_id": "595c2c32a7986c0872f07002"
+    },
+    {
+      "key": "journals::jis::KajikawaAN06",
+      "mongo_id": "595c2c1ba7986c0872e62ab1"
+    },
+    {
+      "key": "conf::icde::OliveiraSM15",
+      "mongo_id": "595c2c32a7986c0872f08b25"
+    },
+    {
+      "key": "journals::jisis::WangCMTLZ12",
+      "mongo_id": "595c2c1fa7986c0872e7dd0b"
+    },
+    {
+      "key": "conf::cns::AzraouiEOM15",
+      "mongo_id": "595c2c42a7986c0872f61def"
+    },
+    {
+      "key": "conf::icwe::VirgilioMC13",
+      "mongo_id": "595c2c4fa7986c0872fbe9a7"
+    },
+    {
+      "key": "conf::gis::SumiyaSSN08",
+      "mongo_id": "595c2c54a7986c0872fdf7ed"
+    },
+    {
+      "key": "conf::www::KoSESSLJ14",
+      "mongo_id": "595c2c52a7986c0872fd32cf"
+    },
+    {
+      "key": "conf::dexa::ZhangHTWHW10",
+      "mongo_id": "595c2c62a7986c0872036137"
+    },
+    {
+      "key": "conf::acc::AnanthiSK11",
+      "mongo_id": "595c2c4aa7986c0872f9941e"
+    },
+    {
+      "key": "conf::waim::LiFTZ07",
+      "mongo_id": "595c2c67a7986c087205bf3b"
+    },
+    {
+      "key": "journals::dke::LeBL15",
+      "mongo_id": "595c2c0ea7986c0872e07b3d"
+    },
+    {
+      "key": "conf::www::MatteisHN15",
+      "mongo_id": "595c2c52a7986c0872fd2dba"
+    },
+    {
+      "key": "conf::complexsystems::DuvvuruRMKS13",
+      "mongo_id": "595c2c49a7986c0872f908a5"
+    },
+    {
+      "key": "journals::mktsci::LiKVP16",
+      "mongo_id": "595c2c0da7986c0872e02992"
+    },
+    {
+      "key": "conf::fskd::LinLL15",
+      "mongo_id": "595c2c5ba7986c0872010f86"
+    },
+    {
+      "key": "journals::toit::0016XYL16",
+      "mongo_id": "595c2c30a7986c0872ef4d53"
+    },
+    {
+      "key": "conf::icde::SayyadianLDG07",
+      "mongo_id": "595c2c32a7986c0872f09a55"
+    },
+    {
+      "key": "journals::tkde::LiuWC11",
+      "mongo_id": "595c2bf7a7986c0872d6c34b"
+    },
+    {
+      "key": "journals::nar::Ramu03",
+      "mongo_id": "595c2c15a7986c0872e3a23d"
+    },
+    {
+      "key": "journals::tpds::ChenZSHGTZ16",
+      "mongo_id": "595c2c0ea7986c0872e091ac"
+    },
+    {
+      "key": "conf::icics::PangYH12",
+      "mongo_id": "595c2c62a7986c0872037c86"
+    },
+    {
+      "key": "conf::dexaw::FakhraeeF11",
+      "mongo_id": "595c2c6da7986c087208c0a5"
+    },
+    {
+      "key": "conf::gpc::HuangJ13",
+      "mongo_id": "595c2c6aa7986c0872073c9a"
+    },
+    {
+      "key": "conf::incos::ChengZ13",
+      "mongo_id": "595c2c63a7986c087203d87c"
+    },
+    {
+      "key": "journals::iacr::BallardGMM05",
+      "mongo_id": "595c2c08a7986c0872de0ee0"
+    },
+    {
+      "key": "conf::vldb::DemidovaN09",
+      "mongo_id": "595c2c4aa7986c0872f9884a"
+    },
+    {
+      "key": "conf::edbt::KoutrikaZG09",
+      "mongo_id": "595c2c56a7986c0872fec942"
+    },
+    {
+      "key": "conf::adbis::MasermannV00",
+      "mongo_id": "595c2c73a7986c08720afd90"
+    },
+    {
+      "key": "journals::debu::YuQC10",
+      "mongo_id": "595c2c10a7986c0872e133b1"
+    },
+    {
+      "key": "conf::wise::WangD13",
+      "mongo_id": "595c2c51a7986c0872fc9e67"
+    },
+    {
+      "key": "conf::icde::ZhangZZL13",
+      "mongo_id": "595c2c32a7986c0872f09591"
+    },
+    {
+      "key": "journals::ijeh::LorenceA06",
+      "mongo_id": "595c2c21a7986c0872e8b6a6"
+    },
+    {
+      "key": "conf::jcdl::Wilsons08",
+      "mongo_id": "595c2c6ba7986c0872079136"
+    },
+    {
+      "key": "journals::www::ZhouLLY13",
+      "mongo_id": "595c2c10a7986c0872e16e46"
+    },
+    {
+      "key": "journals::jis::ShinKESSL15",
+      "mongo_id": "595c2c1ba7986c0872e627e6"
+    },
+    {
+      "key": "journals::iacr::GuZZ06",
+      "mongo_id": "595c2c08a7986c0872de126f"
+    },
+    {
+      "key": "journals::isci::LouLC12",
+      "mongo_id": "595c2c15a7986c0872e37224"
+    },
+    {
+      "key": "conf::edbt::VainioJK17",
+      "mongo_id": "595c2c56a7986c0872fece20"
+    },
+    {
+      "key": "conf::sigmod::MarkowetzYP07",
+      "mongo_id": "595c2c41a7986c0872f5a930"
+    },
+    {
+      "key": "journals::geoinformatica::KhodaeiSL12",
+      "mongo_id": "595c2bfca7986c0872d909fa"
+    },
+    {
+      "key": "journals::ijseke::SelvaganesanHS14",
+      "mongo_id": "595c2bf9a7986c0872d76e10"
+    },
+    {
+      "key": "conf::ccs::YauY08",
+      "mongo_id": "595c2c3ea7986c0872f4722f"
+    },
+    {
+      "key": "journals::tpds::WangCRL12",
+      "mongo_id": "595c2c0ea7986c0872e09174"
+    },
+    {
+      "key": "journals::scjapan::OishiNS99",
+      "mongo_id": "595c2c23a7986c0872e9a9cb"
+    },
+    {
+      "key": "conf::icpr::SomolP06",
+      "mongo_id": "595c2c61a7986c08720339fd"
+    },
+    {
+      "key": "conf::sltu::GalesKRR14",
+      "mongo_id": "595c2c40a7986c0872f55103"
+    },
+    {
+      "key": "journals::pvldb::RameshSJ11",
+      "mongo_id": "595c2c30a7986c0872ef6373"
+    },
+    {
+      "key": "journals::corr::abs-1111-7169",
+      "mongo_id": "595c2c19a7986c0872e5409c"
+    },
+    {
+      "key": "conf::esws::OuksiliKLN16",
+      "mongo_id": "595c2c4ba7986c0872fa2a74"
+    },
+    {
+      "key": "conf::csee2::HuL11",
+      "mongo_id": "595c2c7fa7986c08720f228f"
+    },
+    {
+      "key": "conf::icnidc::DingGJ012",
+      "mongo_id": "595c2c52a7986c0872fd4c16"
+    },
+    {
+      "key": "conf::icics::BallardKM05",
+      "mongo_id": "595c2c62a7986c0872037a44"
+    },
+    {
+      "key": "series::synthesis::2010Yu",
+      "mongo_id": "595c2ca4a7986c08722c864f"
+    },
+    {
+      "key": "conf::seke::Park16",
+      "mongo_id": "595c2c36a7986c0872f25d99"
+    },
+    {
+      "key": "conf::infoscale::MaWL07",
+      "mongo_id": "595c2c33a7986c0872f0b0fa"
+    },
+    {
+      "key": "conf::webdb::KimelfeldS05",
+      "mongo_id": "595c2c50a7986c0872fc3013"
+    },
+    {
+      "key": "journals::dpd::OrencikS14",
+      "mongo_id": "595c2bfea7986c0872d9aa0e"
+    },
+    {
+      "key": "conf::icde::ZhengYZXSZ15",
+      "mongo_id": "595c2c32a7986c0872f09bd4"
+    },
+    {
+      "key": "conf::cikm::TermehchyW09",
+      "mongo_id": "595c2c71a7986c08720a53f3"
+    },
+    {
+      "key": "conf::er::LiWWL12",
+      "mongo_id": "595c2c36a7986c0872f1ed90"
+    },
+    {
+      "key": "conf::icde::DingZLHZ10",
+      "mongo_id": "595c2c32a7986c0872f09218"
+    },
+    {
+      "key": "conf::dasfaa::WangWZ09",
+      "mongo_id": "595c2c36a7986c0872f251e8"
+    },
+    {
+      "key": "conf::bncod::LiFLZ07",
+      "mongo_id": "595c2c53a7986c0872fd62fa"
+    },
+    {
+      "key": "conf::waim::LouWLCL10",
+      "mongo_id": "595c2c67a7986c087205bf37"
+    },
+    {
+      "key": "conf::sigmod::BaoZJL15",
+      "mongo_id": "595c2c41a7986c0872f5a0ae"
+    },
+    {
+      "key": "conf::icc::ZhuB07",
+      "mongo_id": "595c2c58a7986c0872ff9dfd"
+    },
+    {
+      "key": "conf::icassp::SotoCMRH14",
+      "mongo_id": "595c2c75a7986c08720be4a9"
+    },
+    {
+      "key": "conf::globecom::LiuRL04",
+      "mongo_id": "595c2c33a7986c0872f0e988"
+    },
+    {
+      "key": "conf::cikm::BicerTN11",
+      "mongo_id": "595c2c71a7986c08720a42a4"
+    },
+    {
+      "key": "conf::interspeech::KarakosS14",
+      "mongo_id": "595c2c4ba7986c0872f9e165"
+    },
+    {
+      "key": "conf::dexa::AroraLLKK12",
+      "mongo_id": "595c2c62a7986c08720364df"
+    },
+    {
+      "key": "journals::ieicet::KimPL11",
+      "mongo_id": "595c2c26a7986c0872eaf764"
+    },
+    {
+      "key": "journals::ipl::ShaoY15",
+      "mongo_id": "595c2c07a7986c0872dd4d51"
+    },
+    {
+      "key": "conf::icics::ShuaiZ12",
+      "mongo_id": "595c2c62a7986c0872037c6c"
+    },
+    {
+      "key": "journals::te::DawesFGIL15",
+      "mongo_id": "595c2bfaa7986c0872d7eef5"
+    },
+    {
+      "key": "journals::crl::Yang16",
+      "mongo_id": "595c2c02a7986c0872db7364"
+    },
+    {
+      "key": "conf::vldb::AdityaBCHNS02",
+      "mongo_id": "595c2c4aa7986c0872f98f21"
+    },
+    {
+      "key": "journals::eor::SelcukO13",
+      "mongo_id": "595c2c03a7986c0872dbbf1d"
+    },
+    {
+      "key": "conf::sigmod::JiangFW15",
+      "mongo_id": "595c2c41a7986c0872f59f96"
+    },
+    {
+      "key": "journals::corr::abs-0807-2496",
+      "mongo_id": "595c2c17a7986c0872e43545"
+    },
+    {
+      "key": "journals::ejwcn::ParkPL11",
+      "mongo_id": "595c2c03a7986c0872dba947"
+    },
+    {
+      "key": "conf::isw::EmuraMO11",
+      "mongo_id": "595c2c63a7986c0872043bfe"
+    },
+    {
+      "key": "conf::icdim::WuCHL06",
+      "mongo_id": "595c2c7ca7986c08720eb14e"
+    },
+    {
+      "key": "conf::infocom::SunYLHL14",
+      "mongo_id": "595c2c45a7986c0872f78513"
+    },
+    {
+      "key": "conf::dbisp2p::LuHL06",
+      "mongo_id": "595c2c7aa7986c08720e3831"
+    },
+    {
+      "key": "journals::iacr::XuJWZ11",
+      "mongo_id": "595c2c09a7986c0872de22c4"
+    },
+    {
+      "key": "journals::scientometrics::WangNS13",
+      "mongo_id": "595c2c2ea7986c0872ee4f60"
+    },
+    {
+      "key": "journals::tcci::2016-21",
+      "mongo_id": "595c2c1ea7986c0872e79dc8"
+    },
+    {
+      "key": "conf::edbt::KoutrikaZG09a",
+      "mongo_id": "595c2c56a7986c0872fec873"
+    },
+    {
+      "key": "conf::icde::TranWRC09",
+      "mongo_id": "595c2c32a7986c0872f09a0c"
+    },
+    {
+      "key": "journals::jip::TomidaDMS15",
+      "mongo_id": "595c2c10a7986c0872e12cd4"
+    },
+    {
+      "key": "conf::paisi::ChenWWL12",
+      "mongo_id": "595c2c55a7986c0872fe9aee"
+    },
+    {
+      "key": "journals::tpds::CaoWLRL14",
+      "mongo_id": "595c2c0ea7986c0872e09818"
+    },
+    {
+      "key": "conf::ntcir::LarsonRG13",
+      "mongo_id": "595c2c74a7986c08720b65a8"
+    },
+    {
+      "key": "journals::is::FengLWZ10",
+      "mongo_id": "595c2c07a7986c0872dda4c0"
+    },
+    {
+      "key": "conf::iwqos::ShenSX13",
+      "mongo_id": "595c2c42a7986c0872f5d6df"
+    },
+    {
+      "key": "conf::cikm::XuP07",
+      "mongo_id": "595c2c71a7986c08720a43f6"
+    },
+    {
+      "key": "conf::dbta::JiZG10",
+      "mongo_id": "595c2c35a7986c0872f1b006"
+    },
+    {
+      "key": "conf::icassp::TuskeNSN14",
+      "mongo_id": "595c2c75a7986c08720be672"
+    },
+    {
+      "key": "journals::jasis::Yerkey73",
+      "mongo_id": "595c2bfba7986c0872d85613"
+    },
+    {
+      "key": "conf::edbt::OrencikS12",
+      "mongo_id": "595c2c56a7986c0872fec920"
+    },
+    {
+      "key": "journals::corr::abs-1104-4384",
+      "mongo_id": "595c2c19a7986c0872e522a8"
+    },
+    {
+      "key": "journals::ijguc::HuYL15",
+      "mongo_id": "595c2bfea7986c0872d9b6b9"
+    },
+    {
+      "key": "conf::webi::ZhouZ04a",
+      "mongo_id": "595c2c59a7986c0872000fae"
+    },
+    {
+      "key": "conf::dbpl::KimelfeldS05",
+      "mongo_id": "595c2c5ea7986c087201d4f6"
+    },
+    {
+      "key": "conf::infocom::LiWWCRL10",
+      "mongo_id": "595c2c45a7986c0872f77b75"
+    },
+    {
+      "key": "conf::ranlp::NikolovaTA13",
+      "mongo_id": "595c2c71a7986c08720a30b2"
+    },
+    {
+      "key": "conf::IEEEwisa::HaoZLZ16",
+      "mongo_id": "595c2c5ba7986c0872010368"
+    },
+    {
+      "key": "conf::esws::VirgilioM14",
+      "mongo_id": "595c2c4ba7986c0872fa29e7"
+    },
+    {
+      "key": "journals::jcst::JiangMGW17",
+      "mongo_id": "595c2bf9a7986c0872d7c29e"
+    },
+    {
+      "key": "conf::vldb::HristidisGP03",
+      "mongo_id": "595c2c4aa7986c0872f98e4a"
+    },
+    {
+      "key": "journals::iam::QiaoZWC17",
+      "mongo_id": "595c2c10a7986c0872e14d1b"
+    },
+    {
+      "key": "journals::iacr::ZhuZR10",
+      "mongo_id": "595c2c08a7986c0872de0c8c"
+    },
+    {
+      "key": "books::sp::12::VirgilioCMT12",
+      "mongo_id": "595c2c32a7986c0872f06f80"
+    },
+    {
+      "key": "conf::cikm::LiZZW14",
+      "mongo_id": "595c2c71a7986c08720a53bb"
+    },
+    {
+      "key": "conf::interspeech::SotoMRH14",
+      "mongo_id": "595c2c4aa7986c0872f9b96f"
+    },
+    {
+      "key": "conf::icde::AgrawalCD02",
+      "mongo_id": "595c2c32a7986c0872f0997d"
+    },
+    {
+      "key": "conf::aipr::TunaSS11",
+      "mongo_id": "595c2c40a7986c0872f553ec"
+    },
+    {
+      "key": "conf::waim::ZhouLY15",
+      "mongo_id": "595c2c67a7986c087205c07f"
+    },
+    {
+      "key": "journals::iajit::MajeedS17",
+      "mongo_id": "595c2bf8a7986c0872d70aed"
+    },
+    {
+      "key": "conf::dexaw::HagenS10",
+      "mongo_id": "595c2c6da7986c087208bda6"
+    },
+    {
+      "key": "journals::www::CappellariVR12",
+      "mongo_id": "595c2c10a7986c0872e16ec1"
+    },
+    {
+      "key": "conf::acns::GolleSW04",
+      "mongo_id": "595c2c5aa7986c087200d23b"
+    },
+    {
+      "key": "conf::icde::ChenP10",
+      "mongo_id": "595c2c32a7986c0872f08b7f"
+    },
+    {
+      "key": "conf::asiajcis::KikuchiIUYO14",
+      "mongo_id": "595c2c5ca7986c08720194b6"
+    },
+    {
+      "key": "conf::icassp::KingsburyCCGKMMNPRSSW13",
+      "mongo_id": "595c2c75a7986c08720bdf43"
+    },
+    {
+      "key": "conf::europki::TangC09",
+      "mongo_id": "595c2c4ba7986c0872fa2344"
+    },
+    {
+      "key": "conf::trustcom::EmuraPW15",
+      "mongo_id": "595c2c76a7986c08720c4af0"
+    },
+    {
+      "key": "conf::icde::AgarwalR15",
+      "mongo_id": "595c2c32a7986c0872f0907b"
+    },
+    {
+      "key": "conf::amt::TaharaTNO10",
+      "mongo_id": "595c2c4ba7986c0872fa1ad6"
+    },
+    {
+      "key": "conf::sigmod::BartoliniC10",
+      "mongo_id": "595c2c41a7986c0872f5a412"
+    },
+    {
+      "key": "journals::cai::LiC13",
+      "mongo_id": "595c2c28a7986c0872ec1316"
+    },
+    {
+      "key": "conf::sigir::BruzaMD00",
+      "mongo_id": "595c2c63a7986c08720421d4"
+    },
+    {
+      "key": "journals::tkde::SinghZS16",
+      "mongo_id": "595c2bf7a7986c0872d6cc19"
+    },
+    {
+      "key": "journals::jmpt::YadavGKS10",
+      "mongo_id": "595c2c0aa7986c0872de8f28"
+    },
+    {
+      "key": "conf::icde::ZhangCMTK09",
+      "mongo_id": "595c2c32a7986c0872f08d58"
+    },
+    {
+      "key": "journals::jidm::ManicaDG10",
+      "mongo_id": "595c2c1ea7986c0872e79ee1"
+    },
+    {
+      "key": "conf::sigmod::FakhraeeF12",
+      "mongo_id": "595c2c41a7986c0872f5a0bd"
+    },
+    {
+      "key": "journals::tce::FuSLZ14",
+      "mongo_id": "595c2c03a7986c0872db7b0c"
+    },
+    {
+      "key": "conf::dasfaa::HanWZZL15",
+      "mongo_id": "595c2c36a7986c0872f257b3"
+    },
+    {
+      "key": "conf::adc::HouWWY16",
+      "mongo_id": "595c2c73a7986c08720b20ca"
+    },
+    {
+      "key": "conf::apweb::ZhaoYW14",
+      "mongo_id": "595c2c4aa7986c0872f98196"
+    },
+    {
+      "key": "conf::slt::TrmalCPKGZMLJKY14",
+      "mongo_id": "595c2c5ea7986c087201d43c"
+    },
+    {
+      "key": "conf::icdar::ChengZCN09",
+      "mongo_id": "595c2c33a7986c0872f0ad76"
+    },
+    {
+      "key": "journals::tkde::FengLW11",
+      "mongo_id": "595c2bf7a7986c0872d6c7b2"
+    },
+    {
+      "key": "conf::icdim::HaiderR13",
+      "mongo_id": "595c2c7ca7986c08720eb363"
+    },
+    {
+      "key": "conf::sebd::BergamaschiDGLV11",
+      "mongo_id": "595c2c65a7986c087205094f"
+    },
+    {
+      "key": "journals::pvldb::FakasCM11",
+      "mongo_id": "595c2c30a7986c0872ef6277"
+    },
+    {
+      "key": "conf::tcc::FreedmanIPR05",
+      "mongo_id": "595c2c4ea7986c0872fb2cd3"
+    },
+    {
+      "key": "journals::jowua::WangMT0ZM012",
+      "mongo_id": "595c2c11a7986c0872e1a9a8"
+    },
+    {
+      "key": "conf::iberspeech::TejedorTW14",
+      "mongo_id": "595c2c6da7986c08720890d0"
+    },
+    {
+      "key": "journals::tkde::TaoS14",
+      "mongo_id": "595c2bf7a7986c0872d6c199"
+    },
+    {
+      "key": "conf::ACISicis::FuJGW16",
+      "mongo_id": "595c2c36a7986c0872f24f25"
+    },
+    {
+      "key": "conf::ic::HarshN09",
+      "mongo_id": "595c2c64a7986c087204841d"
+    },
+    {
+      "key": "conf::inex::GaoDXY09",
+      "mongo_id": "595c2c75a7986c08720c068c"
+    },
+    {
+      "key": "journals::tc::XuJWW13",
+      "mongo_id": "595c2bfea7986c0872d9c9a8"
+    },
+    {
+      "key": "conf::wise::MaSYXS14",
+      "mongo_id": "595c2c51a7986c0872fc9eac"
+    },
+    {
+      "key": "conf::mmm::WangLL07",
+      "mongo_id": "595c2c3ba7986c0872f34c33"
+    },
+    {
+      "key": "conf::icde::TianTOTT06",
+      "mongo_id": "595c2c32a7986c0872f091aa"
+    },
+    {
+      "key": "conf::dnis::GoyalSL10",
+      "mongo_id": "595c2c40a7986c0872f4fdbe"
+    },
+    {
+      "key": "conf::kcap::GavankarLR15",
+      "mongo_id": "595c2c3ca7986c0872f3d16b"
+    },
+    {
+      "key": "conf::sigmod::BergamaschiDGLV11",
+      "mongo_id": "595c2c41a7986c0872f5aa85"
+    },
+    {
+      "key": "conf::interspeech::KintzleyJCH12",
+      "mongo_id": "595c2c4aa7986c0872f9aa44"
+    },
+    {
+      "key": "conf::ssd::AhujaAPF15",
+      "mongo_id": "595c2c49a7986c0872f91fb7"
+    },
+    {
+      "key": "journals::acj::KimLK07",
+      "mongo_id": "595c2c16a7986c0872e3c316"
+    },
+    {
+      "key": "conf::cikm::CaladoSVLR02",
+      "mongo_id": "595c2c71a7986c08720a4b86"
+    },
+    {
+      "key": "conf::icdt::Sagiv13",
+      "mongo_id": "595c2c6ea7986c08720908d8"
+    },
+    {
+      "key": "conf::cikm::ElbassuoniB11",
+      "mongo_id": "595c2c71a7986c08720a4a87"
+    },
+    {
+      "key": "conf::dasfaa::YurukXLY08",
+      "mongo_id": "595c2c36a7986c0872f254b1"
+    },
+    {
+      "key": "conf::ica3pp::LiMZ05",
+      "mongo_id": "595c2c63a7986c08720419f5"
+    },
+    {
+      "key": "journals::fgcs::SalterA07",
+      "mongo_id": "595c2bf7a7986c0872d6af25"
+    },
+    {
+      "key": "conf::pacis::DwivediMWL09",
+      "mongo_id": "595c2c40a7986c0872f502fc"
+    },
+    {
+      "key": "journals::sigmod::LeL16",
+      "mongo_id": "595c2bffa7986c0872da6279"
+    },
+    {
+      "key": "conf::icde::BhideCRR09",
+      "mongo_id": "595c2c32a7986c0872f09a4a"
+    },
+    {
+      "key": "conf::ic3k::KKD10",
+      "mongo_id": "595c2c41a7986c0872f58fc7"
+    },
+    {
+      "key": "conf::waim::SongFLH08",
+      "mongo_id": "595c2c67a7986c087205c051"
+    },
+    {
+      "key": "journals::rts::ZhaoTIQ01",
+      "mongo_id": "595c2c1da7986c0872e6e35b"
+    },
+    {
+      "key": "conf::sigir::DemidovaFZN10",
+      "mongo_id": "595c2c63a7986c0872042677"
+    },
+    {
+      "key": "journals::jodsn::ZitzelbergerELS15",
+      "mongo_id": "595c2bf8a7986c0872d6ff12"
+    },
+    {
+      "key": "conf::milcom::ShenCTT15",
+      "mongo_id": "595c2c68a7986c0872065fdb"
+    },
+    {
+      "key": "conf::pakdd::YangZLZ11",
+      "mongo_id": "595c2c6fa7986c08720994fb"
+    },
+    {
+      "key": "conf::dasc::JieXMY14",
+      "mongo_id": "595c2c33a7986c0872f0a155"
+    },
+    {
+      "key": "journals::robotica::Esrom88",
+      "mongo_id": "595c2c02a7986c0872db5db0"
+    },
+    {
+      "key": "conf::ercimdl::GiannopoulosBS13",
+      "mongo_id": "595c2c5fa7986c087202645e"
+    },
+    {
+      "key": "conf::icde::FelipeHR08",
+      "mongo_id": "595c2c32a7986c0872f0984e"
+    },
+    {
+      "key": "conf::inex::HummelSML10",
+      "mongo_id": "595c2c75a7986c08720c0681"
+    },
+    {
+      "key": "conf::sigir::ZengBLL13",
+      "mongo_id": "595c2c63a7986c087204289f"
+    },
+    {
+      "key": "conf::isica::HeY15",
+      "mongo_id": "595c2c65a7986c087204f577"
+    },
+    {
+      "key": "conf::acns::ChangM05",
+      "mongo_id": "595c2c5aa7986c087200d13a"
+    },
+    {
+      "key": "conf::kesamsta::Pankowski15",
+      "mongo_id": "595c2c56a7986c0872ff14fb"
+    },
+    {
+      "key": "conf::icde::BhalotiaHNCS02",
+      "mongo_id": "595c2c32a7986c0872f09458"
+    },
+    {
+      "key": "conf::ficta::KavilaRB13",
+      "mongo_id": "595c2c7ba7986c08720eaddd"
+    },
+    {
+      "key": "conf::dasfaa::GaoJPS14",
+      "mongo_id": "595c2c36a7986c0872f256d1"
+    },
+    {
+      "key": "journals::pvldb::TermehchyW10",
+      "mongo_id": "595c2c30a7986c0872ef62d2"
+    },
+    {
+      "key": "journals::corr::abs-1205-2880",
+      "mongo_id": "595c2c19a7986c0872e52b30"
+    },
+    {
+      "key": "journals::eswa::KimPKC12a",
+      "mongo_id": "595c2c01a7986c0872db0188"
+    },
+    {
+      "key": "conf::icis::GongLA14",
+      "mongo_id": "595c2c63a7986c087203dea7"
+    },
+    {
+      "key": "conf::naacl::YuCLS05",
+      "mongo_id": "595c2c5aa7986c0872007b04"
+    },
+    {
+      "key": "conf::edbt::VirgilioMT14",
+      "mongo_id": "595c2c56a7986c0872fecc0f"
+    },
+    {
+      "key": "conf::iceis::GuerraBOSS09",
+      "mongo_id": "595c2c42a7986c0872f5fd55"
+    },
+    {
+      "key": "conf::dcc::LuT03",
+      "mongo_id": "595c2c73a7986c08720b14e6"
+    },
+    {
+      "key": "journals::computer::schraefel09",
+      "mongo_id": "595c2c26a7986c0872eb2715"
+    },
+    {
+      "key": "conf::ic3k::HirvonenTPCFF10",
+      "mongo_id": "595c2c41a7986c0872f5918c"
+    },
+    {
+      "key": "conf::asru::CaiLLKHZL15",
+      "mongo_id": "595c2c3da7986c0872f42f6d"
+    },
+    {
+      "key": "conf::closer::NeuhausFJP15",
+      "mongo_id": "595c2c52a7986c0872fd2b9b"
+    },
+    {
+      "key": "conf::fskd::XiangDYWG10",
+      "mongo_id": "595c2c5ba7986c0872010f26"
+    },
+    {
+      "key": "conf::ccs::FuSSZ14",
+      "mongo_id": "595c2c3ea7986c0872f472ae"
+    },
+    {
+      "key": "journals::corr::Naseriparsa0LM17",
+      "mongo_id": "595c2c1aa7986c0872e5c625"
+    },
+    {
+      "key": "conf::iwpc::SabiMHK15",
+      "mongo_id": "595c2c36a7986c0872f1fd42"
+    },
+    {
+      "key": "conf::icccn::SeiH07",
+      "mongo_id": "595c2c32a7986c0872f07ce5"
+    },
+    {
+      "key": "journals::iacr::CaoL16b",
+      "mongo_id": "595c2c09a7986c0872de2590"
+    },
+    {
+      "key": "journals::iacr::ZhengXA13",
+      "mongo_id": "595c2c09a7986c0872de244e"
+    },
+    {
+      "key": "conf::semco::FafaliosT14",
+      "mongo_id": "595c2c55a7986c0872fe5e05"
+    },
+    {
+      "key": "conf::smap::BernabeiGL15",
+      "mongo_id": "595c2c3ba7986c0872f37a4a"
+    },
+    {
+      "key": "conf::dbsec::MoatazJRCCR14",
+      "mongo_id": "595c2c6ca7986c087207d94f"
+    },
+    {
+      "key": "conf::gis::GaneshanSG10",
+      "mongo_id": "595c2c54a7986c0872fdf19e"
+    },
+    {
+      "key": "conf::semweb::TranCRS07",
+      "mongo_id": "595c2c56a7986c0872fef00b"
+    },
+    {
+      "key": "conf::data::Lopez-VeynaSL12",
+      "mongo_id": "595c2c60a7986c087202a155"
+    },
+    {
+      "key": "conf::dasfaa::XuGI12",
+      "mongo_id": "595c2c36a7986c0872f25289"
+    },
+    {
+      "key": "journals::isci::HuangL17",
+      "mongo_id": "595c2c14a7986c0872e35b03"
+    },
+    {
+      "key": "conf::nss::ChenLGWC14",
+      "mongo_id": "595c2c42a7986c0872f63013"
+    },
+    {
+      "key": "conf::cikm::CoffmanW11",
+      "mongo_id": "595c2c71a7986c08720a4832"
+    },
+    {
+      "key": "conf::ijcai::KuangLL11",
+      "mongo_id": "595c2c7aa7986c08720e2629"
+    },
+    {
+      "key": "conf::icde::WangR14",
+      "mongo_id": "595c2c32a7986c0872f08db8"
+    },
+    {
+      "key": "conf::css::WangLLX13",
+      "mongo_id": "595c2c5da7986c087201b222"
+    },
+    {
+      "key": "conf::edbt::LiLZW10",
+      "mongo_id": "595c2c56a7986c0872feceab"
+    },
+    {
+      "key": "conf::icdm::JoshiM06",
+      "mongo_id": "595c2c4fa7986c0872fbc75b"
+    },
+    {
+      "key": "journals::debu::Webber10",
+      "mongo_id": "595c2c10a7986c0872e13284"
+    },
+    {
+      "key": "conf::sigmod::Tao12",
+      "mongo_id": "595c2c41a7986c0872f5aa6c"
+    },
+    {
+      "key": "series::ads::WangA10",
+      "mongo_id": "595c2ca4a7986c08722c60ba"
+    },
+    {
+      "key": "journals::vldb::YanZITY15",
+      "mongo_id": "595c2c09a7986c0872de8c68"
+    },
+    {
+      "key": "conf::IEEEcloud::OrencikKS13",
+      "mongo_id": "595c2c61a7986c0872034daa"
+    },
+    {
+      "key": "journals::isci::LiuCWLX13",
+      "mongo_id": "595c2c14a7986c0872e35b56"
+    },
+    {
+      "key": "conf::cloudcom::CaiHZFL13",
+      "mongo_id": "595c2c40a7986c0872f4f4cd"
+    },
+    {
+      "key": "conf::uic::PoonM16",
+      "mongo_id": "595c2c71a7986c08720a7971"
+    },
+    {
+      "key": "conf::sdmw::HoreCDM12",
+      "mongo_id": "595c2c50a7986c0872fc1d3f"
+    },
+    {
+      "key": "conf::slt::CetinkayaGS16",
+      "mongo_id": "595c2c5ea7986c087201d41f"
+    },
+    {
+      "key": "journals::www::HuangCLHZ17",
+      "mongo_id": "595c2c10a7986c0872e16ee8"
+    },
+    {
+      "key": "conf::iri::HassanARB03",
+      "mongo_id": "595c2c4ca7986c0872fa88cb"
+    },
+    {
+      "key": "conf::icdcsw::ChuahH11",
+      "mongo_id": "595c2c4fa7986c0872fbf936"
+    },
+    {
+      "key": "journals::concurrency::0003ZD16",
+      "mongo_id": "595c2c11a7986c0872e1da0f"
+    },
+    {
+      "key": "journals::www::LiuC11",
+      "mongo_id": "595c2c10a7986c0872e16fad"
+    },
+    {
+      "key": "journals::robotica::Esrom87a",
+      "mongo_id": "595c2c02a7986c0872db62a4"
+    },
+    {
+      "key": "journals::corr::abs-1211-3682",
+      "mongo_id": "595c2c1aa7986c0872e57005"
+    },
+    {
+      "key": "conf::sigmod::JacobI11",
+      "mongo_id": "595c2c41a7986c0872f5adc1"
+    },
+    {
+      "key": "journals::kais::GongL09",
+      "mongo_id": "595c2c20a7986c0872e84c43"
+    },
+    {
+      "key": "journals::corr::abs-1012-3805",
+      "mongo_id": "595c2c18a7986c0872e49c77"
+    },
+    {
+      "key": "conf::dasfaa::ChangCC12",
+      "mongo_id": "595c2c36a7986c0872f252df"
+    },
+    {
+      "key": "journals::isci::ShaoCLL10",
+      "mongo_id": "595c2c15a7986c0872e365a1"
+    },
+    {
+      "key": "phd::basesearch::Luo09",
+      "mongo_id": "595c2ca5a7986c08722d387f"
+    },
+    {
+      "key": "journals::computing::LiLX14",
+      "mongo_id": "595c2c21a7986c0872e8a236"
+    },
+    {
+      "key": "conf::dasfaa::LiYDX15",
+      "mongo_id": "595c2c36a7986c0872f255af"
+    },
+    {
+      "key": "conf::iat::PatilCS12",
+      "mongo_id": "595c2c4ca7986c0872fa368b"
+    },
+    {
+      "key": "journals::vldb::ShaoGBBCYS09",
+      "mongo_id": "595c2c09a7986c0872de8c57"
+    },
+    {
+      "key": "journals::isci::FangSGW13",
+      "mongo_id": "595c2c15a7986c0872e373a5"
+    },
+    {
+      "key": "journals::kais::ZhouP12",
+      "mongo_id": "595c2c20a7986c0872e84ed0"
+    },
+    {
+      "key": "conf::iciw::Mason07",
+      "mongo_id": "595c2c6fa7986c0872095c0e"
+    },
+    {
+      "key": "journals::icl::JeongK08",
+      "mongo_id": "595c2c2ea7986c0872eea3d5"
+    },
+    {
+      "key": "phd::dnb::Demidova13",
+      "mongo_id": "595c2ca5a7986c08722ce6d0"
+    },
+    {
+      "key": "conf::dasfaa::ZhangMWZ10",
+      "mongo_id": "595c2c36a7986c0872f25249"
+    },
+    {
+      "key": "journals::tods::MarkowetzYP09",
+      "mongo_id": "595c2c02a7986c0872db3aba"
+    },
+    {
+      "key": "journals::scientometrics::MoellerM15",
+      "mongo_id": "595c2c2da7986c0872ee4ca1"
+    },
+    {
+      "key": "journals::jdm::TahaE09",
+      "mongo_id": "595c2bfba7986c0872d848a8"
+    },
+    {
+      "key": "conf::apweb::XuIG09",
+      "mongo_id": "595c2c4aa7986c0872f98054"
+    },
+    {
+      "key": "conf::edbt::ZhangTT13",
+      "mongo_id": "595c2c56a7986c0872feceda"
+    },
+    {
+      "key": "conf::sigmod::TaoPSS11",
+      "mongo_id": "595c2c41a7986c0872f5a5aa"
+    },
+    {
+      "key": "journals::ieicet::ZhangI09",
+      "mongo_id": "595c2c26a7986c0872eae861"
+    },
+    {
+      "key": "journals::pvldb::Rao0HT13",
+      "mongo_id": "595c2c30a7986c0872ef6690"
+    },
+    {
+      "key": "conf::ercimdl::BikakisGLSDS13",
+      "mongo_id": "595c2c5fa7986c08720263dd"
+    },
+    {
+      "key": "conf::sscc::KaushikV16",
+      "mongo_id": "595c2c5aa7986c087200a37a"
+    },
+    {
+      "key": "conf::webi::NiuZJXL12",
+      "mongo_id": "595c2c59a7986c087200169a"
+    },
+    {
+      "key": "conf::widm::0002L12",
+      "mongo_id": "595c2c7ba7986c08720e4c4f"
+    },
+    {
+      "key": "conf::interspeech::NgHZKMKVSZNS14",
+      "mongo_id": "595c2c4aa7986c0872f99fd3"
+    },
+    {
+      "key": "journals::jip::XuIG12",
+      "mongo_id": "595c2c10a7986c0872e12e3e"
+    },
+    {
+      "key": "conf::infocom::SunLLH015",
+      "mongo_id": "595c2c45a7986c0872f79560"
+    },
+    {
+      "key": "journals::corr::abs-1208-0077",
+      "mongo_id": "595c2c1aa7986c0872e5d95b"
+    },
+    {
+      "key": "journals::jcisd::Michaels75",
+      "mongo_id": "595c2c21a7986c0872e8e366"
+    },
+    {
+      "key": "journals::tist::Chen0CK15",
+      "mongo_id": "595c2c1ba7986c0872e617f3"
+    },
+    {
+      "key": "conf::icassp::ChenSLNXPML14",
+      "mongo_id": "595c2c74a7986c08720b7733"
+    },
+    {
+      "key": "conf::iccsa::BaekSS08",
+      "mongo_id": "595c2c62a7986c0872036b92"
+    },
+    {
+      "key": "journals::tods::LiuC10",
+      "mongo_id": "595c2c02a7986c0872db3c26"
+    },
+    {
+      "key": "conf::waim::DongGWC13",
+      "mongo_id": "595c2c67a7986c087205bd71"
+    },
+    {
+      "key": "journals::comcom::ShiHLMY08",
+      "mongo_id": "595c2c04a7986c0872dc3d98"
+    },
+    {
+      "key": "journals::tkde::YuanLCYWS17",
+      "mongo_id": "595c2bf7a7986c0872d6c826"
+    },
+    {
+      "key": "conf::dils::LiuWA09",
+      "mongo_id": "595c2c5ea7986c087201b33f"
+    },
+    {
+      "key": "journals::jss::ByunL11",
+      "mongo_id": "595c2c09a7986c0872de481c"
+    },
+    {
+      "key": "conf::isi::ParkLZB08",
+      "mongo_id": "595c2c38a7986c0872f2d050"
+    },
+    {
+      "key": "conf::interspeech::NovotneyBSKK12",
+      "mongo_id": "595c2c4ba7986c0872f9c378"
+    },
+    {
+      "key": "journals::scientometrics::XiaoCSHZ16",
+      "mongo_id": "595c2c2da7986c0872ee4dd5"
+    },
+    {
+      "key": "conf::dasfaa::ZhangOH10a",
+      "mongo_id": "595c2c36a7986c0872f25932"
+    },
+    {
+      "key": "conf::webi::AswathADD05",
+      "mongo_id": "595c2c59a7986c0872000f2d"
+    },
+    {
+      "key": "journals::kais::KargarA15",
+      "mongo_id": "595c2c20a7986c0872e85054"
+    },
+    {
+      "key": "conf::sebd::VirgilioCM10",
+      "mongo_id": "595c2c65a7986c08720506fa"
+    },
+    {
+      "key": "conf::esws::StefanidisF15",
+      "mongo_id": "595c2c4ba7986c0872fa2e85"
+    },
+    {
+      "key": "conf::cikm::LiFWZ07",
+      "mongo_id": "595c2c71a7986c08720a46f0"
+    },
+    {
+      "key": "conf::cikm::LiXF12",
+      "mongo_id": "595c2c71a7986c08720a4a3c"
+    },
+    {
+      "key": "conf::incos::HuL13",
+      "mongo_id": "595c2c63a7986c087203da0a"
+    },
+    {
+      "key": "conf::edbt::ZengBL13",
+      "mongo_id": "595c2c56a7986c0872feca37"
+    },
+    {
+      "key": "journals::te::Froyd15",
+      "mongo_id": "595c2bfaa7986c0872d7ee43"
+    },
+    {
+      "key": "conf::wcsp::ZhaoLYL14",
+      "mongo_id": "595c2c49a7986c0872f916c5"
+    },
+    {
+      "key": "journals::is::WeiandKlFB12",
+      "mongo_id": "595c2c07a7986c0872dda1a1"
+    },
+    {
+      "key": "journals::scn::ZhenhuaJB15",
+      "mongo_id": "595c2c1ba7986c0872e6228b"
+    },
+    {
+      "key": "conf::IEEEcsc::XuZYXY12",
+      "mongo_id": "595c2c55a7986c0872fe9b7f"
+    },
+    {
+      "key": "conf::sigmod::2010keys",
+      "mongo_id": "595c2c41a7986c0872f5adb4"
+    },
+    {
+      "key": "journals::jmis::LuZ14",
+      "mongo_id": "595c2c30a7986c0872ef3baa"
+    },
+    {
+      "key": "journals::jsac::JoungYF07",
+      "mongo_id": "595c2c1ba7986c0872e64d46"
+    },
+    {
+      "key": "journals::te::FinelliBR15",
+      "mongo_id": "595c2bfaa7986c0872d7ee84"
+    },
+    {
+      "key": "conf::dasfaa::WenZZZXY11",
+      "mongo_id": "595c2c36a7986c0872f25359"
+    },
+    {
+      "key": "conf::asru::LvCLKHZL15",
+      "mongo_id": "595c2c3da7986c0872f42f7c"
+    },
+    {
+      "key": "conf::edbt::ZengLL16a",
+      "mongo_id": "595c2c56a7986c0872fecbe1"
+    },
+    {
+      "key": "conf::trustcom::HwangSK14",
+      "mongo_id": "595c2c76a7986c08720c4b91"
+    },
+    {
+      "key": "journals::jasis::Kaki06",
+      "mongo_id": "595c2bfba7986c0872d84afd"
+    },
+    {
+      "key": "conf::www::JiLLF09",
+      "mongo_id": "595c2c52a7986c0872fd31a6"
+    },
+    {
+      "key": "journals::sigmod::LinCC14",
+      "mongo_id": "595c2bffa7986c0872da62d7"
+    },
+    {
+      "key": "conf::premi::VadivelSM05",
+      "mongo_id": "595c2c6fa7986c0872099d55"
+    },
+    {
+      "key": "conf::icita::RoyoMBI05",
+      "mongo_id": "595c2c5ea7986c087201ebf1"
+    },
+    {
+      "key": "conf::smartcom::WangLYM16",
+      "mongo_id": "595c2c35a7986c0872f1da63"
+    },
+    {
+      "key": "conf::sebd::BergamaschiFGS15",
+      "mongo_id": "595c2c65a7986c08720507af"
+    },
+    {
+      "key": "journals::fgcs::WangXLY16",
+      "mongo_id": "595c2bf7a7986c0872d6b33b"
+    },
+    {
+      "key": "journals::jnca::LiuWW12",
+      "mongo_id": "595c2c28a7986c0872ec02ee"
+    },
+    {
+      "key": "conf::cans::WangWP08",
+      "mongo_id": "595c2c7ba7986c08720e579d"
+    },
+    {
+      "key": "conf::www::TermehchyW10",
+      "mongo_id": "595c2c52a7986c0872fd31ff"
+    },
+    {
+      "key": "journals::jowua::Zhao0MTZ12",
+      "mongo_id": "595c2c11a7986c0872e1a9b4"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+    {
+        "table": "nba",
+        "attributes": [
+            "teams.name",
+            "teams.abbreviation",
+            "teams.players.player",
+            "teams.city"
+        ]
+    }
+]

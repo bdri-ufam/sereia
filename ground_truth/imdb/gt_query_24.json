@@ -1,0 +1,25 @@
+{
+  "keyword_query": "name terminator",
+  "expected_documents": [
+    {
+      "id": 280,
+      "mongo_id": "61f0b3165402facb52200238"
+    },
+    {
+      "id": 218,
+      "mongo_id": "61f0b3175402facb52200494"
+    },
+    {
+      "id": 296,
+      "mongo_id": "61f0b3185402facb522018e1"
+    },
+    {
+      "id": 534,
+      "mongo_id": "61f0b3195402facb5220356d"
+    },
+    {
+      "id": 87101,
+      "mongo_id": "61f0b31a5402facb522064f8"
+    }
+  ]
+}

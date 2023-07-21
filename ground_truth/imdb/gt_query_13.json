@@ -1,0 +1,25 @@
+{
+  "keyword_query": "wizard of oz",
+  "expected_documents": [
+    {
+      "id": 630,
+      "mongo_id": "61f0b3165402facb522003a7"
+    },
+    {
+      "id": 47508,
+      "mongo_id": "61f0b3195402facb52203c8e"
+    },
+    {
+      "id": 72972,
+      "mongo_id": "61f0b31b5402facb52207a64"
+    },
+    {
+      "id": 334629,
+      "mongo_id": "61f0b31b5402facb52209397"
+    },
+    {
+      "id": 53759,
+      "mongo_id": "61f0b31c5402facb5220a91b"
+    }
+  ]
+}

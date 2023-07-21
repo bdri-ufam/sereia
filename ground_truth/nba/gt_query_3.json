@@ -1,0 +1,17 @@
+{
+  "keyword_query": "stephen + curry lebron + james",
+  "expected_documents": [
+    {
+      "mongo_id": "52f30e3a1b34326811679149"
+    },
+    {
+      "mongo_id": "52f2f74390a494841832894a"
+    },
+    {
+      "mongo_id": "52f2f2b690a494841832832d"
+    },
+    {
+      "mongo_id": "52f2f3ca90a49484183284ba"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "keyword_query": "5.0 star italian restaurants",
+  "expected_documents": [
+    {
+      "business_id": "juz9PQwych5_IQdLLqqi_Q",
+      "mongo_id": "6177ed4296f41b60a76d587b"
+    },
+    {
+      "business_id": "IUBiRnK0euaQf9jZuBFQDw",
+      "mongo_id": "6177ed4296f41b60a76d5e91"
+    },
+    {
+      "business_id": "DO2lGg0s4kzJbrjsWa53jw",
+      "mongo_id": "6177ed4296f41b60a76d605f"
+    },
+    {
+      "business_id": "8nfL0GhlRDvSM9lsfUYMXg",
+      "mongo_id": "6177ed4296f41b60a76d613b"
+    },
+    {
+      "business_id": "yidpoxACFGLtT_AjV2IHqg",
+      "mongo_id": "6177ed4296f41b60a76d6fbb"
+    },
+    {
+      "business_id": "JmrpGlpLWCFBGd933FDdwg",
+      "mongo_id": "6177ed4296f41b60a76d7a39"
+    },
+    {
+      "business_id": "g-Ht8SDtPHJp_LhSXr6HSw",
+      "mongo_id": "6177ed4296f41b60a76d7b95"
+    },
+    {
+      "business_id": "Yok2NYHlWGn5Wj8HXshmmA",
+      "mongo_id": "6177ed4296f41b60a76d7c57"
+    },
+    {
+      "business_id": "70px8lAn7W4qJnoyLjcyLw",
+      "mongo_id": "6177ed4296f41b60a76d8802"
+    },
+    {
+      "business_id": "WT7bezmVRv0J05LfNqoaew",
+      "mongo_id": "6177ed4296f41b60a76d8845"
+    },
+    {
+      "business_id": "bhEeFbeeHpeb4NHZ8exXgQ",
+      "mongo_id": "6177ed4296f41b60a76d8b0b"
+    },
+    {
+      "business_id": "HuXjy-2f6zSWEddSQBoZ4Q",
+      "mongo_id": "6177ed4296f41b60a76d900e"
+    },
+    {
+      "business_id": "ZvEAtWWlsFT134caOtdFFA",
+      "mongo_id": "6177ed4296f41b60a76d9692"
+    },
+    {
+      "business_id": "qPUcze9ocxMF5LQkWocddw",
+      "mongo_id": "6177ed4296f41b60a76d9839"
+    },
+    {
+      "business_id": "Qfcoyb4-d5V80Zqvq2J-6A",
+      "mongo_id": "6177ed4296f41b60a76db414"
+    },
+    {
+      "business_id": "49JsmhGmYYcDJTeUUySOkQ",
+      "mongo_id": "6177ed4296f41b60a76db675"
+    },
+    {
+      "business_id": "kEIcdlbRX3i4WI6XdzG5pQ",
+      "mongo_id": "6177ed4296f41b60a76db966"
+    },
+    {
+      "business_id": "6A8smdPYPc1u5pP1ATZQug",
+      "mongo_id": "6177ed4296f41b60a76dbfa3"
+    },
+    {
+      "business_id": "vdQbDQHPq_nA30ngxEgMJg",
+      "mongo_id": "6177ed4296f41b60a76dcb7e"
+    },
+    {
+      "business_id": "3Fp_9yvY5ZpIv-SkDIYdJw",
+      "mongo_id": "6177ed4296f41b60a76dd0e8"
+    },
+    {
+      "business_id": "aNQlOmOLIUTmPvbJHaMLug",
+      "mongo_id": "6177ed4396f41b60a76dfc3b"
+    },
+    {
+      "business_id": "AZOTSa2_-g4xEKHRL9SHrA",
+      "mongo_id": "6177ed4396f41b60a76e0c8e"
+    },
+    {
+      "business_id": "ZDFrpj23_tQ_jV8NiAf-Cg",
+      "mongo_id": "6177ed4396f41b60a76e4553"
+    },
+    {
+      "business_id": "yr0HIuzSkJfVIDEgKOdkVg",
+      "mongo_id": "6177ed4396f41b60a76e4ccc"
+    },
+    {
+      "business_id": "whY0Yd17LLV-N4QuWaQfFQ",
+      "mongo_id": "6177ed4396f41b60a76e6323"
+    },
+    {
+      "business_id": "WfpMnl6C2bnp8vxv613DIQ",
+      "mongo_id": "6177ed4396f41b60a76e64f0"
+    },
+    {
+      "business_id": "Nn3S9iI3IxhWTvwXYheqcg",
+      "mongo_id": "6177ed4396f41b60a76e8d7e"
+    },
+    {
+      "business_id": "EC4hb3ie0NBoyw7zgrsnmA",
+      "mongo_id": "6177ed4496f41b60a76ea3ba"
+    },
+    {
+      "business_id": "38_Zd3n9Zn6j9y-4pvO-Pg",
+      "mongo_id": "6177ed4496f41b60a76eb3c8"
+    },
+    {
+      "business_id": "M-SV3_02bxc6hcyWiebsiw",
+      "mongo_id": "6177ed4496f41b60a76eb651"
+    },
+    {
+      "business_id": "ZSHaccKuVOhvYI2NwkWm0Q",
+      "mongo_id": "6177ed4496f41b60a76ebbe7"
+    },
+    {
+      "business_id": "F17BDHOhnZqUK42dUHmwDw",
+      "mongo_id": "6177ed4496f41b60a76ec173"
+    },
+    {
+      "business_id": "vN2l24gtzxRw_nqCoLy3RA",
+      "mongo_id": "6177ed4496f41b60a76ec311"
+    },
+    {
+      "business_id": "r802JbgczFezY49kuhW6wg",
+      "mongo_id": "6177ed4496f41b60a76ed2d2"
+    },
+    {
+      "business_id": "yUdhLOSqQf3mOhgz6ukIZA",
+      "mongo_id": "6177ed4496f41b60a76ed578"
+    },
+    {
+      "business_id": "U04bl_huLyjm-JnZgIXg0g",
+      "mongo_id": "6177ed4496f41b60a76edd55"
+    },
+    {
+      "business_id": "UT0qeFYwx1v6PwOdaCwNcw",
+      "mongo_id": "6177ed4496f41b60a76eebc0"
+    },
+    {
+      "business_id": "1HSNehrtbOSlOWMsfHylFw",
+      "mongo_id": "6177ed4496f41b60a76ef151"
+    },
+    {
+      "business_id": "1818k1WqbCyHbCI2-CJ1cg",
+      "mongo_id": "6177ed4496f41b60a76efb87"
+    },
+    {
+      "business_id": "s0INTkNshIntfZpKzeaHQA",
+      "mongo_id": "6177ed4496f41b60a76efdbb"
+    },
+    {
+      "business_id": "OhMod_jcp8kz2afxajIErA",
+      "mongo_id": "6177ed4496f41b60a76f10fc"
+    },
+    {
+      "business_id": "Zoc-ZRpaqpXSwh3yl-xXgw",
+      "mongo_id": "6177ed4496f41b60a76f1cc2"
+    },
+    {
+      "business_id": "7TBPgbjDidIYepcnzam5Nw",
+      "mongo_id": "6177ed4496f41b60a76f1dd0"
+    },
+    {
+      "business_id": "Zj8JMLuB14GzyKxGcCzjtw",
+      "mongo_id": "6177ed4496f41b60a76f2153"
+    },
+    {
+      "business_id": "T_cw7ykKxFhr2Pz_OrwR0A",
+      "mongo_id": "6177ed4496f41b60a76f29d4"
+    },
+    {
+      "business_id": "je4BLuqW6J8e3gNTDxqD8g",
+      "mongo_id": "6177ed4496f41b60a76f2a25"
+    },
+    {
+      "business_id": "eXzLnjaymNOhuawQZccK-g",
+      "mongo_id": "6177ed4596f41b60a76f64f4"
+    },
+    {
+      "business_id": "MkvqVFVyyy88OLq1fj08SA",
+      "mongo_id": "6177ed4596f41b60a76f6b1a"
+    },
+    {
+      "business_id": "bv4cOTCE1Ul2Nc0QvVjmDw",
+      "mongo_id": "6177ed4596f41b60a76f6ba1"
+    },
+    {
+      "business_id": "VobyVz_hbGNapYUfNDGyHw",
+      "mongo_id": "6177ed4596f41b60a76f70cc"
+    },
+    {
+      "business_id": "ymyT-Wc_9qLdtabv_baYHw",
+      "mongo_id": "6177ed4596f41b60a76f84b1"
+    },
+    {
+      "business_id": "ltbx3nM4jeIHK6cZfGB-Uw",
+      "mongo_id": "6177ed4596f41b60a76f8592"
+    },
+    {
+      "business_id": "0tevRe_wSB-3eyI34wLqJg",
+      "mongo_id": "6177ed4596f41b60a76f8720"
+    },
+    {
+      "business_id": "YcJ0qKCafmokC7Z2x8-50w",
+      "mongo_id": "6177ed4596f41b60a76f8bb4"
+    },
+    {
+      "business_id": "LEQVpm9zz6xJM3mHPo-hCQ",
+      "mongo_id": "6177ed4596f41b60a76fac54"
+    },
+    {
+      "business_id": "yQL8SrSETbbCI1U5esVJQw",
+      "mongo_id": "6177ed4596f41b60a76fb857"
+    }
+  ]
+}

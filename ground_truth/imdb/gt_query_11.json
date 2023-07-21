@@ -1,0 +1,9 @@
+{
+  "keyword_query": "casablanca movie",
+  "expected_documents": [
+    {
+      "id": 289,
+      "mongo_id": "61f0b3165402facb52200363"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "keyword_query": "fagin middleware",
+  "expected_documents": [
+    {
+      "key": "journals::corr::cs-DB-0204046",
+      "mongo_id": "595c2c17a7986c0872e42b80"
+    }
+  ]
+}

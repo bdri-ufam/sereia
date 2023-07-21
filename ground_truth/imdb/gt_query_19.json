@@ -1,0 +1,113 @@
+{
+  "keyword_query": "title james + bond",
+  "expected_documents": [
+    {
+      "id": 36643,
+      "mongo_id": "61f0b2e45e086bdc5aeb300b"
+    },
+    {
+      "id": 668,
+      "mongo_id": "61f0b2e45e086bdc5aeb3225"
+    },
+    {
+      "id": 253,
+      "mongo_id": "61f0b2e45e086bdc5aeb2fa5"
+    },
+    {
+      "id": 691,
+      "mongo_id": "61f0b2e45e086bdc5aeb322b"
+    },
+    {
+      "id": 36557,
+      "mongo_id": "61f0b2e75e086bdc5aeb511f"
+    },
+    {
+      "id": 206647,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9cf0"
+    },
+    {
+      "id": 84275,
+      "mongo_id": "61f0b2f05e086bdc5aebbf7a"
+    },
+    {
+      "id": 699,
+      "mongo_id": "61f0b2e45e086bdc5aeb2fad"
+    },
+    {
+      "id": 714,
+      "mongo_id": "61f0b2e35e086bdc5aeb2ad8"
+    },
+    {
+      "id": 707,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d4c"
+    },
+    {
+      "id": 708,
+      "mongo_id": "61f0b2e45e086bdc5aeb339b"
+    },
+    {
+      "id": 10764,
+      "mongo_id": "61f0b2e85e086bdc5aeb5775"
+    },
+    {
+      "id": 709,
+      "mongo_id": "61f0b2e45e086bdc5aeb2faa"
+    },
+    {
+      "id": 698,
+      "mongo_id": "61f0b2e45e086bdc5aeb3229"
+    },
+    {
+      "id": 681,
+      "mongo_id": "61f0b2e45e086bdc5aeb3388"
+    },
+    {
+      "id": 667,
+      "mongo_id": "61f0b2e65e086bdc5aeb4108"
+    },
+    {
+      "id": 36670,
+      "mongo_id": "61f0b2e65e086bdc5aeb4113"
+    },
+    {
+      "id": 682,
+      "mongo_id": "61f0b2e45e086bdc5aeb3236"
+    },
+    {
+      "id": 12208,
+      "mongo_id": "61f0b2e55e086bdc5aeb3a8d"
+    },
+    {
+      "id": 700,
+      "mongo_id": "61f0b2e65e086bdc5aeb4116"
+    },
+    {
+      "id": 657,
+      "mongo_id": "61f0b2e45e086bdc5aeb2f89"
+    },
+    {
+      "id": 710,
+      "mongo_id": "61f0b2e25e086bdc5aeb2478"
+    },
+    {
+      "id": 646,
+      "mongo_id": "61f0b2e45e086bdc5aeb2f7b"
+    },
+    {
+      "id": 660,
+      "mongo_id": "61f0b2e45e086bdc5aeb2fa8"
+    },
+    {
+      "id": 36669,
+      "mongo_id": "61f0b2e55e086bdc5aeb3ad6"
+    },
+    {
+      "id": 37724,
+      "mongo_id": "61f0b2ea5e086bdc5aeb6fb4"
+    },
+    {
+      "id": 658,
+      "mongo_id": "61f0b2e45e086bdc5aeb2f7d"
+    }
+  ]
+}

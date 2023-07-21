@@ -1,0 +1,48 @@
+[
+  {
+    "keyword_query": "will + smith",
+    "query_matches": [
+      [
+        {
+          "table": "credits",
+          "schema_filter": [],
+          "value_filter": [
+            {
+              "attribute": "cast.name",
+              "keywords": [
+                [
+                  "smith",
+                  "will"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "candidate_networks": [
+      [
+        {
+          "keyword_match": {
+            "table": "credits",
+            "schema_filter": [],
+            "value_filter": [
+              {
+                "attribute": "cast.name",
+                "keywords": [
+                  [
+                    "smith",
+                    "will"
+                  ]
+                ]
+              }
+            ]
+          },
+          "alias": "t1",
+          "outgoing_neighbors": [],
+          "incoming_neighbors": []
+        }
+      ]
+    ]
+  }
+]

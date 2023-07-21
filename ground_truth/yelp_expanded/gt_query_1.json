@@ -1,0 +1,17 @@
+{
+  "keyword_query": "businesses bricola stars 5",
+  "expected_documents": [
+    {
+      "user_id": "On8BSYfyk5uw2P5L-90WkA",
+      "review.review_id": "onvDH3NskAbCMTbrirNqsg",
+      "business.business_id": "MCpfkiDhgDZy70tOza013g",
+      "mongo_id": "627c56f59d0aba0daf1feb93"
+    },
+    {
+      "user_id": "On8BSYfyk5uw2P5L-90WkA",
+      "review.review_id": "M4ssEJTZsW5wvMTEKw7Z0A",
+      "business.business_id": "oWkjcfej-edChEM-b5YKYQ",
+      "mongo_id": "627c56f59d0aba0daf1feb93"
+    }
+  ]
+}

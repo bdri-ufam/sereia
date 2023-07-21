@@ -1,0 +1,9 @@
+{
+  "keyword_query": "the princess bride",
+  "expected_documents": [
+    {
+      "id": 2493,
+      "mongo_id": "61f0b3175402facb52200470"
+    }
+  ]
+}

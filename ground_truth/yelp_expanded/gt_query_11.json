@@ -1,0 +1,1177 @@
+{
+  "keyword_query": "gyms Austin",
+  "expected_documents": [
+    {
+      "business_id": "MaSJyD1Pi4l0Phn2BDbtnw",
+      "mongo_id": "627c56dd9d0aba0daf11e7f7"
+    },
+    {
+      "business_id": "RQMinkYijOmmkxzDrel_Cg",
+      "mongo_id": "627c56dd9d0aba0daf11e9d0"
+    },
+    {
+      "business_id": "7DdYkf-gRFzcEDe3tr9vMA",
+      "mongo_id": "627c56dd9d0aba0daf11ec98"
+    },
+    {
+      "business_id": "srpZTiH4leOB87oezTKfeQ",
+      "mongo_id": "627c56dd9d0aba0daf11edd4"
+    },
+    {
+      "business_id": "B9tVB_evGB9TkiDsLtuflQ",
+      "mongo_id": "627c56dd9d0aba0daf11edfd"
+    },
+    {
+      "business_id": "1P0gza0EoFe-mQ026yyqWw",
+      "mongo_id": "627c56dd9d0aba0daf11ee63"
+    },
+    {
+      "business_id": "e4wZ8kCTyAxqktH7dQbF-A",
+      "mongo_id": "627c56dd9d0aba0daf11efeb"
+    },
+    {
+      "business_id": "PoSfG_X6SrWU8Jo6DYPk-Q",
+      "mongo_id": "627c56dd9d0aba0daf11f152"
+    },
+    {
+      "business_id": "1p2bfq4k-tY8Ea9JuolUmw",
+      "mongo_id": "627c56dd9d0aba0daf11f4df"
+    },
+    {
+      "business_id": "QxUVzln7g5ehHPtVy2hOng",
+      "mongo_id": "627c56dd9d0aba0daf11f88f"
+    },
+    {
+      "business_id": "uEnLLlCI2shnbhTpWL1Wlg",
+      "mongo_id": "627c56dd9d0aba0daf11fd10"
+    },
+    {
+      "business_id": "eJXCD4WwLfh1PEjkTuiibw",
+      "mongo_id": "627c56dd9d0aba0daf12009b"
+    },
+    {
+      "business_id": "YlWD2ZGOVYtNKK28Jg0AaQ",
+      "mongo_id": "627c56dd9d0aba0daf12029a"
+    },
+    {
+      "business_id": "xhMEJq7VWU_1FS1IsouILw",
+      "mongo_id": "627c56dd9d0aba0daf120357"
+    },
+    {
+      "business_id": "okRhizmgWiVnqVoaobbqcw",
+      "mongo_id": "627c56dd9d0aba0daf1207a9"
+    },
+    {
+      "business_id": "ValvMRR-iXsszIrVU8K4Tg",
+      "mongo_id": "627c56dd9d0aba0daf120941"
+    },
+    {
+      "business_id": "zwOz6JjjQ0leNlKWhr5Shw",
+      "mongo_id": "627c56dd9d0aba0daf121006"
+    },
+    {
+      "business_id": "r512yhxe3cuGWaE_93N2Ig",
+      "mongo_id": "627c56dd9d0aba0daf121127"
+    },
+    {
+      "business_id": "epEUMhx16ckXTRypsoGa1w",
+      "mongo_id": "627c56dd9d0aba0daf12124a"
+    },
+    {
+      "business_id": "qLq9eedYCLaXjcy2XfZQcQ",
+      "mongo_id": "627c56dd9d0aba0daf12125d"
+    },
+    {
+      "business_id": "58rTS-d5ch_tRxsPjcBemQ",
+      "mongo_id": "627c56dd9d0aba0daf121304"
+    },
+    {
+      "business_id": "AbiWYjTuvNlh7MBcpDw6fA",
+      "mongo_id": "627c56dd9d0aba0daf1216cc"
+    },
+    {
+      "business_id": "3iTzZt-kAzVAl81GUBW05w",
+      "mongo_id": "627c56dd9d0aba0daf1217b1"
+    },
+    {
+      "business_id": "ey8CsDKuE2QhoQ2VJqJqyg",
+      "mongo_id": "627c56dd9d0aba0daf121c6d"
+    },
+    {
+      "business_id": "LWKfx1rlH1KR5DseqPRIbA",
+      "mongo_id": "627c56dd9d0aba0daf121ca0"
+    },
+    {
+      "business_id": "QR0imApul7McPu-FRfq9Fw",
+      "mongo_id": "627c56dd9d0aba0daf121e8b"
+    },
+    {
+      "business_id": "hkg9AvhWcFXkGSeW7mfSQw",
+      "mongo_id": "627c56dd9d0aba0daf121e91"
+    },
+    {
+      "business_id": "Tc9bX8S8yZYw1yzKgOzoJg",
+      "mongo_id": "627c56dd9d0aba0daf12204d"
+    },
+    {
+      "business_id": "hGnbVbjCPmmqYajtBqWVZw",
+      "mongo_id": "627c56dd9d0aba0daf1220af"
+    },
+    {
+      "business_id": "Dq4pG-919oBXfa3dutD30w",
+      "mongo_id": "627c56dd9d0aba0daf1228b6"
+    },
+    {
+      "business_id": "JLSUMP_Cnxc_anvxS7cgWA",
+      "mongo_id": "627c56dd9d0aba0daf1229ca"
+    },
+    {
+      "business_id": "G8zq5hsuxpK-aPL8DnReig",
+      "mongo_id": "627c56dd9d0aba0daf122a1d"
+    },
+    {
+      "business_id": "jEoDcoTu5UJM_4-2UhZDQw",
+      "mongo_id": "627c56dd9d0aba0daf123153"
+    },
+    {
+      "business_id": "6DZ9u5864fiQhGLc1dwFAQ",
+      "mongo_id": "627c56de9d0aba0daf12352b"
+    },
+    {
+      "business_id": "oDr9CTbADy_flKeNd_Iw9A",
+      "mongo_id": "627c56de9d0aba0daf1236db"
+    },
+    {
+      "business_id": "SwHvOyvkpNK3t6RnaFZfbQ",
+      "mongo_id": "627c56de9d0aba0daf123d99"
+    },
+    {
+      "business_id": "BFuXOYWaW1Zuhm_gZBCnsw",
+      "mongo_id": "627c56de9d0aba0daf123f7e"
+    },
+    {
+      "business_id": "xLuaTw0m6Qdtc73rEtqXfA",
+      "mongo_id": "627c56de9d0aba0daf124075"
+    },
+    {
+      "business_id": "McfVBWlfUKvpIx6k8kJmGQ",
+      "mongo_id": "627c56de9d0aba0daf1240bb"
+    },
+    {
+      "business_id": "IOOryiN1MaVBRWqEoIqcYw",
+      "mongo_id": "627c56de9d0aba0daf124193"
+    },
+    {
+      "business_id": "fQQz1yBn4XQsupDDtSinQg",
+      "mongo_id": "627c56de9d0aba0daf124322"
+    },
+    {
+      "business_id": "7ODdoPph8k_incxxJeFduA",
+      "mongo_id": "627c56de9d0aba0daf12450f"
+    },
+    {
+      "business_id": "pWULAQJqUJgzh_7AVNjj-g",
+      "mongo_id": "627c56de9d0aba0daf1245d2"
+    },
+    {
+      "business_id": "s0AQSDQyMwQwP_3SXNhhRA",
+      "mongo_id": "627c56de9d0aba0daf12460c"
+    },
+    {
+      "business_id": "5-hufGp8Fu7baNPTQBZCfA",
+      "mongo_id": "627c56de9d0aba0daf12469d"
+    },
+    {
+      "business_id": "PwZ3ptSecJoRosQ_XMP3ow",
+      "mongo_id": "627c56de9d0aba0daf124807"
+    },
+    {
+      "business_id": "WXJkPAWpegTdz1FA9rDWyA",
+      "mongo_id": "627c56de9d0aba0daf1249a3"
+    },
+    {
+      "business_id": "IsT8MemSiW_WuheF_Bny4Q",
+      "mongo_id": "627c56de9d0aba0daf124dfe"
+    },
+    {
+      "business_id": "A6_ceGNWW60RIVNRA4wbIQ",
+      "mongo_id": "627c56de9d0aba0daf12511a"
+    },
+    {
+      "business_id": "eYkoa_NPyR3UiPgj4MaCFg",
+      "mongo_id": "627c56de9d0aba0daf1251a5"
+    },
+    {
+      "business_id": "l8ubFTi4ipFNrhR1Afu5HA",
+      "mongo_id": "627c56de9d0aba0daf125514"
+    },
+    {
+      "business_id": "yTatsPMHUNNOmR7wMiMlWA",
+      "mongo_id": "627c56de9d0aba0daf1255a7"
+    },
+    {
+      "business_id": "mZgVtt_nhUanaUmai8KYdg",
+      "mongo_id": "627c56de9d0aba0daf1259a0"
+    },
+    {
+      "business_id": "YEez6J1L5jddDyCNNliDiw",
+      "mongo_id": "627c56de9d0aba0daf125de1"
+    },
+    {
+      "business_id": "43iHfx9bwXIwYxNavOMo_w",
+      "mongo_id": "627c56de9d0aba0daf126014"
+    },
+    {
+      "business_id": "3PmBH9aRAIR34YV1KbL20Q",
+      "mongo_id": "627c56de9d0aba0daf12628c"
+    },
+    {
+      "business_id": "cu7ZTNLzmtQ8x9XHLTl1xA",
+      "mongo_id": "627c56de9d0aba0daf1262c8"
+    },
+    {
+      "business_id": "D8B6Agqv5wm26BBVw3suTA",
+      "mongo_id": "627c56de9d0aba0daf12648e"
+    },
+    {
+      "business_id": "ut8tyLOk_omsJPaqW_jfSw",
+      "mongo_id": "627c56de9d0aba0daf1265cb"
+    },
+    {
+      "business_id": "jHNdJ70PrlF0hL_z2yJ7Cw",
+      "mongo_id": "627c56de9d0aba0daf126b8b"
+    },
+    {
+      "business_id": "YoTjAxKE9S41h_a3aPonXQ",
+      "mongo_id": "627c56de9d0aba0daf126c9b"
+    },
+    {
+      "business_id": "VSUmcs7x6G6vum9p-Mz-4g",
+      "mongo_id": "627c56de9d0aba0daf1270ba"
+    },
+    {
+      "business_id": "XmyYncUMxbdfdO30fruOEw",
+      "mongo_id": "627c56de9d0aba0daf12718d"
+    },
+    {
+      "business_id": "7iVbJWkslyiZ5lDzExmUEw",
+      "mongo_id": "627c56de9d0aba0daf1272b8"
+    },
+    {
+      "business_id": "-kkHh0QwK1ZYHQF17Mpw2w",
+      "mongo_id": "627c56de9d0aba0daf127326"
+    },
+    {
+      "business_id": "eseXDC5h6cIdVhVP28bvEA",
+      "mongo_id": "627c56de9d0aba0daf12735d"
+    },
+    {
+      "business_id": "qZVMOJ_2kxus2EiasLkdlA",
+      "mongo_id": "627c56de9d0aba0daf127435"
+    },
+    {
+      "business_id": "AXFYH6DBylxjRR2nNin7hw",
+      "mongo_id": "627c56de9d0aba0daf127458"
+    },
+    {
+      "business_id": "NxxDJaTuiCwCbqHe5LBG6w",
+      "mongo_id": "627c56de9d0aba0daf12779b"
+    },
+    {
+      "business_id": "QbCK_gUB8c7YVuqXtq1oiw",
+      "mongo_id": "627c56de9d0aba0daf127af7"
+    },
+    {
+      "business_id": "p1X3JAZM25nUNXNahfQv6Q",
+      "mongo_id": "627c56de9d0aba0daf127b20"
+    },
+    {
+      "business_id": "VTU1QbsyYVsWJAedxGijhQ",
+      "mongo_id": "627c56de9d0aba0daf1281af"
+    },
+    {
+      "business_id": "84waVkkFIgqnuTjm152WiA",
+      "mongo_id": "627c56de9d0aba0daf1284cf"
+    },
+    {
+      "business_id": "lpgbIA2ygDV-SBgLH0oW2Q",
+      "mongo_id": "627c56de9d0aba0daf128793"
+    },
+    {
+      "business_id": "FK1ULmbN9OhKrdfkYo7GOA",
+      "mongo_id": "627c56de9d0aba0daf128795"
+    },
+    {
+      "business_id": "7A6OyRkqvxXZNWk4aeyV5A",
+      "mongo_id": "627c56de9d0aba0daf1288a5"
+    },
+    {
+      "business_id": "4Xyb-9I_070h-6UdgJC3Tg",
+      "mongo_id": "627c56de9d0aba0daf12890c"
+    },
+    {
+      "business_id": "ndL5rUvpxJkl6jjS3UnJSg",
+      "mongo_id": "627c56de9d0aba0daf128e7c"
+    },
+    {
+      "business_id": "xf7OSZoQtUlEdCvKXPYBLw",
+      "mongo_id": "627c56de9d0aba0daf128fef"
+    },
+    {
+      "business_id": "iv3U_qu_H-zEopEuTYBWmQ",
+      "mongo_id": "627c56de9d0aba0daf1291bd"
+    },
+    {
+      "business_id": "BP-LFA4aOqX2OQcaLiFiaw",
+      "mongo_id": "627c56de9d0aba0daf129663"
+    },
+    {
+      "business_id": "Cb1daSPRz_uqX6huiFlupQ",
+      "mongo_id": "627c56de9d0aba0daf1299a3"
+    },
+    {
+      "business_id": "DXaWDWcdVnBhu1QPwchabA",
+      "mongo_id": "627c56de9d0aba0daf129a13"
+    },
+    {
+      "business_id": "dzTD0x-B3FEFi1zX9m8oFw",
+      "mongo_id": "627c56de9d0aba0daf129f59"
+    },
+    {
+      "business_id": "q7mheOksZ7V7HygJO6JxEg",
+      "mongo_id": "627c56de9d0aba0daf12a05b"
+    },
+    {
+      "business_id": "FN56jli1S1E2667JbQhK9g",
+      "mongo_id": "627c56de9d0aba0daf12a200"
+    },
+    {
+      "business_id": "U0tqE-8mfNyuOSDF0hiIpQ",
+      "mongo_id": "627c56de9d0aba0daf12a211"
+    },
+    {
+      "business_id": "iaMXBM94HUsq_xYJwFmiPw",
+      "mongo_id": "627c56de9d0aba0daf12a214"
+    },
+    {
+      "business_id": "q--LB3R9856T-Z66H4wGJw",
+      "mongo_id": "627c56de9d0aba0daf12a735"
+    },
+    {
+      "business_id": "vwcZmbeMY4z9h_U0u4bOhg",
+      "mongo_id": "627c56de9d0aba0daf12ad1f"
+    },
+    {
+      "business_id": "oFVHEs0dN28P2ImZvmJaAQ",
+      "mongo_id": "627c56de9d0aba0daf12ae18"
+    },
+    {
+      "business_id": "IaeFgnGnqN9-3l8nGkZH2w",
+      "mongo_id": "627c56de9d0aba0daf12ae61"
+    },
+    {
+      "business_id": "Nn58eiGclidDQsHJEvOGsg",
+      "mongo_id": "627c56de9d0aba0daf12b5a3"
+    },
+    {
+      "business_id": "S24UfvzPbeuAbsmlDgRT4w",
+      "mongo_id": "627c56de9d0aba0daf12b637"
+    },
+    {
+      "business_id": "5ojWh3KKSKQCCC1z6DjE2w",
+      "mongo_id": "627c56de9d0aba0daf12ba23"
+    },
+    {
+      "business_id": "OVEaUnlx__yK8_uD_sib0w",
+      "mongo_id": "627c56de9d0aba0daf12ba38"
+    },
+    {
+      "business_id": "6fiZiMpNoccdhzAQghFojA",
+      "mongo_id": "627c56de9d0aba0daf12bc1d"
+    },
+    {
+      "business_id": "g16gXAa24B2g1BzHap7fcg",
+      "mongo_id": "627c56de9d0aba0daf12bc6a"
+    },
+    {
+      "business_id": "FO-WF4ixw6QNGi_0QWRfAg",
+      "mongo_id": "627c56de9d0aba0daf12bed4"
+    },
+    {
+      "business_id": "f7xAmoRhcA9xYvEEZSGoEg",
+      "mongo_id": "627c56de9d0aba0daf12c771"
+    },
+    {
+      "business_id": "K32p6tbC4nutoG1-lryTcg",
+      "mongo_id": "627c56de9d0aba0daf12c9ab"
+    },
+    {
+      "business_id": "gaLjlhxmzmj692Hi9e5ZFg",
+      "mongo_id": "627c56de9d0aba0daf12ca6a"
+    },
+    {
+      "business_id": "zaZsxKGffrxbmFvTYjU5JQ",
+      "mongo_id": "627c56df9d0aba0daf12d019"
+    },
+    {
+      "business_id": "XyQVgDkzdiKpxgRbhqQ_fg",
+      "mongo_id": "627c56df9d0aba0daf12d280"
+    },
+    {
+      "business_id": "7gIIKg6O1vmt65MPjK5CZg",
+      "mongo_id": "627c56df9d0aba0daf12de52"
+    },
+    {
+      "business_id": "ey4Z1XyPOvmht_DOfqfHgw",
+      "mongo_id": "627c56df9d0aba0daf12e192"
+    },
+    {
+      "business_id": "7kMfWYLhuy4psjPBe8QYWA",
+      "mongo_id": "627c56df9d0aba0daf12e2e0"
+    },
+    {
+      "business_id": "fHsqxDlJVyS0HGk-Mrajwg",
+      "mongo_id": "627c56df9d0aba0daf12e565"
+    },
+    {
+      "business_id": "mAgzMnfriN4EbvRlbyI0fw",
+      "mongo_id": "627c56df9d0aba0daf12e748"
+    },
+    {
+      "business_id": "AMke-o-QJz0a9nu8x9LO3g",
+      "mongo_id": "627c56df9d0aba0daf12e8d1"
+    },
+    {
+      "business_id": "NBQ_YoDGUfwgDRWcvHTknQ",
+      "mongo_id": "627c56df9d0aba0daf12edde"
+    },
+    {
+      "business_id": "K2docDu36Y5pdsQ2xOsn9w",
+      "mongo_id": "627c56df9d0aba0daf12ef70"
+    },
+    {
+      "business_id": "J8K6qbMMbx4cqdu7jLQUqw",
+      "mongo_id": "627c56df9d0aba0daf12f0d4"
+    },
+    {
+      "business_id": "7wSTtendw3AjmClW6KKAiQ",
+      "mongo_id": "627c56df9d0aba0daf12f33a"
+    },
+    {
+      "business_id": "Cch5FevzejFCqPFVrRi5zA",
+      "mongo_id": "627c56df9d0aba0daf12f77c"
+    },
+    {
+      "business_id": "sScm8Ct9_x0g2iTIGA7ZiA",
+      "mongo_id": "627c56df9d0aba0daf12f972"
+    },
+    {
+      "business_id": "P962Xm-MwsC642WPbzs7IA",
+      "mongo_id": "627c56df9d0aba0daf12faf7"
+    },
+    {
+      "business_id": "bGfIdDRIn4jXGTSlCUgT4g",
+      "mongo_id": "627c56df9d0aba0daf12fdd7"
+    },
+    {
+      "business_id": "LvC9-XWrChqc20F18NQ6Kg",
+      "mongo_id": "627c56df9d0aba0daf12ffe0"
+    },
+    {
+      "business_id": "AQ8b6edV1uokyFFZlDDGcA",
+      "mongo_id": "627c56df9d0aba0daf130417"
+    },
+    {
+      "business_id": "N_ui61AieP4yT1ErtaETMQ",
+      "mongo_id": "627c56df9d0aba0daf1304e6"
+    },
+    {
+      "business_id": "sTrxCkwXAqmUgE0K9VPt3A",
+      "mongo_id": "627c56df9d0aba0daf130637"
+    },
+    {
+      "business_id": "BuzHfLBglwHobAdV2tuV-Q",
+      "mongo_id": "627c56df9d0aba0daf1309d0"
+    },
+    {
+      "business_id": "-Et0WED21LcwLLsUEzekow",
+      "mongo_id": "627c56df9d0aba0daf130bc8"
+    },
+    {
+      "business_id": "jBfSDiq6y7t5-5Pmqfybmg",
+      "mongo_id": "627c56df9d0aba0daf130c68"
+    },
+    {
+      "business_id": "VtVAkaayk0MqA7fSzIg9UA",
+      "mongo_id": "627c56df9d0aba0daf130da7"
+    },
+    {
+      "business_id": "vN0f1EaHKGsEf529ghXGEQ",
+      "mongo_id": "627c56df9d0aba0daf130ea8"
+    },
+    {
+      "business_id": "xm4QAhRiwd6Urq6kulguZg",
+      "mongo_id": "627c56df9d0aba0daf13108f"
+    },
+    {
+      "business_id": "m32g2h9_iMYM_svKwphYDA",
+      "mongo_id": "627c56df9d0aba0daf1312b3"
+    },
+    {
+      "business_id": "r6EKTmatzoGyoKSAJ9rZ5g",
+      "mongo_id": "627c56df9d0aba0daf131452"
+    },
+    {
+      "business_id": "3p0N7XAKKkfbr_ivlgKirQ",
+      "mongo_id": "627c56df9d0aba0daf1314b1"
+    },
+    {
+      "business_id": "rfeWE9EDVXFQw95psoNwgw",
+      "mongo_id": "627c56df9d0aba0daf131589"
+    },
+    {
+      "business_id": "GYiouPdrs1CNiLkn2opHVg",
+      "mongo_id": "627c56df9d0aba0daf131cdc"
+    },
+    {
+      "business_id": "n1kmIKjzAFNDBhHyhZrSSg",
+      "mongo_id": "627c56df9d0aba0daf131cf2"
+    },
+    {
+      "business_id": "HR5WpkM9rFHJaSTXHkxsaQ",
+      "mongo_id": "627c56df9d0aba0daf131d08"
+    },
+    {
+      "business_id": "h_rMSbapwgYQgKlDOeqvAw",
+      "mongo_id": "627c56df9d0aba0daf131d0d"
+    },
+    {
+      "business_id": "cMpdy1D5oYI1QklGiL0RkA",
+      "mongo_id": "627c56df9d0aba0daf132113"
+    },
+    {
+      "business_id": "SgS9XALrjhDcs_ObXrqHMA",
+      "mongo_id": "627c56df9d0aba0daf132134"
+    },
+    {
+      "business_id": "X_z_vFObtFch8mH0jHdc5w",
+      "mongo_id": "627c56df9d0aba0daf1321a4"
+    },
+    {
+      "business_id": "i1sSzRm_Sq5f2wWr8A4Snw",
+      "mongo_id": "627c56df9d0aba0daf13222c"
+    },
+    {
+      "business_id": "ZFzJeR7bpNKogY4bgwCSaA",
+      "mongo_id": "627c56df9d0aba0daf13262d"
+    },
+    {
+      "business_id": "p_xu7cOSlEKh-_glgBnoEA",
+      "mongo_id": "627c56df9d0aba0daf1326f1"
+    },
+    {
+      "business_id": "xqwD0TPwhcApSxxTVTna7g",
+      "mongo_id": "627c56df9d0aba0daf1329d7"
+    },
+    {
+      "business_id": "ywouHV9VNQgz3w8r4kIPjQ",
+      "mongo_id": "627c56df9d0aba0daf132c1d"
+    },
+    {
+      "business_id": "6X8XUK2tB9isAzve4ZASjg",
+      "mongo_id": "627c56df9d0aba0daf13310a"
+    },
+    {
+      "business_id": "VW59G4x_QEIlACHxalwXDw",
+      "mongo_id": "627c56df9d0aba0daf133540"
+    },
+    {
+      "business_id": "K05lq-tEaMMqPcmlBvL8WA",
+      "mongo_id": "627c56df9d0aba0daf133931"
+    },
+    {
+      "business_id": "ssbVOvgCmAo6Nlg0QvonBg",
+      "mongo_id": "627c56df9d0aba0daf133a0f"
+    },
+    {
+      "business_id": "slzmyVxmk70TYydKIj1BnQ",
+      "mongo_id": "627c56df9d0aba0daf133def"
+    },
+    {
+      "business_id": "9ifWH54zTUFwVU_gHbkTgQ",
+      "mongo_id": "627c56df9d0aba0daf133f15"
+    },
+    {
+      "business_id": "4oBU8ioa4Rawu1NfO1brRw",
+      "mongo_id": "627c56df9d0aba0daf133f3b"
+    },
+    {
+      "business_id": "LC6i67ce5h3Io3xiRpsoEQ",
+      "mongo_id": "627c56df9d0aba0daf134099"
+    },
+    {
+      "business_id": "RfTDfbL9f77fwTwt6LwJuw",
+      "mongo_id": "627c56df9d0aba0daf13468d"
+    },
+    {
+      "business_id": "IbjplBDZSB5Pq-MiJOOREg",
+      "mongo_id": "627c56df9d0aba0daf134894"
+    },
+    {
+      "business_id": "slpAnm0H4k1UyXtCNAf3CA",
+      "mongo_id": "627c56df9d0aba0daf1349bc"
+    },
+    {
+      "business_id": "LweOPl4n6XnbgxDxeTALkg",
+      "mongo_id": "627c56df9d0aba0daf134ab5"
+    },
+    {
+      "business_id": "-eVUxQ6IlMseNSDK0oifFw",
+      "mongo_id": "627c56df9d0aba0daf134c34"
+    },
+    {
+      "business_id": "aWpNZoX2qy-sJQi-DdVJ4w",
+      "mongo_id": "627c56df9d0aba0daf1350fa"
+    },
+    {
+      "business_id": "YrXWSXGJ7Og9jbws8YQCdQ",
+      "mongo_id": "627c56df9d0aba0daf135266"
+    },
+    {
+      "business_id": "kPY097dXTFfmQ-M-BsSU6A",
+      "mongo_id": "627c56df9d0aba0daf13537b"
+    },
+    {
+      "business_id": "FGgmFxcddTGkjQdqtYCSDw",
+      "mongo_id": "627c56df9d0aba0daf13564a"
+    },
+    {
+      "business_id": "QQQCnjGvFrNqxtx0loCrvA",
+      "mongo_id": "627c56df9d0aba0daf135dc4"
+    },
+    {
+      "business_id": "6_dhU8mb5nGoA9iPDUnsCA",
+      "mongo_id": "627c56df9d0aba0daf136037"
+    },
+    {
+      "business_id": "HFFl_6LmEgm15wLrzoBGYw",
+      "mongo_id": "627c56df9d0aba0daf136258"
+    },
+    {
+      "business_id": "d7-mncVCkSrltQTT0jsNKg",
+      "mongo_id": "627c56df9d0aba0daf1363bd"
+    },
+    {
+      "business_id": "1l6UDfzSNlmNW-F800x7PQ",
+      "mongo_id": "627c56df9d0aba0daf136709"
+    },
+    {
+      "business_id": "Seg16hCnPYkdiZm5GhfkcA",
+      "mongo_id": "627c56df9d0aba0daf136981"
+    },
+    {
+      "business_id": "FgjOFYmy5QaEOKT_0OE56A",
+      "mongo_id": "627c56df9d0aba0daf1369bb"
+    },
+    {
+      "business_id": "O9uZ8FWLr96Cg1nT6xA45Q",
+      "mongo_id": "627c56df9d0aba0daf136a4f"
+    },
+    {
+      "business_id": "JzQrcgDtYHTvQ0N3XKfghg",
+      "mongo_id": "627c56e09d0aba0daf13723f"
+    },
+    {
+      "business_id": "Z0nZBrWsk9dzegre4RRbOQ",
+      "mongo_id": "627c56e09d0aba0daf1376b7"
+    },
+    {
+      "business_id": "kk6-WYSCnTnnreRLyPAGsg",
+      "mongo_id": "627c56e09d0aba0daf137727"
+    },
+    {
+      "business_id": "AF2ZHkDuAZyCjHeOp2vFFQ",
+      "mongo_id": "627c56e09d0aba0daf1379e0"
+    },
+    {
+      "business_id": "nKQlg4elLQWc7YHtpefjjg",
+      "mongo_id": "627c56e09d0aba0daf137c78"
+    },
+    {
+      "business_id": "X0aq95ehuopU6G_OClZrmg",
+      "mongo_id": "627c56e09d0aba0daf137de7"
+    },
+    {
+      "business_id": "r9TRhfG_omsdt6_ZCri3PQ",
+      "mongo_id": "627c56e09d0aba0daf137e69"
+    },
+    {
+      "business_id": "GUazeTrpsdRdHyZyTYCubw",
+      "mongo_id": "627c56e09d0aba0daf1380fc"
+    },
+    {
+      "business_id": "Y3F-pxqWGaUGgTe1YUM39w",
+      "mongo_id": "627c56e09d0aba0daf138336"
+    },
+    {
+      "business_id": "yLwnRnBXH2MvkK0Hylf41A",
+      "mongo_id": "627c56e09d0aba0daf1384ea"
+    },
+    {
+      "business_id": "J8CTxoaaPPfKrrYANIT4Rw",
+      "mongo_id": "627c56e09d0aba0daf138584"
+    },
+    {
+      "business_id": "gswCZe1Bt3sZGtroFPFY4Q",
+      "mongo_id": "627c56e09d0aba0daf1385d7"
+    },
+    {
+      "business_id": "zBxGfHFds0ltCj2w-gphsw",
+      "mongo_id": "627c56e09d0aba0daf1386da"
+    },
+    {
+      "business_id": "PKNGD3CCzLVuOfvsPM7DVw",
+      "mongo_id": "627c56e09d0aba0daf138741"
+    },
+    {
+      "business_id": "y1lHqO7K0bbgLzOhBczSxw",
+      "mongo_id": "627c56e09d0aba0daf138a30"
+    },
+    {
+      "business_id": "3yzymas77SOW9JB4b7s0Rg",
+      "mongo_id": "627c56e09d0aba0daf138c7d"
+    },
+    {
+      "business_id": "vLnV9_-7RkGm2lrppxHuvQ",
+      "mongo_id": "627c56e09d0aba0daf138cb8"
+    },
+    {
+      "business_id": "Hvln9fM_gYmKOBMhx0j_DQ",
+      "mongo_id": "627c56e09d0aba0daf138f97"
+    },
+    {
+      "business_id": "nC7kZYEdQNimwpHiKkNoWQ",
+      "mongo_id": "627c56e09d0aba0daf1393d2"
+    },
+    {
+      "business_id": "skWX7NvGig3fSj9vcL2xOQ",
+      "mongo_id": "627c56e09d0aba0daf13940c"
+    },
+    {
+      "business_id": "iBc30EQsRML9SeR8xDjCkA",
+      "mongo_id": "627c56e09d0aba0daf13989e"
+    },
+    {
+      "business_id": "_fKq4p56CsRHwgcsCo9z7g",
+      "mongo_id": "627c56e09d0aba0daf139e91"
+    },
+    {
+      "business_id": "eVkPPXI9gx4yJl5QjmCVkQ",
+      "mongo_id": "627c56e09d0aba0daf13a128"
+    },
+    {
+      "business_id": "uIkKcLXM3uXLfEQOvzTLSA",
+      "mongo_id": "627c56e09d0aba0daf13a173"
+    },
+    {
+      "business_id": "1oONbkQVH72AmAUtt9MD-Q",
+      "mongo_id": "627c56e09d0aba0daf13a326"
+    },
+    {
+      "business_id": "wY-GZoWBpSvunDyqxzMsQA",
+      "mongo_id": "627c56e09d0aba0daf13a382"
+    },
+    {
+      "business_id": "xRjn4GKcmXbRBA4MmweVmg",
+      "mongo_id": "627c56e09d0aba0daf13a46d"
+    },
+    {
+      "business_id": "CLmiBKTcEJRMMY24yi-EvA",
+      "mongo_id": "627c56e09d0aba0daf13a4c0"
+    },
+    {
+      "business_id": "grPGKI4990VA9dz3b-R_WQ",
+      "mongo_id": "627c56e09d0aba0daf13a4c2"
+    },
+    {
+      "business_id": "sMIo9ODb8KfHEbgfDv3t8A",
+      "mongo_id": "627c56e09d0aba0daf13a634"
+    },
+    {
+      "business_id": "fUIlqHD3tUqI6GVr4uuYzA",
+      "mongo_id": "627c56e09d0aba0daf13a9db"
+    },
+    {
+      "business_id": "hYB-iBp35ZYTH9CSBCnRJA",
+      "mongo_id": "627c56e09d0aba0daf13aa85"
+    },
+    {
+      "business_id": "CIdFpf4LJA7kbgRYN5ty3A",
+      "mongo_id": "627c56e09d0aba0daf13ab50"
+    },
+    {
+      "business_id": "5mlWNPiZacAgjjNHaV-y6w",
+      "mongo_id": "627c56e09d0aba0daf13ada0"
+    },
+    {
+      "business_id": "vRtJwgXP1ELFVTlw6qeuHw",
+      "mongo_id": "627c56e09d0aba0daf13ae6b"
+    },
+    {
+      "business_id": "T7gB01cIBnHaxoP1L7arIw",
+      "mongo_id": "627c56e09d0aba0daf13b299"
+    },
+    {
+      "business_id": "bMGhxXwrktLshwFVVUqfpw",
+      "mongo_id": "627c56e09d0aba0daf13b54e"
+    },
+    {
+      "business_id": "jDhdhr6aHOZn2ujrpUd1lQ",
+      "mongo_id": "627c56e09d0aba0daf13b6e0"
+    },
+    {
+      "business_id": "ueNpUOnwODwu5ua3OgabHw",
+      "mongo_id": "627c56e09d0aba0daf13b7fb"
+    },
+    {
+      "business_id": "pG6WVfaZoy2_Ase0enYgFA",
+      "mongo_id": "627c56e09d0aba0daf13bf85"
+    },
+    {
+      "business_id": "FbywKJnOFBvfp8b3VnrJQg",
+      "mongo_id": "627c56e09d0aba0daf13c40a"
+    },
+    {
+      "business_id": "LqtHOPCs6Cv9ukYpI9BDBQ",
+      "mongo_id": "627c56e09d0aba0daf13c42c"
+    },
+    {
+      "business_id": "yxxR-9ETCcYGFuVR4Ucw4w",
+      "mongo_id": "627c56e09d0aba0daf13c545"
+    },
+    {
+      "business_id": "-SgEbEOt0TCYPsYvuYaMJA",
+      "mongo_id": "627c56e09d0aba0daf13c7ad"
+    },
+    {
+      "business_id": "fy_nOBZGPdzp-JOt-3Yh0g",
+      "mongo_id": "627c56e09d0aba0daf13ce06"
+    },
+    {
+      "business_id": "W6LeQpwUaz8yhx7FpgfeHQ",
+      "mongo_id": "627c56e09d0aba0daf13ce3b"
+    },
+    {
+      "business_id": "dA1ztxLEDdcYxtAVjVyaKA",
+      "mongo_id": "627c56e09d0aba0daf13cedb"
+    },
+    {
+      "business_id": "Yd46QoBxv4e655nNasIUIQ",
+      "mongo_id": "627c56e09d0aba0daf13d144"
+    },
+    {
+      "business_id": "RnZvBq2-fV-HbmVss3Id5Q",
+      "mongo_id": "627c56e09d0aba0daf13d152"
+    },
+    {
+      "business_id": "Nb_WQa8ja9GxNuxe8eCMdA",
+      "mongo_id": "627c56e09d0aba0daf13d1e6"
+    },
+    {
+      "business_id": "3sGBku0CjzrnYfgNnMvX3Q",
+      "mongo_id": "627c56e09d0aba0daf13d2ec"
+    },
+    {
+      "business_id": "jUEREAbaVZIFd_a7OggkxA",
+      "mongo_id": "627c56e09d0aba0daf13d392"
+    },
+    {
+      "business_id": "XNoDY1bgZtSru-KLkDJvsw",
+      "mongo_id": "627c56e09d0aba0daf13d411"
+    },
+    {
+      "business_id": "HosVWS8_NV_iCLktOsDaEw",
+      "mongo_id": "627c56e09d0aba0daf13d4ff"
+    },
+    {
+      "business_id": "ISGCuHNQ4O__Sh30tjXZsg",
+      "mongo_id": "627c56e09d0aba0daf13d580"
+    },
+    {
+      "business_id": "nt6n-cPIqsycMFBDqKj4Jw",
+      "mongo_id": "627c56e09d0aba0daf13d594"
+    },
+    {
+      "business_id": "xedMb3CQnhmfjDGE_A5cug",
+      "mongo_id": "627c56e09d0aba0daf13d596"
+    },
+    {
+      "business_id": "-x9GqJToAQXS768LxE-RSg",
+      "mongo_id": "627c56e09d0aba0daf13d60c"
+    },
+    {
+      "business_id": "Bmjjo7rRoNotfT7hRSW86A",
+      "mongo_id": "627c56e09d0aba0daf13d8fc"
+    },
+    {
+      "business_id": "lhGk4HtCgXOtQnESbbLiqw",
+      "mongo_id": "627c56e09d0aba0daf13da18"
+    },
+    {
+      "business_id": "ZaWi6PkOLWdey8BiUeEl2g",
+      "mongo_id": "627c56e09d0aba0daf13dcb2"
+    },
+    {
+      "business_id": "R3lFBkWdLYU1nhrCaE_v8g",
+      "mongo_id": "627c56e09d0aba0daf13dd25"
+    },
+    {
+      "business_id": "KT0_IAyhqf79N-QVX47UFw",
+      "mongo_id": "627c56e09d0aba0daf13deaf"
+    },
+    {
+      "business_id": "9w7XRBXSc8VSiwsrkyrwmA",
+      "mongo_id": "627c56e09d0aba0daf13dee6"
+    },
+    {
+      "business_id": "wG_2hEUryanD3NqiJRDCRg",
+      "mongo_id": "627c56e09d0aba0daf13e056"
+    },
+    {
+      "business_id": "-EOVoUXzyFUncTA2Y18HgQ",
+      "mongo_id": "627c56e09d0aba0daf13e0e6"
+    },
+    {
+      "business_id": "tMemkUWgFTzuxuymHYPctw",
+      "mongo_id": "627c56e09d0aba0daf13e44f"
+    },
+    {
+      "business_id": "-ICS3gv1uwvElVUlceUMuA",
+      "mongo_id": "627c56e09d0aba0daf13e86e"
+    },
+    {
+      "business_id": "zZm4L1gyfZ1rRcf1BjoSpA",
+      "mongo_id": "627c56e09d0aba0daf13eb0c"
+    },
+    {
+      "business_id": "Hc_sJ1HSe2cKvLM7RJY1fA",
+      "mongo_id": "627c56e09d0aba0daf13eff2"
+    },
+    {
+      "business_id": "vc2Bum2KWfN1ZvHpROBM9Q",
+      "mongo_id": "627c56e09d0aba0daf13f198"
+    },
+    {
+      "business_id": "e0Z6fkUKPFDOVmuiB54SHQ",
+      "mongo_id": "627c56e09d0aba0daf13f2c7"
+    },
+    {
+      "business_id": "gXzJPNLwDsdegW4Lx-e4vg",
+      "mongo_id": "627c56e09d0aba0daf13f6f0"
+    },
+    {
+      "business_id": "FV2LbWAvOLENVDNW4t-Iuw",
+      "mongo_id": "627c56e09d0aba0daf13fa1a"
+    },
+    {
+      "business_id": "KQ6Q1HPLXepzSObwiXV0IA",
+      "mongo_id": "627c56e09d0aba0daf14001f"
+    },
+    {
+      "business_id": "7knm5NSxKMm3ErOXc-w1AA",
+      "mongo_id": "627c56e09d0aba0daf14003f"
+    },
+    {
+      "business_id": "atE1_v1-godnDX5p20OxDA",
+      "mongo_id": "627c56e09d0aba0daf1401e1"
+    },
+    {
+      "business_id": "FIBWtecdRrrdGqfe2RZkgw",
+      "mongo_id": "627c56e19d0aba0daf14077c"
+    },
+    {
+      "business_id": "FmtYWfcYcY2AdWuc-VJqTQ",
+      "mongo_id": "627c56e19d0aba0daf14085c"
+    },
+    {
+      "business_id": "XFmEL8MoFtBljamCHnbkLw",
+      "mongo_id": "627c56e19d0aba0daf140b4d"
+    },
+    {
+      "business_id": "luR7Vi-_nyKoBQ_zEjNSTg",
+      "mongo_id": "627c56e19d0aba0daf140ce8"
+    },
+    {
+      "business_id": "6lRjo3yC6e9lgtGPpGfy4g",
+      "mongo_id": "627c56e19d0aba0daf140d86"
+    },
+    {
+      "business_id": "zzwK-TJsCJX5wZrdtKemPg",
+      "mongo_id": "627c56e19d0aba0daf140dcc"
+    },
+    {
+      "business_id": "nafNG3Bn-_dx-8oYDd-8wQ",
+      "mongo_id": "627c56e19d0aba0daf14194f"
+    },
+    {
+      "business_id": "i_aBx7Z7FlHeUEtyR4HGmA",
+      "mongo_id": "627c56e19d0aba0daf141bbd"
+    },
+    {
+      "business_id": "1QyTQxsQGri85sjM_SjnYg",
+      "mongo_id": "627c56e19d0aba0daf141dba"
+    },
+    {
+      "business_id": "b4ybenSAFKpp3mq5ryO5hQ",
+      "mongo_id": "627c56e19d0aba0daf141eaf"
+    },
+    {
+      "business_id": "D1sF9MtPZsx_fzbPbYopKg",
+      "mongo_id": "627c56e19d0aba0daf142010"
+    },
+    {
+      "business_id": "e5ADmYM9m6hkvqnoJzTRlg",
+      "mongo_id": "627c56e19d0aba0daf14207b"
+    },
+    {
+      "business_id": "OqTv6L0GOJoG9iwQSiwSJA",
+      "mongo_id": "627c56e19d0aba0daf142206"
+    },
+    {
+      "business_id": "90J5Piu8teZpHjGJP5tnHA",
+      "mongo_id": "627c56e19d0aba0daf1423c2"
+    },
+    {
+      "business_id": "N_Q76ECghYDm80qvboyL1w",
+      "mongo_id": "627c56e19d0aba0daf142522"
+    },
+    {
+      "business_id": "5RmOkcxERTmvSQ3rSzaDtA",
+      "mongo_id": "627c56e19d0aba0daf142574"
+    },
+    {
+      "business_id": "c_bTB8kFsc_G_OBYyIcF4g",
+      "mongo_id": "627c56e19d0aba0daf14260c"
+    },
+    {
+      "business_id": "S3blMuJ0kpXHcs5CzXjuLw",
+      "mongo_id": "627c56e19d0aba0daf14282f"
+    },
+    {
+      "business_id": "vYbrl87923Bc9n_x7A6nrA",
+      "mongo_id": "627c56e19d0aba0daf14293f"
+    },
+    {
+      "business_id": "opcA6XSiku1ouTkfyaUtJA",
+      "mongo_id": "627c56e19d0aba0daf142d40"
+    },
+    {
+      "business_id": "RYeUFrslzrnfLx2KyDxBCg",
+      "mongo_id": "627c56e19d0aba0daf142da3"
+    },
+    {
+      "business_id": "AsFGKbphXTgJ9JK4yswhVQ",
+      "mongo_id": "627c56e19d0aba0daf142f82"
+    },
+    {
+      "business_id": "jxari_BeJi7j2reRSrDnTw",
+      "mongo_id": "627c56e19d0aba0daf1431c4"
+    },
+    {
+      "business_id": "l3VLKbuoWvE_DAH_UMmiCQ",
+      "mongo_id": "627c56e19d0aba0daf143210"
+    },
+    {
+      "business_id": "0HSGnyCu1H7CePtvIRP4YQ",
+      "mongo_id": "627c56e19d0aba0daf1437ac"
+    },
+    {
+      "business_id": "GQys13MJvgGFKnsahDLrCg",
+      "mongo_id": "627c56e19d0aba0daf1439cf"
+    },
+    {
+      "business_id": "WvfhwU7dDYLU4qS6o_rpAg",
+      "mongo_id": "627c56e19d0aba0daf1439e6"
+    },
+    {
+      "business_id": "TwN7gnLnYgIYexjJu11Kgg",
+      "mongo_id": "627c56e19d0aba0daf143b02"
+    },
+    {
+      "business_id": "dN9AFTEf_C41odaTGDiUNQ",
+      "mongo_id": "627c56e19d0aba0daf143c05"
+    },
+    {
+      "business_id": "mkrx0VhSMU3p3uhyJGCoWA",
+      "mongo_id": "627c56e19d0aba0daf143cd4"
+    },
+    {
+      "business_id": "v_kVPXiBhhAoDNiPQZaP5g",
+      "mongo_id": "627c56e19d0aba0daf143e66"
+    },
+    {
+      "business_id": "3R1O9seZBrxXNU9ABEZZWg",
+      "mongo_id": "627c56e19d0aba0daf143e78"
+    },
+    {
+      "business_id": "DP0VB55vxfXs00M1HMA0gQ",
+      "mongo_id": "627c56e19d0aba0daf144167"
+    },
+    {
+      "business_id": "kpPwRDwjK-a95dB5RBAjUw",
+      "mongo_id": "627c56e19d0aba0daf1441c3"
+    },
+    {
+      "business_id": "DM2PqXeFWE6Og9MX3CpNlA",
+      "mongo_id": "627c56e19d0aba0daf1443fe"
+    },
+    {
+      "business_id": "eHal4zx2F3u56DTUJw2J6Q",
+      "mongo_id": "627c56e19d0aba0daf1447c8"
+    },
+    {
+      "business_id": "lFo01fuh61atfM7lKEmjhA",
+      "mongo_id": "627c56e19d0aba0daf1449cb"
+    },
+    {
+      "business_id": "oHMutAZZuy_nsoGf6XUE2Q",
+      "mongo_id": "627c56e19d0aba0daf144a41"
+    },
+    {
+      "business_id": "MMamBIwvPz5MpdPW1OKnhQ",
+      "mongo_id": "627c56e19d0aba0daf1451d9"
+    },
+    {
+      "business_id": "SuusSyEH5L9VxaHaMmPIjg",
+      "mongo_id": "627c56e19d0aba0daf1451f7"
+    },
+    {
+      "business_id": "EcPKa55Am6w0Gu9fo8K8LA",
+      "mongo_id": "627c56e19d0aba0daf145277"
+    },
+    {
+      "business_id": "9VE9HKOM3yW5ZpdhpZoUSg",
+      "mongo_id": "627c56e19d0aba0daf1453d1"
+    },
+    {
+      "business_id": "1bF2jmjUotAIHRQ9Trl-og",
+      "mongo_id": "627c56e19d0aba0daf1454bf"
+    },
+    {
+      "business_id": "ms4n54GbTDO6ReF_AjG2SA",
+      "mongo_id": "627c56e19d0aba0daf1454d7"
+    },
+    {
+      "business_id": "LtAw7gF3RecF1-tFsKWpcw",
+      "mongo_id": "627c56e19d0aba0daf1454df"
+    },
+    {
+      "business_id": "JVolJy_iC173XnYb4Kx83A",
+      "mongo_id": "627c56e19d0aba0daf145623"
+    },
+    {
+      "business_id": "2IlZpiMiO1m2sQj5zOLIBg",
+      "mongo_id": "627c56e19d0aba0daf1456b5"
+    }
+  ]
+}

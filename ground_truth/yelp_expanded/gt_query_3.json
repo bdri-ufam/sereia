@@ -1,0 +1,25 @@
+{
+  "keyword_query": "moroccan restaurants Texas",
+  "expected_documents": [
+    {
+      "business_id": "L5BGm0ABF3P4Njp3SiiLFw",
+      "mongo_id": "627c56dd9d0aba0daf121c64"
+    },
+    {
+      "business_id": "PVT4R8HtZixAqFOn8p3HfQ",
+      "mongo_id": "627c56de9d0aba0daf12c0ed"
+    },
+    {
+      "business_id": "Qc18dZxkWKd3MuP90X8tgA",
+      "mongo_id": "627c56df9d0aba0daf134e0c"
+    },
+    {
+      "business_id": "yRLJXOi_AMTv8lEIn2qu0w",
+      "mongo_id": "627c56e19d0aba0daf141690"
+    },
+    {
+      "business_id": "KaRPKdLdLfSNAVBbsGbcNg",
+      "mongo_id": "627c56e19d0aba0daf14543d"
+    }
+  ]
+}

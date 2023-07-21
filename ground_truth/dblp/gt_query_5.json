@@ -1,0 +1,21 @@
+{
+  "keyword_query": "patel spatial",
+  "expected_documents": [
+    {
+      "key": "conf::ssiai::PatelSK16",
+      "mongo_id": "595c2c53a7986c0872fd727a"
+    },
+    {
+      "key": "journals::corr::NaikP13",
+      "mongo_id": "595c2c1aa7986c0872e56a49"
+    },
+    {
+      "key": "conf::mm::WilsonMM01",
+      "mongo_id": "595c2c70a7986c087209c3df"
+    },
+    {
+      "key": "conf::sigmod::PatelD96",
+      "mongo_id": "595c2c41a7986c0872f5a3c2"
+    }
+  ]
+}

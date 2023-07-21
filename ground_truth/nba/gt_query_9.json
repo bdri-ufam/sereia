@@ -1,0 +1,377 @@
+{
+  "keyword_query": "lakers warriors results",
+  "expected_documents": [
+    {
+      "mongo_id": "52f2afcbddbd75540aba8c98"
+    },
+    {
+      "mongo_id": "52f2ded5861b7c6c1310f044"
+    },
+    {
+      "mongo_id": "52f311cd1b343268116794ae"
+    },
+    {
+      "mongo_id": "52f2c774ddbd75540abab68c"
+    },
+    {
+      "mongo_id": "52f2c007ddbd75540abaaadd"
+    },
+    {
+      "mongo_id": "52f2a0ddddbd75540aba7065"
+    },
+    {
+      "mongo_id": "52f2dea5861b7c6c1310eff4"
+    },
+    {
+      "mongo_id": "52f587e5b42a75c4264022b4"
+    },
+    {
+      "mongo_id": "52f2bcacddbd75540abaa45c"
+    },
+    {
+      "mongo_id": "52f2a0a3ddbd75540aba6fec"
+    },
+    {
+      "mongo_id": "52f2f50b90a4948418328677"
+    },
+    {
+      "mongo_id": "52f2b3d2ddbd75540aba93ad"
+    },
+    {
+      "mongo_id": "52f2b33addbd75540aba9294"
+    },
+    {
+      "mongo_id": "52f2c589ddbd75540abab456"
+    },
+    {
+      "mongo_id": "52f2dd3d861b7c6c1310ed7f"
+    },
+    {
+      "mongo_id": "52f2beb5ddbd75540abaa844"
+    },
+    {
+      "mongo_id": "52f2ba78ddbd75540abaa042"
+    },
+    {
+      "mongo_id": "52f2c263ddbd75540abaaf7c"
+    },
+    {
+      "mongo_id": "52f2b072ddbd75540aba8dd0"
+    },
+    {
+      "mongo_id": "52f2a4e7ddbd75540aba77ed"
+    },
+    {
+      "mongo_id": "52f2ad79ddbd75540aba8831"
+    },
+    {
+      "mongo_id": "52f2ac4cddbd75540aba85c0"
+    },
+    {
+      "mongo_id": "52f2bd62ddbd75540abaa5b2"
+    },
+    {
+      "mongo_id": "52f2c3e4ddbd75540abab242"
+    },
+    {
+      "mongo_id": "52f29fa7ddbd75540aba6ddb"
+    },
+    {
+      "mongo_id": "52f30a3e1b34326811678c96"
+    },
+    {
+      "mongo_id": "52f2d87362753da412537137"
+    },
+    {
+      "mongo_id": "52f2f93690a4948418328bf2"
+    },
+    {
+      "mongo_id": "52f2c6e5ddbd75540abab5d8"
+    },
+    {
+      "mongo_id": "52f2c84cddbd75540abab7b3"
+    },
+    {
+      "mongo_id": "52f2b389ddbd75540aba9325"
+    },
+    {
+      "mongo_id": "52f2c9cdddbd75540abab9fc"
+    },
+    {
+      "mongo_id": "52f2b7bbddbd75540aba9b08"
+    },
+    {
+      "mongo_id": "52f2e052861b7c6c1310f29d"
+    },
+    {
+      "mongo_id": "52f2acd9ddbd75540aba86e3"
+    },
+    {
+      "mongo_id": "52f586bfb42a75c426402124"
+    },
+    {
+      "mongo_id": "52f2bae7ddbd75540abaa110"
+    },
+    {
+      "mongo_id": "52f2b1a6ddbd75540aba8fae"
+    },
+    {
+      "mongo_id": "52f2c039ddbd75540abaab3d"
+    },
+    {
+      "mongo_id": "52f2b824ddbd75540aba9bd5"
+    },
+    {
+      "mongo_id": "52f583855212cd7c152311ff"
+    },
+    {
+      "mongo_id": "52f2a84dddbd75540aba7e52"
+    },
+    {
+      "mongo_id": "52f2aa63ddbd75540aba8229"
+    },
+    {
+      "mongo_id": "52f2b4deddbd75540aba959f"
+    },
+    {
+      "mongo_id": "52f2b9b0ddbd75540aba9ed7"
+    },
+    {
+      "mongo_id": "52f2f5e890a494841832878e"
+    },
+    {
+      "mongo_id": "52f2a2acddbd75540aba73df"
+    },
+    {
+      "mongo_id": "52f2b310ddbd75540aba924c"
+    },
+    {
+      "mongo_id": "52f584acb42a75c426401e47"
+    },
+    {
+      "mongo_id": "52f2c36eddbd75540abab167"
+    },
+    {
+      "mongo_id": "52f582df5212cd7c15231121"
+    },
+    {
+      "mongo_id": "52f30e8b1b34326811679198"
+    },
+    {
+      "mongo_id": "52f2e0d6861b7c6c1310f37e"
+    },
+    {
+      "mongo_id": "52f2a679ddbd75540aba7af2"
+    },
+    {
+      "mongo_id": "52f2b04addbd75540aba8d85"
+    },
+    {
+      "mongo_id": "52f2f78690a4948418328997"
+    },
+    {
+      "mongo_id": "52f2a924ddbd75540aba7fdf"
+    },
+    {
+      "mongo_id": "52f2a788ddbd75540aba7ce6"
+    },
+    {
+      "mongo_id": "52f2aaacddbd75540aba82ae"
+    },
+    {
+      "mongo_id": "52f2dd78861b7c6c1310ede4"
+    },
+    {
+      "mongo_id": "52f30c751b34326811678f3d"
+    },
+    {
+      "mongo_id": "52f2b40addbd75540aba9414"
+    },
+    {
+      "mongo_id": "52f585a0b42a75c426401fa6"
+    },
+    {
+      "mongo_id": "52f2c0fcddbd75540abaacb8"
+    },
+    {
+      "mongo_id": "52f2aaa4ddbd75540aba829e"
+    },
+    {
+      "mongo_id": "52f3113c1b34326811679428"
+    },
+    {
+      "mongo_id": "52f2b0cbddbd75540aba8e64"
+    },
+    {
+      "mongo_id": "52f2b904ddbd75540aba9d9c"
+    },
+    {
+      "mongo_id": "52f2aa08ddbd75540aba8181"
+    },
+    {
+      "mongo_id": "52f2ad66ddbd75540aba8809"
+    },
+    {
+      "mongo_id": "52f2b138ddbd75540aba8eff"
+    },
+    {
+      "mongo_id": "52f2b749ddbd75540aba9a31"
+    },
+    {
+      "mongo_id": "52f2ae6addbd75540aba89f7"
+    },
+    {
+      "mongo_id": "52f2b6abddbd75540aba990b"
+    },
+    {
+      "mongo_id": "52f30c521b34326811678f13"
+    },
+    {
+      "mongo_id": "52f2a832ddbd75540aba7e24"
+    },
+    {
+      "mongo_id": "52f2a9a3ddbd75540aba80cb"
+    },
+    {
+      "mongo_id": "52f2a6b7ddbd75540aba7b63"
+    },
+    {
+      "mongo_id": "52f2f47690a49484183285a7"
+    },
+    {
+      "mongo_id": "52f2bbc7ddbd75540abaa2b0"
+    },
+    {
+      "mongo_id": "52f2a12cddbd75540aba710b"
+    },
+    {
+      "mongo_id": "52f2a559ddbd75540aba78b9"
+    },
+    {
+      "mongo_id": "52f2ddfc861b7c6c1310eecc"
+    },
+    {
+      "mongo_id": "52f2a739ddbd75540aba7c55"
+    },
+    {
+      "mongo_id": "52f2a1c2ddbd75540aba722a"
+    },
+    {
+      "mongo_id": "52f2a0e5ddbd75540aba7078"
+    },
+    {
+      "mongo_id": "52f2ac0addbd75540aba853f"
+    },
+    {
+      "mongo_id": "52f2a569ddbd75540aba78d4"
+    },
+    {
+      "mongo_id": "52f2f65890a4948418328824"
+    },
+    {
+      "mongo_id": "52f581e65212cd7c15230fc0"
+    },
+    {
+      "mongo_id": "52f2e238861b7c6c1310f633"
+    },
+    {
+      "mongo_id": "52f30d6d1b34326811679056"
+    },
+    {
+      "mongo_id": "52f2be09ddbd75540abaa6f0"
+    },
+    {
+      "mongo_id": "52f2d72c62753da412536e9c"
+    },
+    {
+      "mongo_id": "52f2b2e6ddbd75540aba9201"
+    },
+    {
+      "mongo_id": "52f2d6a262753da412536d69"
+    },
+    {
+      "mongo_id": "52f2b597ddbd75540aba96f4"
+    },
+    {
+      "mongo_id": "52f2f38890a494841832845f"
+    },
+    {
+      "mongo_id": "52f2a1b7ddbd75540aba7216"
+    },
+    {
+      "mongo_id": "52f2a6deddbd75540aba7bab"
+    },
+    {
+      "mongo_id": "52f2f2ef90a4948418328382"
+    },
+    {
+      "mongo_id": "52f2c3c4ddbd75540abab207"
+    },
+    {
+      "mongo_id": "52f2c12cddbd75540abaad1e"
+    },
+    {
+      "mongo_id": "52f2e14a861b7c6c1310f44b"
+    },
+    {
+      "mongo_id": "52f2a385ddbd75540aba7542"
+    },
+    {
+      "mongo_id": "52f2e39d861b7c6c1310f921"
+    },
+    {
+      "mongo_id": "52f2a2b7ddbd75540aba73f3"
+    },
+    {
+      "mongo_id": "52f2a3dbddbd75540aba75ef"
+    },
+    {
+      "mongo_id": "52f2c06dddbd75540abaab9f"
+    },
+    {
+      "mongo_id": "52f2a422ddbd75540aba7673"
+    },
+    {
+      "mongo_id": "52f2c25bddbd75540abaaf6f"
+    },
+    {
+      "mongo_id": "52f2a4b6ddbd75540aba778f"
+    },
+    {
+      "mongo_id": "52f582165212cd7c15231007"
+    },
+    {
+      "mongo_id": "52f2ba19ddbd75540aba9f96"
+    },
+    {
+      "mongo_id": "52f2ae57ddbd75540aba89d1"
+    },
+    {
+      "mongo_id": "52f2a03bddbd75540aba6f10"
+    },
+    {
+      "mongo_id": "52f2d73e62753da412536ec6"
+    },
+    {
+      "mongo_id": "52f2bdc0ddbd75540abaa664"
+    },
+    {
+      "mongo_id": "52f30cf71b34326811678fce"
+    },
+    {
+      "mongo_id": "52f2e249861b7c6c1310f657"
+    },
+    {
+      "mongo_id": "52f2e39a861b7c6c1310f91c"
+    },
+    {
+      "mongo_id": "52f2a223ddbd75540aba72de"
+    },
+    {
+      "mongo_id": "52f2a232ddbd75540aba72fa"
+    },
+    {
+      "mongo_id": "52f2ad30ddbd75540aba879b"
+    }
+  ]
+}

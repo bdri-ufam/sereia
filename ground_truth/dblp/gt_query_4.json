@@ -1,0 +1,9 @@
+{
+  "keyword_query": "nikos intersection",
+  "expected_documents": [
+    {
+      "key": "conf::gis::MamoulisP98",
+      "mongo_id": "595c2c54a7986c0872fdf605"
+    }
+  ]
+}

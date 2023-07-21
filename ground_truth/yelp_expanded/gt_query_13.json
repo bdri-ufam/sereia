@@ -1,0 +1,157 @@
+{
+  "keyword_query": "dance schools Austin",
+  "expected_documents": [
+    {
+      "business_id": "q9jPSLJLjIpUCXqbzCE4Sg",
+      "mongo_id": "627c56dd9d0aba0daf122677"
+    },
+    {
+      "business_id": "HiTnco7Fe9sWScde3ghKrg",
+      "mongo_id": "627c56dd9d0aba0daf1227c7"
+    },
+    {
+      "business_id": "YghCrqSKDUZ_dC1oA7EGzg",
+      "mongo_id": "627c56de9d0aba0daf124d64"
+    },
+    {
+      "business_id": "Tzoxklfc3uCIeplbqV7t0Q",
+      "mongo_id": "627c56de9d0aba0daf12505e"
+    },
+    {
+      "business_id": "Tlr2ts7Gg4ZIh733fJhVNQ",
+      "mongo_id": "627c56de9d0aba0daf1262dd"
+    },
+    {
+      "business_id": "_gIHcX8agPllBSEn1XtKxQ",
+      "mongo_id": "627c56de9d0aba0daf127ab1"
+    },
+    {
+      "business_id": "3U0sRrFnkpF6k9bK3WjyMg",
+      "mongo_id": "627c56de9d0aba0daf128489"
+    },
+    {
+      "business_id": "2iWd6Nw9RBdsxZChVKF3jw",
+      "mongo_id": "627c56de9d0aba0daf128749"
+    },
+    {
+      "business_id": "xhxnA6aD18EN8Xh89p8t_w",
+      "mongo_id": "627c56de9d0aba0daf128fc6"
+    },
+    {
+      "business_id": "bWoIv2K1grlEO7iKMkbI7w",
+      "mongo_id": "627c56de9d0aba0daf129d84"
+    },
+    {
+      "business_id": "cnRRHaG8yvod-CX1gOK61Q",
+      "mongo_id": "627c56de9d0aba0daf129eaa"
+    },
+    {
+      "business_id": "1F43Qmv3RPv3JWVXxzyntg",
+      "mongo_id": "627c56de9d0aba0daf12a8dc"
+    },
+    {
+      "business_id": "luGwfUYW0KIIyZxQE8cmCg",
+      "mongo_id": "627c56de9d0aba0daf12aa5c"
+    },
+    {
+      "business_id": "yrcgwi7hYCg3VodzjHUJrQ",
+      "mongo_id": "627c56de9d0aba0daf12c685"
+    },
+    {
+      "business_id": "c_QRByRw77qnZfSa_023NQ",
+      "mongo_id": "627c56df9d0aba0daf12e96b"
+    },
+    {
+      "business_id": "iGHW3H3P9vd56_NXRyc_Hw",
+      "mongo_id": "627c56df9d0aba0daf12fc2f"
+    },
+    {
+      "business_id": "EJoUuBMOyMESw7mjMTGlQg",
+      "mongo_id": "627c56df9d0aba0daf130f5f"
+    },
+    {
+      "business_id": "H3NusOWCjZ4TcxRG_M9TKA",
+      "mongo_id": "627c56df9d0aba0daf13300b"
+    },
+    {
+      "business_id": "hYrHf9SZ1n3JKbNsK2f-9Q",
+      "mongo_id": "627c56df9d0aba0daf133bea"
+    },
+    {
+      "business_id": "nEdSd_j1rMKNq6eqF6w2Mg",
+      "mongo_id": "627c56df9d0aba0daf133fec"
+    },
+    {
+      "business_id": "8w23xH7YPrOX-z-c5oCamQ",
+      "mongo_id": "627c56df9d0aba0daf1346da"
+    },
+    {
+      "business_id": "GBLHaU3-5JHGAODe4bidPg",
+      "mongo_id": "627c56df9d0aba0daf134b75"
+    },
+    {
+      "business_id": "bYdE0eg0GxzBMPJ1Poq6gQ",
+      "mongo_id": "627c56df9d0aba0daf134e87"
+    },
+    {
+      "business_id": "GrG0LBF9UKW3TVL46sWwKA",
+      "mongo_id": "627c56df9d0aba0daf135462"
+    },
+    {
+      "business_id": "FGgmFxcddTGkjQdqtYCSDw",
+      "mongo_id": "627c56df9d0aba0daf13564a"
+    },
+    {
+      "business_id": "4IfRNa5Xx9_XVCkmuXQYuw",
+      "mongo_id": "627c56df9d0aba0daf13628d"
+    },
+    {
+      "business_id": "S4nydI15bCa9ETuaEX10FA",
+      "mongo_id": "627c56e09d0aba0daf136ee6"
+    },
+    {
+      "business_id": "Oma0L3MgA_4Hwc114JkCZQ",
+      "mongo_id": "627c56e09d0aba0daf139b63"
+    },
+    {
+      "business_id": "VWAz7opI4yr-aW39VshS9A",
+      "mongo_id": "627c56e09d0aba0daf13b394"
+    },
+    {
+      "business_id": "s6SAkc5rXzzG958rlpg1tA",
+      "mongo_id": "627c56e09d0aba0daf13c389"
+    },
+    {
+      "business_id": "hwexkrqZg65_DUQZBHXVfw",
+      "mongo_id": "627c56e09d0aba0daf13e05c"
+    },
+    {
+      "business_id": "w0T17-kcgEF5Wg2x4Jlm-Q",
+      "mongo_id": "627c56e09d0aba0daf13e583"
+    },
+    {
+      "business_id": "nAL0sKBfutOnAYv0-YUYtQ",
+      "mongo_id": "627c56e09d0aba0daf13fc7b"
+    },
+    {
+      "business_id": "Weg628INz6ry4fVmHgjdIA",
+      "mongo_id": "627c56e09d0aba0daf1405a5"
+    },
+    {
+      "business_id": "pJDUf6wQ8qDMOM_SliKb0w",
+      "mongo_id": "627c56e19d0aba0daf141c95"
+    },
+    {
+      "business_id": "bD7EhdikbLb0lPPAT2TXIg",
+      "mongo_id": "627c56e19d0aba0daf142229"
+    },
+    {
+      "business_id": "VabvPP8Uh9sGcfTDLZ44ig",
+      "mongo_id": "627c56e19d0aba0daf143a91"
+    },
+    {
+      "business_id": "MQ0IIz7K8rIn4bpqsFseWQ",
+      "mongo_id": "627c56e19d0aba0daf1452ae"
+    }
+  ]
+}

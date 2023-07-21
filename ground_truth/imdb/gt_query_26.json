@@ -1,0 +1,25 @@
+{
+  "keyword_query": "reeves wachowski",
+  "expected_documents": [
+    {
+      "id": 24914,
+      "mongo_id": "61f0b2f15e086bdc5aebd0ff"
+    },
+    {
+      "id": 14543,
+      "mongo_id": "61f0b2f15e086bdc5aebcfdb"
+    },
+    {
+      "id": 604,
+      "mongo_id": "61f0b2e55e086bdc5aeb3cc9"
+    },
+    {
+      "id": 603,
+      "mongo_id": "61f0b2e45e086bdc5aeb2e1d"
+    },
+    {
+      "id": 605,
+      "mongo_id": "61f0b2e55e086bdc5aeb3ef6"
+    }
+  ]
+}

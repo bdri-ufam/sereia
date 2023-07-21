@@ -3,20 +3,20 @@
     "host": "127.0.0.1",
     "user": "dox",
     "password": "dox@server",
-    "database": "imdb"
+    "database": "yelp_expanded"
   },
   "logging_mode": "ERROR",
   "create_index": true,
   "results_directory": "./results/",
   "plots_directory": "./plots/",
-  "dataset": "imdb",
-  "queryset": "imdb",
+  "dataset": "yelp_expanded",
+  "queryset": "yelp_expanded",
   "querysets_directory": "./querysets/",
   "dataset_config": {
     "attributes_filepath": "./indexable_dataset_attributes/{}_attributes.json",
     "dataset_directory": "./tmp/indexed_datasets/{}/",
-    "schema_index_filepath": "{}_schema_index_file.shelve",
-    "value_index_filepath": "{}_value_index_file.shelve",
-    "schema_graph_filepath": "{}_schema_graph_file.pickle"
+    "schema_index_filepath": "schema_index_file.shelve",
+    "value_index_filepath": "value_index_file.shelve",
+    "schema_graph_filepath": "schema_graph_file.pickle"
   }
 }

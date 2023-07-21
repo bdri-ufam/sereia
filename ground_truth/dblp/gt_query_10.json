@@ -1,0 +1,13 @@
+{
+  "keyword_query": "arvind parametric query optimization",
+  "expected_documents": [
+    {
+      "key": "conf::vldb::HulgeriS02",
+      "mongo_id": "595c2c4aa7986c0872f98685"
+    },
+    {
+      "key": "conf::vldb::HulgeriS03",
+      "mongo_id": "595c2c4aa7986c0872f98b18"
+    }
+  ]
+}

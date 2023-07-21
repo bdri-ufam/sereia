@@ -1,0 +1,27 @@
+query_number,vkm_count,skm_count,qm_count,cn_count
+Query 0,17,0,26,26
+Query 1,25,0,54,54
+Query 2,53,0,222,222
+Query 3,31,0,102,102
+Query 4,36,0,77,77
+Query 5,23,0,22,22
+Query 6,18,0,47,47
+Query 7,32,0,91,91
+Query 8,23,0,85,85
+Query 9,28,0,92,92
+Query 10,18,1,78,78
+Query 11,20,0,58,58
+Query 12,25,0,74,74
+Query 13,5,0,5,5
+Query 14,9,0,8,8
+Query 15,25,0,114,114
+Query 16,7,0,7,7
+Query 17,38,1,306,306
+Query 18,76,1,1467,1467
+Query 19,19,1,78,78
+Query 20,51,1,968,968
+Query 21,14,1,70,70
+Query 22,77,4,3375,3375
+Query 23,17,4,90,90
+Query 24,192,0,74557,71773
+Query 25,11,0,18,18

@@ -1,0 +1,337 @@
+{
+  "keyword_query": "nikos dimitris",
+  "expected_documents": [
+    {
+      "key": "conf::pimrc::TsolkasLPM15",
+      "mongo_id": "595c2c64a7986c0872046333"
+    },
+    {
+      "key": "journals::algorithmica::PapadiasMT01",
+      "mongo_id": "595c2bf9a7986c0872d7633b"
+    },
+    {
+      "key": "conf::pods::PapadiasMT99",
+      "mongo_id": "595c2c54a7986c0872fdeecf"
+    },
+    {
+      "key": "journals::pvldb::ArmenatzoglouPP13",
+      "mongo_id": "595c2c30a7986c0872ef6143"
+    },
+    {
+      "key": "conf::wetice::VerginadisAPM09",
+      "mongo_id": "595c2c6da7986c08720861b3"
+    },
+    {
+      "key": "conf::iccv::WangZSKSP11",
+      "mongo_id": "595c2c72a7986c08720ad75c"
+    },
+    {
+      "key": "conf::micro::FoutrisGPVG11",
+      "mongo_id": "595c2c44a7986c0872f6c812"
+    },
+    {
+      "key": "conf::esws::PapageorgiouVAM10",
+      "mongo_id": "595c2c4ba7986c0872fa2cc3"
+    },
+    {
+      "key": "conf::iiswc::KaliorakisTCFG15",
+      "mongo_id": "595c2c6ca7986c087207e349"
+    },
+    {
+      "key": "conf::esws::VerginadisPPAM12",
+      "mongo_id": "595c2c4ba7986c0872fa2d38"
+    },
+    {
+      "key": "conf::hicss::BogonikolosFL99",
+      "mongo_id": "595c2c6aa7986c0872070905"
+    },
+    {
+      "key": "journals::ijsc::PapadakisPPM14",
+      "mongo_id": "595c2c30a7986c0872ef9d18"
+    },
+    {
+      "key": "conf::kdd::KarrasMS07",
+      "mongo_id": "595c2c62a7986c0872039740"
+    },
+    {
+      "key": "journals::twc::KaragiannidisZSKT05",
+      "mongo_id": "595c2c05a7986c0872dc5d9a"
+    },
+    {
+      "key": "conf::gis::MamoulisP98",
+      "mongo_id": "595c2c54a7986c0872fdf605"
+    },
+    {
+      "key": "conf::iscc::TsolkasP16",
+      "mongo_id": "595c2c37a7986c0872f26d65"
+    },
+    {
+      "key": "journals::monet::PassasMSBMD98",
+      "mongo_id": "595c2c13a7986c0872e2d758"
+    },
+    {
+      "key": "journals::ijon::GanchevTVF07",
+      "mongo_id": "595c2c22a7986c0872e9423a"
+    },
+    {
+      "key": "conf::pci::KamalakisDMKAV14",
+      "mongo_id": "595c2c4fa7986c0872fba44b"
+    },
+    {
+      "key": "journals::tois::PapadiasMD01",
+      "mongo_id": "595c2c0fa7986c0872e0d769"
+    },
+    {
+      "key": "conf::ht::TzagarakisKCR00",
+      "mongo_id": "595c2c5ca7986c0872018aff"
+    },
+    {
+      "key": "conf::cvpr::PanagopoulosWSP11",
+      "mongo_id": "595c2c70a7986c087209feff"
+    },
+    {
+      "key": "conf::ssd::AhujaAPF15",
+      "mongo_id": "595c2c49a7986c0872f91fb7"
+    },
+    {
+      "key": "conf::gis::KaracapilidisPE95",
+      "mongo_id": "595c2c54a7986c0872fdf2e3"
+    },
+    {
+      "key": "journals::adhoc::KomninosVD07",
+      "mongo_id": "595c2c07a7986c0872dd93ae"
+    },
+    {
+      "key": "conf::sigmod::ArmenatzoglouPN15",
+      "mongo_id": "595c2c41a7986c0872f5ab5e"
+    },
+    {
+      "key": "journals::wpc::TsolkasPM13",
+      "mongo_id": "595c2c2aa7986c0872ecc615"
+    },
+    {
+      "key": "journals::eswa::PapageorgiouVAM11",
+      "mongo_id": "595c2c02a7986c0872db13de"
+    },
+    {
+      "key": "conf::sigir::PapadiasMKMA99",
+      "mongo_id": "595c2c63a7986c087204261c"
+    },
+    {
+      "key": "conf::pimrc::SagiasKZMTP04",
+      "mongo_id": "595c2c64a7986c0872047119"
+    },
+    {
+      "key": "conf::icassp::GanchevFTV04",
+      "mongo_id": "595c2c74a7986c08720b88d2"
+    },
+    {
+      "key": "conf::iscc::TsolkasPM11",
+      "mongo_id": "595c2c37a7986c0872f26944"
+    },
+    {
+      "key": "conf::ifip5-5::PapageorgiouVAM09",
+      "mongo_id": "595c2c71a7986c08720a1e09"
+    },
+    {
+      "key": "conf::isca::FoutrisGVG13",
+      "mongo_id": "595c2c52a7986c0872fd445b"
+    },
+    {
+      "key": "conf::globecom::SagiasKZM04",
+      "mongo_id": "595c2c33a7986c0872f0c534"
+    },
+    {
+      "key": "conf::ets::ValleroSTFKPGC15",
+      "mongo_id": "595c2c6ca7986c087207d78a"
+    },
+    {
+      "key": "conf::camad::LiotouTPM14",
+      "mongo_id": "595c2c59a7986c0872002169"
+    },
+    {
+      "key": "conf::icc::SkyrianoglouPS05",
+      "mongo_id": "595c2c58a7986c0872ffa717"
+    },
+    {
+      "key": "conf::civts::DenaxasMVZBSP13",
+      "mongo_id": "595c2c6da7986c0872085387"
+    },
+    {
+      "key": "conf::iscas::MaroulisSC06",
+      "mongo_id": "595c2c46a7986c0872f7d8e3"
+    },
+    {
+      "key": "conf::pci::LiapisKSXK15",
+      "mongo_id": "595c2c4fa7986c0872fba3ff"
+    },
+    {
+      "key": "conf::hpcn::PapazisD99",
+      "mongo_id": "595c2c56a7986c0872ff09fa"
+    },
+    {
+      "key": "journals::tase::KoutsoukisSGH17",
+      "mongo_id": "595c2c20a7986c0872e89288"
+    },
+    {
+      "key": "journals::ijis::PapadakisPA10",
+      "mongo_id": "595c2c25a7986c0872ea7a64"
+    },
+    {
+      "key": "conf::intenv::DiamantakiRTTCK13",
+      "mongo_id": "595c2c66a7986c0872057ddd"
+    },
+    {
+      "key": "journals::ijnvo::VerginadisAPM11",
+      "mongo_id": "595c2c04a7986c0872dbf326"
+    },
+    {
+      "key": "conf::ictai::PapadakisP03",
+      "mongo_id": "595c2c4ba7986c0872fa095d"
+    },
+    {
+      "key": "conf::mm::DelisPM98",
+      "mongo_id": "595c2c70a7986c087209baf4"
+    },
+    {
+      "key": "journals::corr::Theodorakopoulos17",
+      "mongo_id": "595c2c17a7986c0872e3f5fd"
+    },
+    {
+      "key": "journals::tsg::PanteliTMH16",
+      "mongo_id": "595c2bfda7986c0872d9979c"
+    },
+    {
+      "key": "conf::icip::MavridisP09",
+      "mongo_id": "595c2c51a7986c0872fcba34"
+    },
+    {
+      "key": "conf::iscas::ZervakisLHP03",
+      "mongo_id": "595c2c46a7986c0872f7dbf6"
+    },
+    {
+      "key": "journals::mam::ValleroTFKKSPBN15",
+      "mongo_id": "595c2c26a7986c0872eb32df"
+    },
+    {
+      "key": "journals::cn::TsolkasPM16",
+      "mongo_id": "595c2c0ea7986c0872e04b77"
+    },
+    {
+      "key": "conf::ictai::PapadakisP02",
+      "mongo_id": "595c2c4ba7986c0872fa0e03"
+    },
+    {
+      "key": "journals::wicomm::SalkintzisPS08",
+      "mongo_id": "595c2bfaa7986c0872d8207c"
+    },
+    {
+      "key": "conf::otm::BousdekisPMAM15",
+      "mongo_id": "595c2c68a7986c0872067179"
+    },
+    {
+      "key": "conf::ictai::ToumpaniarisVSZ14",
+      "mongo_id": "595c2c4ba7986c0872fa1362"
+    },
+    {
+      "key": "conf::cikm::PapadiasMM98",
+      "mongo_id": "595c2c71a7986c08720a47f8"
+    },
+    {
+      "key": "journals::aicom::KaracapilidisP98",
+      "mongo_id": "595c2bfca7986c0872d8e5e9"
+    },
+    {
+      "key": "conf::ssd::TaoMP03",
+      "mongo_id": "595c2c49a7986c0872f91f07"
+    },
+    {
+      "key": "journals::jiis::PapadakisPPM12",
+      "mongo_id": "595c2bffa7986c0872da10ff"
+    },
+    {
+      "key": "conf::pricai::KaracapilidisP96",
+      "mongo_id": "595c2c44a7986c0872f6b44f"
+    },
+    {
+      "key": "conf::tridentcom::MakrisKGKKTRP12",
+      "mongo_id": "595c2c3ea7986c0872f49ec1"
+    },
+    {
+      "key": "conf::setn::KotsiopoulosV14",
+      "mongo_id": "595c2c7fa7986c08720ef56c"
+    },
+    {
+      "key": "conf::camad::MitsolidouKTPM14",
+      "mongo_id": "595c2c59a7986c08720020f8"
+    },
+    {
+      "key": "conf::ssd::QiBSM15",
+      "mongo_id": "595c2c49a7986c0872f92053"
+    },
+    {
+      "key": "conf::hpcn::DimitrelosTSJPMDMKKK98",
+      "mongo_id": "595c2c56a7986c0872ff0b21"
+    },
+    {
+      "key": "journals::wc::SalkintzisDSPP05",
+      "mongo_id": "595c2c29a7986c0872ec9b42"
+    },
+    {
+      "key": "journals::mta::LiapisKSKX17",
+      "mongo_id": "595c2c03a7986c0872db968d"
+    },
+    {
+      "key": "journals::corr::abs-1007-5117",
+      "mongo_id": "595c2c18a7986c0872e48b17"
+    },
+    {
+      "key": "journals::comsur::VrakasGL13",
+      "mongo_id": "595c2bfea7986c0872d9a758"
+    },
+    {
+      "key": "journals::cm::TsolkasPM13",
+      "mongo_id": "595c2c0fa7986c0872e12688"
+    },
+    {
+      "key": "conf::dexaw::PapageorgiouVAM11",
+      "mongo_id": "595c2c6da7986c087208c20e"
+    },
+    {
+      "key": "journals::pami::HuangPM06",
+      "mongo_id": "595c2c27a7986c0872eb77ee"
+    },
+    {
+      "key": "conf::globecom::KaragiannidisZSTM04",
+      "mongo_id": "595c2c33a7986c0872f0dfe9"
+    },
+    {
+      "key": "conf::iolts::FoutrisGKS13",
+      "mongo_id": "595c2c5ba7986c0872011b56"
+    },
+    {
+      "key": "conf::globecom::LiotouSSCTPM16",
+      "mongo_id": "595c2c33a7986c0872f0d81b"
+    },
+    {
+      "key": "conf::ifip5-5::PatiniotakisPAVM13",
+      "mongo_id": "595c2c71a7986c08720a1eb4"
+    },
+    {
+      "key": "conf::iciap::GrammalidisBS99",
+      "mongo_id": "595c2c5aa7986c08720090d7"
+    },
+    {
+      "key": "conf::ict::LiotouTP16",
+      "mongo_id": "595c2c50a7986c0872fc221a"
+    },
+    {
+      "key": "conf::webist::KozanidisTZSC07",
+      "mongo_id": "595c2c79a7986c08720da568"
+    },
+    {
+      "key": "journals::eswa::PatiniotakisPVAM13",
+      "mongo_id": "595c2c02a7986c0872db100d"
+    }
+  ]
+}

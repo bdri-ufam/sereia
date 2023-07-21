@@ -1,0 +1,125 @@
+{
+  "keyword_query": "will + smith",
+  "expected_documents": [
+    {
+      "id": 17736,
+      "mongo_id": "61f0b2e65e086bdc5aeb402b"
+    },
+    {
+      "id": 8960,
+      "mongo_id": "61f0b2e75e086bdc5aeb5624"
+    },
+    {
+      "id": 11321,
+      "mongo_id": "61f0b2e85e086bdc5aeb580a"
+    },
+    {
+      "id": 297761,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9c0e"
+    },
+    {
+      "id": 321741,
+      "mongo_id": "61f0b2ee5e086bdc5aebaa40"
+    },
+    {
+      "id": 23210,
+      "mongo_id": "61f0b2e25e086bdc5aeb2682"
+    },
+    {
+      "id": 345920,
+      "mongo_id": "61f0b2f05e086bdc5aebc5d8"
+    },
+    {
+      "id": 82700,
+      "mongo_id": "61f0b2ea5e086bdc5aeb769b"
+    },
+    {
+      "id": 38700,
+      "mongo_id": "61f0b2ed5e086bdc5aeb9b38"
+    },
+    {
+      "id": 109443,
+      "mongo_id": "61f0b2ea5e086bdc5aeb7b80"
+    },
+    {
+      "id": 12121,
+      "mongo_id": "61f0b2e25e086bdc5aeb264e"
+    },
+    {
+      "id": 9737,
+      "mongo_id": "61f0b2e25e086bdc5aeb2505"
+    },
+    {
+      "id": 10555,
+      "mongo_id": "61f0b2e65e086bdc5aeb446d"
+    },
+    {
+      "id": 1402,
+      "mongo_id": "61f0b2e75e086bdc5aeb5000"
+    },
+    {
+      "id": 4958,
+      "mongo_id": "61f0b2e45e086bdc5aeb337e"
+    },
+    {
+      "id": 608,
+      "mongo_id": "61f0b2e55e086bdc5aeb395c"
+    },
+    {
+      "id": 602,
+      "mongo_id": "61f0b2e25e086bdc5aeb277c"
+    },
+    {
+      "id": 2048,
+      "mongo_id": "61f0b2e65e086bdc5aeb4380"
+    },
+    {
+      "id": 116149,
+      "mongo_id": "61f0b2eb5e086bdc5aeb86e6"
+    },
+    {
+      "id": 41154,
+      "mongo_id": "61f0b2e95e086bdc5aeb6e92"
+    },
+    {
+      "id": 607,
+      "mongo_id": "61f0b2e35e086bdc5aeb2a72"
+    },
+    {
+      "id": 9541,
+      "mongo_id": "61f0b2e65e086bdc5aeb409d"
+    },
+    {
+      "id": 8488,
+      "mongo_id": "61f0b2e65e086bdc5aeb4a58"
+    },
+    {
+      "id": 8489,
+      "mongo_id": "61f0b2e45e086bdc5aeb3784"
+    },
+    {
+      "id": 137321,
+      "mongo_id": "61f0b2ea5e086bdc5aeb7d76"
+    },
+    {
+      "id": 256591,
+      "mongo_id": "61f0b2ec5e086bdc5aeb939f"
+    },
+    {
+      "id": 8487,
+      "mongo_id": "61f0b2e45e086bdc5aeb2e90"
+    },
+    {
+      "id": 9798,
+      "mongo_id": "61f0b2e45e086bdc5aeb2d30"
+    },
+    {
+      "id": 8961,
+      "mongo_id": "61f0b2e55e086bdc5aeb3d83"
+    },
+    {
+      "id": 6479,
+      "mongo_id": "61f0b2e75e086bdc5aeb5429"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "keyword_query": "carmelo + anthony lebron + james",
+  "expected_documents": [
+    {
+      "mongo_id": "52f2f87790a4948418328ad4"
+    },
+    {
+      "mongo_id": "52f30b8c1b34326811678e27"
+    },
+    {
+      "mongo_id": "52f580ff5212cd7c15230e77"
+    },
+    {
+      "mongo_id": "52f30ce31b34326811678fb6"
+    },
+    {
+      "mongo_id": "52f2e1d7861b7c6c1310f568"
+    },
+    {
+      "mongo_id": "52f2e30e861b7c6c1310f7f4"
+    },
+    {
+      "mongo_id": "52f30d451b34326811679026"
+    },
+    {
+      "mongo_id": "52f58539b42a75c426401f12"
+    },
+    {
+      "mongo_id": "52f2e149861b7c6c1310f449"
+    },
+    {
+      "mongo_id": "52f581b55212cd7c15230f7c"
+    },
+    {
+      "mongo_id": "52f2d78662753da412536f62"
+    },
+    {
+      "mongo_id": "52f310811b34326811679384"
+    },
+    {
+      "mongo_id": "52f2dcc7861b7c6c1310ecae"
+    },
+    {
+      "mongo_id": "52f584b4b42a75c426401e53"
+    },
+    {
+      "mongo_id": "52f2f48290a49484183285b8"
+    },
+    {
+      "mongo_id": "52f2dd4c861b7c6c1310ed9a"
+    },
+    {
+      "mongo_id": "52f2d6a062753da412536d65"
+    }
+  ]
+}

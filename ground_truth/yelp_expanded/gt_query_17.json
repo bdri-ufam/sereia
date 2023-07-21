@@ -1,0 +1,113 @@
+{
+  "keyword_query": "bistros Vancouver",
+  "expected_documents": [
+    {
+      "business_id": "UkSNdIF54dvas25eh_CmFw",
+      "mongo_id": "627c56dd9d0aba0daf1209a9"
+    },
+    {
+      "business_id": "ancWqJc7BtHTixOZ4qKxdA",
+      "mongo_id": "627c56de9d0aba0daf125b98"
+    },
+    {
+      "business_id": "5ZescBVrxr26j8wyMWTX5A",
+      "mongo_id": "627c56de9d0aba0daf12ab43"
+    },
+    {
+      "business_id": "gCuXXHOXocujsgFKs4R7mQ",
+      "mongo_id": "627c56df9d0aba0daf12d139"
+    },
+    {
+      "business_id": "FEknUWc-ZaLTHAgJwjC_dQ",
+      "mongo_id": "627c56df9d0aba0daf12e638"
+    },
+    {
+      "business_id": "Laiv2EnIwZFMF9Jy-R0PAA",
+      "mongo_id": "627c56df9d0aba0daf12e647"
+    },
+    {
+      "business_id": "ON6pyxJ13PNEW6LdQb_aHg",
+      "mongo_id": "627c56df9d0aba0daf12e8aa"
+    },
+    {
+      "business_id": "uNo3yvlSl7hg6w-s0LnfFg",
+      "mongo_id": "627c56df9d0aba0daf12faab"
+    },
+    {
+      "business_id": "eOejwkLNUp_8FwgHIF0RFw",
+      "mongo_id": "627c56df9d0aba0daf1303f9"
+    },
+    {
+      "business_id": "HbFklMOlywwtJi6Ksgfu1g",
+      "mongo_id": "627c56df9d0aba0daf130d76"
+    },
+    {
+      "business_id": "n7cBSlfu_utOVK3QZCCWrQ",
+      "mongo_id": "627c56df9d0aba0daf131916"
+    },
+    {
+      "business_id": "KDpEDnHqRXTeBhNTmvBFiQ",
+      "mongo_id": "627c56df9d0aba0daf132b00"
+    },
+    {
+      "business_id": "0zErZVaaOhJUV1lNEqEc6Q",
+      "mongo_id": "627c56df9d0aba0daf1341fa"
+    },
+    {
+      "business_id": "olTYNCU59LmPsTY0WBf02Q",
+      "mongo_id": "627c56df9d0aba0daf134228"
+    },
+    {
+      "business_id": "oaBBSXNwlk7hOK4XIiw00A",
+      "mongo_id": "627c56df9d0aba0daf1359a4"
+    },
+    {
+      "business_id": "iafE2JEpZ_ipd89tlk1MTA",
+      "mongo_id": "627c56e09d0aba0daf13740f"
+    },
+    {
+      "business_id": "McUUjtwFNZ743LgWBLgF8A",
+      "mongo_id": "627c56e09d0aba0daf138797"
+    },
+    {
+      "business_id": "wO5ja_RW3Ay9pB3NncbVpQ",
+      "mongo_id": "627c56e09d0aba0daf13a98e"
+    },
+    {
+      "business_id": "zcl4Gd-WHQ5sqNE8CnlfFg",
+      "mongo_id": "627c56e09d0aba0daf13ac33"
+    },
+    {
+      "business_id": "w4akEdaAoTT-bIgStOqeng",
+      "mongo_id": "627c56e09d0aba0daf13cd17"
+    },
+    {
+      "business_id": "pj3EecjmDf-xnwXyfVbZmw",
+      "mongo_id": "627c56e09d0aba0daf13ef0a"
+    },
+    {
+      "business_id": "ikjE82g2f5CHeuyJdKNAbA",
+      "mongo_id": "627c56e09d0aba0daf13f1e3"
+    },
+    {
+      "business_id": "DILBOZjXtskfd1hlZqOBKw",
+      "mongo_id": "627c56e19d0aba0daf141c5b"
+    },
+    {
+      "business_id": "DUsXH-DAvHadoYewf6XPUg",
+      "mongo_id": "627c56e19d0aba0daf142e91"
+    },
+    {
+      "business_id": "uXwU4LoTN2O249qCGwpGkQ",
+      "mongo_id": "627c56e19d0aba0daf1442ab"
+    },
+    {
+      "business_id": "uZGQy70xpYkUzQxTpKoXaA",
+      "mongo_id": "627c56e19d0aba0daf144a42"
+    },
+    {
+      "business_id": "RMcxvvVJI_R9lCL95doK2w",
+      "mongo_id": "627c56e19d0aba0daf1455dd"
+    }
+  ]
+}

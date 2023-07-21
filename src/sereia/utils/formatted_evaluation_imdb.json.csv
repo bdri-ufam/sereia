@@ -1,0 +1,27 @@
+query_number,correct_qm_rank,correct_cn_rank
+Query 1,-1,-1
+Query 2,-1,-1
+Query 3,-1,-1
+Query 4,-1,-1
+Query 5,-1,-1
+Query 6,-1,-1
+Query 7,-1,-1
+Query 8,-1,-1
+Query 9,1,1
+Query 10,-1,-1
+Query 11,30,26
+Query 12,2,2
+Query 13,3,3
+Query 14,1,1
+Query 15,-1,-1
+Query 16,24,24
+Query 17,1,1
+Query 18,-1,-1
+Query 19,-1,-1
+Query 20,-1,-1
+Query 21,-1,-1
+Query 22,-1,-1
+Query 23,-1,-1
+Query 24,5,8
+Query 25,-1,-1
+Query 26,3,3

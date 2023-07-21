@@ -1,0 +1,33 @@
+{
+  "keyword_query": "name jack + ryan",
+  "expected_documents": [
+    {
+      "id": 9331,
+      "mongo_id": "61f0b2e25e086bdc5aeb25d3"
+    },
+    {
+      "id": 1669,
+      "mongo_id": "61f0b2e35e086bdc5aeb2a73"
+    },
+    {
+      "id": 12634,
+      "mongo_id": "61f0b2e65e086bdc5aeb4031"
+    },
+    {
+      "id": 4614,
+      "mongo_id": "61f0b2e55e086bdc5aeb391d"
+    },
+    {
+      "id": 137094,
+      "mongo_id": "61f0b2ea5e086bdc5aeb7c6b"
+    },
+    {
+      "id": 64160,
+      "mongo_id": "61f0b2eb5e086bdc5aeb84f4"
+    },
+    {
+      "id": 9869,
+      "mongo_id": "61f0b2e45e086bdc5aeb30af"
+    }
+  ]
+}
